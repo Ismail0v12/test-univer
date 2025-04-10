@@ -1,0 +1,2911 @@
+{
+  "questions": [
+    {
+      "question": "ARPA net deb nomlangan, 4 ta kompyuterni birlashtiruvchi tarmoq nechanchi yili ishga tushdi?",
+      "answers": [
+        {
+          "answer": "1969 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1972 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1974 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "ARPA net nechanchi yili ikkiga bo‘lindi. Milnet (Military net – harbiy tarmoq) va Internet (tarmoqlararo tarmoq)?",
+      "answers": [
+        {
+          "answer": "1982 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1969 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1972 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili tarmoqdagi kompyuterlarni bir-biri bilan bog‘lash uchun TCP – Transmission Control Protocol taklif qilindi?",
+      "answers": [
+        {
+          "answer": "1974 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1969 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1972 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili Larry Roberts tomonidan elektron pochta uchun birinchi dastur yaratildi?",
+      "answers": [
+        {
+          "answer": "1972 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1969 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1974 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu lokal tarmoq (LXT bir ofis, bino ichidagi aloqa).",
+      "answers": [
+        {
+          "answer": "LAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "CAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu kampus tarmoq, bir-biri bilan telefon yoki modemlar bilan ulanishi shart bo‘lmagan, ammo yetarlicha bir-birlaridan uzoqda joylashgan kompyuter lokal tarmog‘i.",
+      "answers": [
+        {
+          "answer": "CAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "LAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu katta tezlik bilan aloqa uzatish (100 Mbit/s) imkoniyatiga, katta radiusga (bir necha o‘n km) axborot uzatuvchi kengaytirilgan tarmoq.",
+      "answers": [
+        {
+          "answer": "MAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "CAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "LAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu keng masshtabli (mintaqaviy) maxsus qurilma va dasturlar bilan ta’minlangan aloxida tarmoqlarni birlashtiruvchi yirik tarmoq.",
+      "answers": [
+        {
+          "answer": "WAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "CAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "GAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu global (xalqaro, qit’alararo) tarmoq.",
+      "answers": [
+        {
+          "answer": "GAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "CAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu, uncha katta bo‘lmagan, bir hil mavqega ega kompyuterlar (bu yerda hamma kompyuterlar ham \"mijoz\", ya’ni tarmoqning oddiy foydalanuvchisi, ham \"server\", ya’ni tarmoq foydalanuvchilariga xizmat ko‘rsatishni ta’minlovchi bo‘lishi mumkin).",
+      "answers": [
+        {
+          "answer": "Bir hil rangli (peer-to-peer)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarqatilgan (Distributed) tarmoqlar.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Print-server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bunda serverlar tarmoq foydalanuvchilariga xizmat ko‘rsatadi, biroq tarmoqni boshqarmaydi.",
+      "answers": [
+        {
+          "answer": "Tarqatilgan (Distributed) tarmoqlar.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Print-server",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bir hil rangli (peer-to-peer)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu umumiy holda ko‘pgina mijozlarga bir nechta printer orqali xizmat ko‘rsatishni ta’minlaydi. Bunda server chop etiluvchi axborotlarni qabul qila olishi va ularni navbati bilan chop etishga chiqarishi kerak.",
+      "answers": [
+        {
+          "answer": "Print-server",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarqatilgan (Distributed) tarmoqlar.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bir hil rangli (peer-to-peer)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "- bu mijozlarga faks-modem telefon tarmoqlari bilan mujassam tarmoqli xizmat ko‘rsatishni ta’minlaydi.",
+      "answers": [
+        {
+          "answer": "Faks-server",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarqatilgan (Distributed) tarmoqlar.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Print-server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bunda mijozlar o‘rtasida, ular bir-birlaridan qancha uzoqlikda joylashganligidan qat'iy nazar, axborot almashishni ta’minlaydi. Bu yerda jarayon xuddi oddiy pochta kabi kechadi.",
+      "answers": [
+        {
+          "answer": "Elektron pochta (E-mail)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bevosita muloqot (Chat)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Print-server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bunda aniq vaqtda maxsus dastur ta’minoti yordamida ikki yoki undan ortiq mijozlar o‘zaro axborot almashinishi tushuniladi, ya’ni bir kompyuter klaviaturasida terilgan axborotlar ayni vaqtning o‘zida boshqa kompyuter ekranida paydo bo‘laveradi.",
+      "answers": [
+        {
+          "answer": "Bevosita muloqot (Chat)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Print-server",
+          "isCorrect": false
+        },
+        {
+          "answer": "Elektron pochta (E-mail)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu kompyuter tarmog’ini loyihalash va ishlab chiqish jarayoni tushunialadi.",
+      "answers": [
+        {
+          "answer": "Tarmoq arxitekturasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kompyuter tarmoqlari arxitekturasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kompyuter tarmoqlarida tarmoq elementi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - deganda kompyuterlarni o’zaro bog’lanishi, bog’lanish jarayonida qo’llaniladigan texnologiyalar, ularning xususiyalatlari, standartlari, kompyuterlar o'rtasida vazifalar qanday taqsimlanganligi va boshqa ko’plab jarayonlar tushuniladi.",
+      "answers": [
+        {
+          "answer": "Kompyuter tarmoqlari arxitekturasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarmoq arxitekturasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kompyuter tarmoqlarida tarmoq elementi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu eng kamida o’zaro ulangan ikkita kompyuterlar tizimi tushuniladi.",
+      "answers": [
+        {
+          "answer": "Kompyuter tarmoqlari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kompyuter tarmoqlari arxitekturasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq arxitekturasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu bir yoki bir nechta fizik qurilmalarni birlashtirgan holda boshqadigan ob’ekt hisoblanadi.",
+      "answers": [
+        {
+          "answer": "Kompyuter tarmoqlarida tarmoq elementi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kompyuter tarmoqlari arxitekturasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq arxitekturasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu boshqaruv tizimining bir shakli tarmoqning elementlari, protokollari, interfeyslar, qurilmalari ma’lumot bir pog’onaga mantiqan tegishli bo’ladi.",
+      "answers": [
+        {
+          "answer": "Pog’onali arxitektura",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarmoq topologiyasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Arxitektura",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu narsalarning, qurilmalarning yoki odamlarning o’zaro bog’langan tizimi yoki guruhini anglatadi.",
+      "answers": [
+        {
+          "answer": "Tarmoq",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarmoq topologiyasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Arxitektura",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu tarmoqning fizik tarkibiy qismlarini, ularning funktsional ob’ektlari, konfiguratsiyasini, printsiplari va ishlash tartiblarini va foydalaniladigan aloqa protokollarini aniqlashni ifodalaydi.",
+      "answers": [
+        {
+          "answer": "Arxitektura",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarmoq topologiyasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu aloqa tarmog'i elementlarining joylashuvi. U har xil turdagi telekommunikatsiya tarmoqlarini, shu jumladan radio tarmoqlarini, sanoat stavkalari va kompyuter tarmoqlarini aniqlash yoki tavsiflash uchun ishlatilishi mumkin.",
+      "answers": [
+        {
+          "answer": "Tarmoq topologiyasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Arxitektura",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu lokal tarmoq topologiyasida ishlatiladi, unda infratuzilma tugunlari to'g'ridan-to'g'ri, dinamik va ierarxik bo'lmagan holda boshqa ko'plab tugunlarga ulanadi va ma'lumotlarni foydalanuvchilarga samarali yo'naltirish uchun bir-biri bilan hamkorlik qiladi.",
+      "answers": [
+        {
+          "answer": "Mesh topologiyali tarmoq",
+          "isCorrect": true
+        },
+        {
+          "answer": "Torus aloqali topologiya",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kompyuter tаrmоg‘i topologiyasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bunda kompyuter tarmoqlari markazida joylashgan tarmoq elementni o’ziga ulangan qurilmalarni boshqarad.",
+      "answers": [
+        {
+          "answer": "Yulduzli topologiya",
+          "isCorrect": true
+        },
+        {
+          "answer": "Torus aloqali topologiya",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mesh topologiyali tarmoq",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu parallel kompyuter tizimidagi ishlov berish tugunlarini o'zaro bog'lash uchun kalitsiz tarmoq topologiyasi hisoblanadi.",
+      "answers": [
+        {
+          "answer": "Torus aloqali topologiya",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mesh topologiyali tarmoq",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kompyuter tаrmоg‘i topologiyasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - deganda tarmoq kompyuterlarini bir-biriga nisbatan fizik joylashtirish va ularni aloqa liniyalari bilan ulashi tushiniladi.",
+      "answers": [
+        {
+          "answer": "Kompyuter tаrmоg‘i topologiyasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Torus aloqali topologiya",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mesh topologiyali tarmoq",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - ushbu standartlashtirish sektori ITU ning Radioaloqa sohasi Xalqaro elektraloqa ittifoqining uchta sektoridan biri bo'lib, radioaloqalarni rijovlantirish uchun ma’sul sektor hisoblanadi.",
+      "answers": [
+        {
+          "answer": "ITU-R",
+          "isCorrect": true
+        },
+        {
+          "answer": "ITU-D",
+          "isCorrect": false
+        },
+        {
+          "answer": "ITU-T",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - ushbu standartlashtirish sektori telekommunikatsiya va axborot texnologiyalari kommunikatsiyalari uchun kiberxavfsizlik uchun X.509, mashinani o'rganish uchun Y.3172 va video-siqishni uchun H.264 / MPEG-4 AVC kabi standartlarni muvofiqlashtiradi.",
+      "answers": [
+        {
+          "answer": "ITU-T",
+          "isCorrect": true
+        },
+        {
+          "answer": "ITU-D",
+          "isCorrect": false
+        },
+        {
+          "answer": "ITU-R",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - ushbu standartlashtirish sektori telekommunikatsiyalarni rivojlantirish sektori bo’lib, ITU ning uchta sektoridan biridir; u rivojlanayotgan mamlakatlarda siyosat, tartibga solish va o'quv dasturlari va moliyaviy strategiyalarni yaratish uchun javobgardir.",
+      "answers": [
+        {
+          "answer": "ITU-D",
+          "isCorrect": true
+        },
+        {
+          "answer": "ITU-T",
+          "isCorrect": false
+        },
+        {
+          "answer": "ITU-R",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu Xalqaro elektr aloqa ittifoqi 1865 yil 1 mayda tashkil etilgan eng dastlabgi standartlashtirish tashkiloti bo’lib, o’sha paytlarda telegraf qurilmasi uchun birinchi standartni ishlab chiqqan va xalqaro telegraf tarmog’i tashkil etilgan.",
+      "answers": [
+        {
+          "answer": "ITU",
+          "isCorrect": true
+        },
+        {
+          "answer": "ITU-D",
+          "isCorrect": false
+        },
+        {
+          "answer": "ITU-T",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili Internetda domenlarni nomlash tizimi (Domain Name System) joriy qilindi?",
+      "answers": [
+        {
+          "answer": "1984 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1983 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1991 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili TCP/IP – Transmission Control Protocol/Internet Protocol tarmoqlar orasida ma’lumotlarni almashish protokoli Internet uchun asos qilib olindi?",
+      "answers": [
+        {
+          "answer": "1983 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1984 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1991 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili Yahoo kompaniyasiga asos solindi.?",
+      "answers": [
+        {
+          "answer": "1994 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1983 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1984 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili Tim Berners-Lee tomonidan World Wide Web (butun olam to‘ri)ga asos solindi. Internet hozirgi ko‘rinishga ega bo‘ldi?",
+      "answers": [
+        {
+          "answer": "1991 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1983 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1984 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu tarmoqni boshqarib turish va ko’p foydalanuvchi (multiuser), ko’p topshiriqli (multitasking) bo’lishi kerak.",
+      "answers": [
+        {
+          "answer": "Tarmoq operatsion sistemasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kompyuter tаrmоg‘i topologiyasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq abonenti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - deganda tarmoq kompyuterlarini bir-biriga nisbatan fizik joylashtirish va ularni aloqa liniyalari bilan ulashi tushiniladi.",
+      "answers": [
+        {
+          "answer": "Kompyuter tаrmоg‘i topologiyasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarmoq operatsion sistemasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq abonenti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu tarmoqda axborotni yuzaga keltiruvchi yoki uni istemol qiluvchi ob`ektdir.",
+      "answers": [
+        {
+          "answer": "Tarmoq abonenti",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kompyuter tаrmоg‘i topologiyasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq operatsion sistemasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu axborot uzatish va qabul qilish bilan bog’liq vazifalarni bajaruvchi ob`ektdir.",
+      "answers": [
+        {
+          "answer": "Stansiya",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kompyuter tаrmоg‘i topologiyasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq operatsion sistemasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu topologiyada shina va passiv yulduzlar kombinatsiyasi ishlatiladi. Bunda konsentratorga alohida kompyuterlar ham, va butun shinali segmentlar ham ulanadilar, ya’ni tarmoqdаgi barcha kompyuterlar kiritilgan fizik topologiya amalga oshiriladi.",
+      "answers": [
+        {
+          "answer": "Yulduz-shinali topologiya",
+          "isCorrect": true
+        },
+        {
+          "answer": "Yulduzcha",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xalqasimon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu topologiyada lokal tarmoqdagi barcha kompyuterlar bitta aloqa chizig‘iga parallel bog‘lanadi. Bunday shinalarni boshqarish ham aloxida, ham markazlashgan bo‘lishi mumkin.",
+      "answers": [
+        {
+          "answer": "Umumiy shina",
+          "isCorrect": true
+        },
+        {
+          "answer": "Xalqasimon",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yulduzcha",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu topologiyada barcha kompyuterlar yopiq xalqasimon, ketma-ket bog‘lanadilar. Bunda xabar birin-ketin kompyuterdan-kompyuterga uzatiladi. Xabarni uzatgan kompyuter yana o‘sha xabarni qayta qabul qilmaguncha, jarayon davom etaveradi.",
+      "answers": [
+        {
+          "answer": "Xalqasimon",
+          "isCorrect": true
+        },
+        {
+          "answer": "Umumiy shina",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yulduzcha",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu topologiyaga ega tarmoqlar markaziy tugunga ega (kommutator yoki kontsentrator). Mazkur markaziy tugunga barcha qolgan kompyuterlar ulanadi. Dastlab uzatilgan xabar ana shu qurilmaga kelib tushadi, so‘ng boshqa kompyuterlarga uzatiladi.",
+      "answers": [
+        {
+          "answer": "Yulduzcha",
+          "isCorrect": true
+        },
+        {
+          "answer": "Umumiy shina",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xalqasimon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu elektr, radio yoki boshqa signallar yordamida amalga oshiriladigan aloqa kanali va ma`lumotlarni uzatish, qabul qilish qurilmalaridir.",
+      "answers": [
+        {
+          "answer": "Fizik uzatish muhiti",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kabel yordamida bog‘lash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Simsiz bog‘lanish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bunda kompyuterlar bir-biri bilan koaksial, juftli o‘ramli va shisha tolali kabellar orqali maxsus tarmoq platasi yordamida bog‘lanadi.",
+      "answers": [
+        {
+          "answer": "Kabel yordamida bog‘lash",
+          "isCorrect": true
+        },
+        {
+          "answer": "Simsiz bog‘lanish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fizik uzatish muhiti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bunda kompyuterlar bir-biri bilan simsiz aloqa vositalar yordamida, ya’ni radio to‘lqinlar, infraqizil nurlar, Wi-Fi va Bluetooth texnologiyalari yordamida bog‘lanadi.",
+      "answers": [
+        {
+          "answer": "Simsiz bog‘lanish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kabel yordamida bog‘lash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fizik uzatish muhiti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu kabel turi koʻrinishidan telefon simini eslatadi. U bitta kabel ichidagi izolyatsiyalangan va bir-biriga buralgan toʻrtta juftlik mis simlardan iborat.",
+      "answers": [
+        {
+          "answer": "Juftli oʻram yoki oʻralgan juftlik kabellari (tvisted pair)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Elektr kabellear",
+          "isCorrect": false
+        },
+        {
+          "answer": "Koaksial kabellar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu kabel turida axborot elektr signali koʻrinishda emas, yorigʻlik koʻrinishida uzatiladi. Bu turdagi kabelning asosiy elementi - shaffof shisha tola boʻlib, u orqali yorugʻlik juda katta masofalarga (oʻnlab kilometrgacha) kam (sezilarsiz) soʻnish bilan uzatiladi.",
+      "answers": [
+        {
+          "answer": "Shisha tolali kabel",
+          "isCorrect": true
+        },
+        {
+          "answer": "Elektr kabellear",
+          "isCorrect": false
+        },
+        {
+          "answer": "Koaksial kabellar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu qoida va amallar to‘plami bo‘lib, aloqa olib borish tartibini boshqaradi.",
+      "answers": [
+        {
+          "answer": "Protokol",
+          "isCorrect": true
+        },
+        {
+          "answer": "Transport protokollari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq protokollari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu protokol ilovalarning muloqoti va ular o‘rtasidagi axborot almashinuvini ta’minlaydi.",
+      "answers": [
+        {
+          "answer": "Amaliy protokollar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Transport protokollari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Protokol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu protokol OSI modelining transport va aloqa vaqtini boshqarish bosqichlar vazifalarini bajaradi.",
+      "answers": [
+        {
+          "answer": "Transport protokollari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Protokol",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq protokollari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu elektron pochtalarni halqaro almashish uchun CCITT protokoli.",
+      "answers": [
+        {
+          "answer": "X.400 protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "X.500 protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "SMTP protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu bir necha tizimda fayl va katalog xizmati CCITT protokoli.",
+      "answers": [
+        {
+          "answer": "X.500 protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "X.400 protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "SMTP protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu elektron pochta almashinuvi uchun Internet global tarmoq protokoli.",
+      "answers": [
+        {
+          "answer": "SMTP protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "X.400 protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Telnet protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu fayllar uzatish uchun Internet global tarmoq protokoli.",
+      "answers": [
+        {
+          "answer": "FTP protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "SNMP protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "X.500 protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu tarmoq monitoringi, tarmoq qismlarini nazorat va ularni boshqarish protokoli.",
+      "answers": [
+        {
+          "answer": "SNMP protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Telnet protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "SMTP protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu Internet global tarmoq protokoli bo‘lib, u uzoqdagi xostlarni qayd qilish va ularda axborotga ishlov berish vazifasini bajaradi;",
+      "answers": [
+        {
+          "answer": "Telnet protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "SNMP protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "SMTP protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu protokol amaliy bosqichda ishlaydi va pochta serveridagi pochta qutisidan elektron ma’lumotlarni olish uchun ishlatiladi. Ushbu protokol faqat elektron xabarlarni qabul qilishi mumkin, ularni jo‘natish uchun esa boshqa protokoldan foydalanishga to‘g‘ri keladi.",
+      "answers": [
+        {
+          "answer": "POP3 protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "PPP (Point – to – Point Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "IMAP (Interactive Mail Access Protocol)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu protokol yana bitta pochta protokoli bo‘lib, u POP3 asosida yaratilgandir. Natijada POP3 protokolidagi hamma kamchiliklar hisobga olinib va yangi ko‘p sonli kerakli vazifalar qo‘shilgan.",
+      "answers": [
+        {
+          "answer": "IMAP (Interactive Mail Access Protocol)",
+          "isCorrect": true
+        },
+        {
+          "answer": "PPP (Point – to – Point Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "POP3 protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu axborotlarni uzatish protokoli bo’lib, doimiy Internetga ulanishni telefon kanali va oddiy modemdan foydalanib tashkil qilish uchun yaratilgan.",
+      "answers": [
+        {
+          "answer": "SLIP (Serial Line Internet Protocol)",
+          "isCorrect": true
+        },
+        {
+          "answer": "PPP (Point – to – Point Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "POP3 protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu protokol SLIP protokolining bajaradigan vazifasining biridir. Lekin u bu vazifalarni yaxshi bajaradi, chunki qo‘shimcha imkoniyatlari mavjuddir.",
+      "answers": [
+        {
+          "answer": "PPP (Point – to – Point Protocol)",
+          "isCorrect": true
+        },
+        {
+          "answer": "POP3 protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "IMAP (Interactive Mail Access Protocol)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu protokol 1976-yili yaratilgan va 1984-yili mukammallashtirilgan, u jismoniy, kanal va tarmoq bosqichlarida ISO/OSI modeli bilan bog‘lanishda ishlaydi. Bu protokolni mavjud telefon tarmog‘ida foydalanish uchun loyihalashtirilgan.",
+      "answers": [
+        {
+          "answer": "X.25 protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Apple Talk protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq protokollari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu protokol yana bitta telefon tarmog‘i orqali axborotlarni uzatishga mo‘ljallangan protokol. X.25 kabi yuqori ishonchliligidan tashqari yangi qo‘shimcha imkoniyatlarga ham egadir.",
+      "answers": [
+        {
+          "answer": "Frame Relay protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Apple Talk protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "X.25 protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu protokol Apple Computer kompaniyasining mulki bo‘lib, u Makintosh kompyuterlari bilan aloqa o‘rnatish uchun yaratilgan.",
+      "answers": [
+        {
+          "answer": "Apple Talk protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "X.25 protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoq protokollari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu qurilmalar xonadagi kompyuterlarni bir-biri bilan bogʻlash yaʻni tarmoq hosil qilish uchun kerak boʻladi.",
+      "answers": [
+        {
+          "answer": "Konsentratorlar (HUB)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kommutatorlar (Switches)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Marshrutlovchilar (routers)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu OSI modelining tarmoq darajasida ishlovchi qurilma boʻlib, bir yoki bir nechta tarmoq qismlarini birlashtirish uchun moʻljallangan. Bu qurilma paketlarni ichki jadvallar asosi yaʻni uzatish jadvallariga beradi, binobarin, trafik faqat yoʻnaltirilgan MAC-manzilgagina boradi va barcha portlarda takrorlanmaydi.",
+      "answers": [
+        {
+          "answer": "Kommutatorlar (Switches)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Marshrutlovchilar (routers)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Konsentratorlar (HUB)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu intellektual xabning oʻzi. U maʻlumotlar paketlarini hamma portlarga yubormaydi, qaysi portga qaysi kompyuter joylashganini eslab qoladi. Manzilli yozuvlarni ishlatib, komutator maʻlumotlar paketini portga yuboradi, shu portga haqiqatga ham kompyuter – manzilat joylashgan boʻladi.",
+      "answers": [
+        {
+          "answer": "Switch",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kommutatorlar (Switches)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Marshrutlovchilar (routers)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu qurilma yoʻnaltirishning maxsus algoritmlari asosida maʻlumotlarni uzatishning optimal yoʻnalishini topishda qoʻllaniladi, masalan, kam sonli tranzit tugunlarning yoʻnalishini tanlash.",
+      "answers": [
+        {
+          "answer": "Marshrutlovchilar (routers)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kommutatorlar (Switches)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Konsentratorlar (HUB)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu eng sоddа qurilmа boʻlib, ulаr yordаmidа turli ахbоrоt аlmаshish stаndаrtli tаrmоqlаrni birlаshtirishdа, yoki bir tаrmоqning bir nеchа qisimlаrini birlаshtirishdа fоydаlаnilаdi.",
+      "answers": [
+        {
+          "answer": "Koʻpriklаr",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "answer": "Trаnsivеrlаr yoki uzаtish vа qаbul qilish qurilmаlаri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu qurilma trаnsivеrgа nisbаtаn аnchа оddiy vаzifаni bаjаrаdi. U fаqаt susаygаn signаlni qаytа tiklаb аvvаlgi ya`ni uzаtilgаn vаqtidаgi koʻrinishgа (аmplitudаsi vа koʻrinishini) kеltirаdi.",
+      "answers": [
+        {
+          "answer": "Rеpeatеrlаr",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "answer": "Koʻpriklаr",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu qurilmalаr аdаptеr bilаn tаrmоq kаbеli oʻrtаsidаgi ахbоrоtni uzаtish uchun хizmаt qilаdilаr yoki tаrmоqning ikki qisimlаri (sеgmеnt) oʻrtаsidаgi ахbоrоt uzаtishni аmаlgа оshirаdилar.",
+      "answers": [
+        {
+          "answer": "Trаnsivеrlаr yoki uzаtish vа qаbul qilish qurilmаlаri",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bluetooth",
+          "isCorrect": false
+        },
+        {
+          "answer": "Koʻpriklаr",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… - bu 100 metrgacha boʻlgan masofada qurilmalar orasida simsiz maʻlumotlarni uzatish texnologiyasi.",
+      "answers": [
+        {
+          "answer": "Bluetooth",
+          "isCorrect": true
+        },
+        {
+          "answer": "Koʻpriklаr",
+          "isCorrect": false
+        },
+        {
+          "answer": "Trаnsivеrlаr yoki uzаtish vа qаbul qilish qurilmаlаri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ethernet tаrmоgʻi uchun 10 BASE 5 stаndаrtdagi ахbоrоt uzаtish muhitida qanday kabel turi ishlatiladi?",
+      "answers": [
+        {
+          "answer": "Qаlin kоаksiаl kаbеl",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ingichkа kоаksiаl kаbеl",
+          "isCorrect": false
+        },
+        {
+          "answer": "Oʻrаlgаn juftlik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ethernet tаrmоgʻi uchun 10 BASE 2 stаndаrtdagi ахbоrоt uzаtish muhitida qanday kabel turi ishlatiladi?",
+      "answers": [
+        {
+          "answer": "Ingichkа kоаksiаl kаbеl",
+          "isCorrect": true
+        },
+        {
+          "answer": "Qаlin kоаksiаl kаbеl",
+          "isCorrect": false
+        },
+        {
+          "answer": "Oʻrаlgаn juftlik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ethernet tаrmоgʻi uchun 10 BASE-2 stаndаrtdagi ахbоrоt uzаtish muhitida tarmoq qismini ruхsаt etilgаn uzunligini necha metrni tashkil etadi?",
+      "answers": [
+        {
+          "answer": "200 metr",
+          "isCorrect": true
+        },
+        {
+          "answer": "100 metr",
+          "isCorrect": false
+        },
+        {
+          "answer": "10 metr",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili IBM firmasi tomonidan Token – Ring tarmog‘i taklif qilindi?",
+      "answers": [
+        {
+          "answer": "1985 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1966 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1970 yillari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili Standart CAN (Controller Area Network) avtomobil sanoati uchun Robert Bosch kompaniyasi tomonidan Germaniyada ishlab chiqilgan?",
+      "answers": [
+        {
+          "answer": "1970 yillari",
+          "isCorrect": true
+        },
+        {
+          "answer": "1966 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1977 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili ARCNET (attached resource computing network) Datapoint korporatsiyasi tomonidan mahalliy tarmoqlarga loyihalashtirilgan?",
+      "answers": [
+        {
+          "answer": "1977 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1966 yili",
+          "isCorrect": false
+        },
+        {
+          "answer": "1970 yillari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yili Maykl Flinn buyruqlar soni va ma’lumot oqimlari asosida kompyuter arxitekturasini tasniflashni taklif qildi?",
+      "answers": [
+        {
+          "answer": "1966 yili",
+          "isCorrect": true
+        },
+        {
+          "answer": "1970 yillari",
+          "isCorrect": false
+        },
+        {
+          "answer": "1977 yili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Maykl Flinn tasnifiga ko‘ra, barcha kompyuterlarni (hisoblash tizimlarini) nechta sinfga bo‘lish mumkin?",
+      "answers": [
+        {
+          "answer": "4",
+          "isCorrect": true
+        },
+        {
+          "answer": "1",
+          "isCorrect": false
+        },
+        {
+          "answer": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "TCP/IP protokollari nechta sathga bo‘linadi?",
+      "answers": [
+        {
+          "answer": "4",
+          "isCorrect": true
+        },
+        {
+          "answer": "1",
+          "isCorrect": false
+        },
+        {
+          "answer": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu magistral tarmoqga ikkilangan ulanishli konsentrator, xalqani qayta tiklashda ishtirok etadi.",
+      "answers": [
+        {
+          "answer": "Dual Attachment Concentrator DAC",
+          "isCorrect": true
+        },
+        {
+          "answer": "Single Attachment Concentrator SAC",
+          "isCorrect": false
+        },
+        {
+          "answer": "Null Attachment Concentrator NAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bitta ulanishli konsentrator, hech qachon magistral tarmoqga ulanmaydi, faqat boshqa konsentratorga ulanadi.",
+      "answers": [
+        {
+          "answer": "Single Attachment Concentrator SAC",
+          "isCorrect": true
+        },
+        {
+          "answer": "Null Attachment Concentrator NAC",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dual Attachment Concentrator DAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu magistral tarmoqga ulanmaydi, FDDI ni ichki magistral sifatida ishlatadi.",
+      "answers": [
+        {
+          "answer": "Null Attachment Concentrator NAC",
+          "isCorrect": true
+        },
+        {
+          "answer": "Single Attachment Concentrator SAC",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dual Attachment Concentrator DAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu magistral tarmoqga yoki konsentratorga ikkilangan ulanishli stansiya, xalqani qayta tiklashda ishtirok etishi mumkin.",
+      "answers": [
+        {
+          "answer": "Dual Attachment Station DAS",
+          "isCorrect": true
+        },
+        {
+          "answer": "Single Attachment Concentrator SAC",
+          "isCorrect": false
+        },
+        {
+          "answer": "Null Attachment Concentrator NAC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bunda ikki va undan ortiq EHM, ma‘lum funksiyalarni bajarish uchun aloqa tarmog‘iga ega tizim tushuniladi.",
+      "answers": [
+        {
+          "answer": "Ko‘p mashinali hisoblash tizimlari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bir protsessorli hisoblash tizimlari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ko‘p protsessorli hisoblash tizimlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu ikki va undan ortiq protsessor bitta umumiy tezkor xotira qurilmasi, periferiya qurilmasi va operatsion tizim yordamida boshqariladigan tizimdir.",
+      "answers": [
+        {
+          "answer": "Ko‘p protsessorli hisoblash tizimlari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bir protsessorli hisoblash tizimlari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bir mashinali hisoblash tizimlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bular juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo‘ljallangan bo‘ladi. Bu kompyuterlar bir sekundda 10 trillionlab amal bajaradi.",
+      "answers": [
+        {
+          "answer": "Super kompyuterlar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Multikompyuterlar (taqsimlangan xotirali sistemalar)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Lineyka (linear array or farm) sistemasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bular mavjud barcha xotiralarga to‘liq murojaatni ta‘min etmaydigan sistemalar (no-remote memory access or NORMA).",
+      "answers": [
+        {
+          "answer": "Multikompyuterlar (taqsimlangan xotirali sistemalar)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Super kompyuterlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Lineyka (linear array or farm) sistemasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – har qanday juftlik protsesslarda to‘g‘ri chiziqli aloqa mavjud. Bu topologiya minimal xarajatni sarf etadi, ammo ko‘p protsessorli sistemalarda amalga oshirilishi qiyindir.",
+      "answers": [
+        {
+          "answer": "Polniy graf (completely-connected graph or clique) sistemasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Super kompyuterlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Multikompyuterlar (taqsimlangan xotirali sistemalar)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu sistemalarda har bir protsessor faqat ikkita qo‘shnisi bilan chiziqli aloqada bo‘ladi (undan oldingi va keyingi). Odatda, bu sistemalar konveyerli hisoblash uchun ishlatiladi.",
+      "answers": [
+        {
+          "answer": "Lineyka (linear array or farm) sistemasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Super kompyuterlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Multikompyuterlar (taqsimlangan xotirali sistemalar)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu topologiya lineykadagi protsessorlardan farqli ravishda birinchi va oxirgi protsessorlarni bog‘laydi.",
+      "answers": [
+        {
+          "answer": "Kolso (ring)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Zvezda (star)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Reshetka (mesh)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu topologiyalarda barcha protsessorlar qaysidir boshqaruvchi protsessorlar bilan aloqa chizig‘iga ega bo‘ladi. Bu topologiya markazlashgan boshqaruvga ega ekanligi uchun effektli hisoblanadi.",
+      "answers": [
+        {
+          "answer": "Zvezda (star)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Reshetka (mesh)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kolso (ring)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu topologiyada chiziqlar grafigi to‘g‘ri to‘rtburchak setkasi ko‘rinishida shakllanadi (ikki o‘lchovli yoki uch o‘lchovli).",
+      "answers": [
+        {
+          "answer": "Reshetka (mesh)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Zvezda (star)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kolso (ring)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu topologiya tasodifiy reshetkalarning xususiy strukturasi bilan shakllanadi. Bu yerda har reshetka o‘lchamiga 2 ta protsessor to‘g‘ri keladi.",
+      "answers": [
+        {
+          "answer": "Giperkub (hypercube)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Zvezda (star)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Reshetka (mesh)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu sath eng pastki sath hisoblanadi. U OSI fizik va kanal sathiga mos tushadi. TCP/IP protokolida bu sath belgilanmaydi, lekin barcha ma‘lum fizik va kanal sathdagi standartlarni qo’llab-quvvatlaydi.",
+      "answers": [
+        {
+          "answer": "IV sath",
+          "isCorrect": true
+        },
+        {
+          "answer": "II sath",
+          "isCorrect": false
+        },
+        {
+          "answer": "III sath",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu sath tarmoqlararo aloqa sathi. Bunda lokal tarmoq, hududiy tarmoq, maxsus aloqa tarmog’i va shunga o’xshash tarmoqlarning har xil transport texnologiyasida foydalangan holda paketlarni uzatish bilan shug’ullanadi.",
+      "answers": [
+        {
+          "answer": "III sath",
+          "isCorrect": true
+        },
+        {
+          "answer": "I sath",
+          "isCorrect": false
+        },
+        {
+          "answer": "II sath",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "– bu sath asosiy sath hisoblanadi. Bu sathda jo’natmalarni boshqarish protokoli TCP va foydalanuvchining deytogrammali protokoli UDP  boshqariladi.",
+      "answers": [
+        {
+          "answer": "II sath",
+          "isCorrect": true
+        },
+        {
+          "answer": "I sath",
+          "isCorrect": false
+        },
+        {
+          "answer": "III sath",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu sath amaliy deb nomlanadi. Uzoq vaqt davomida turli xil o’lkalarda, tashkilotlarda TCP/IP stekidan foydalanish protokollar soni ortishiga va amaliy sathli xizmatlarni.",
+      "answers": [
+        {
+          "answer": "TCP protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "IP protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "UDP protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu protokol amaliy paketlarni deytogramma usulida IP singari uzatilishini ta‘minlaydi.",
+      "answers": [
+        {
+          "answer": "UDP protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "IP protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "TCP protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu protokollar steki global tarmoq uchun ishlab chiqarilgan.",
+      "answers": [
+        {
+          "answer": "Transmission Control Protocol/Inernet Protocol (TCP/IP)",
+          "isCorrect": true
+        },
+        {
+          "answer": "SNMP (Simple Network Manegment Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Telnet protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu  TCP/IP stekida FTP protokoli bir qancha kengroq xizmatlarni taklif qiladi va o’z navbatida protokol bo’lib, dasturlash uchun eng murakkab hisoblanadi.",
+      "answers": [
+        {
+          "answer": "Yo’naltirish protokollari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Telnet protokoli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Transmission Control Protocol/Inernet Protocol (TCP/IP)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu protokol jarayonlar va terminal o’rtasida baytlar oqimini almashinuvini ta‘minlab beradi. Bu protokoldan masofadagi kompyuter terminalining emulyatsiyasi uchun tez-tez foydalanib turiladi.",
+      "answers": [
+        {
+          "answer": "Telnet protokoli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Transmission Control Protocol/Inernet Protocol (TCP/IP)",
+          "isCorrect": false
+        },
+        {
+          "answer": "SNMP (Simple Network Manegment Protocol)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu protokol tarmoq boshqaruvini tashkil qilish uchun ishlatiladi. Avvalida bu protokol Internet marshrutizatorlarini, odatda shlyuzlar deb ham ataluvchi vositalarni masofadan nazorat qilish va boshqarish uchun ishlab chiqilgan.",
+      "answers": [
+        {
+          "answer": "SNMP (Simple Network Manegment Protocol)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Transmission Control Protocol/Inernet Protocol (TCP/IP)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Telnet protokoli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bosqich foydalanuvchining ilovasini shaxsan tasdiqlaydi, masalan, fayllar uzatishning dasturiy vositalari, axborotlar bazasiga ega bo’lish, elektron pochta vositalari, serverda qayd qilish xizmatlarni amalga oshiradi.",
+      "answers": [
+        {
+          "answer": "Amaliy bosqich",
+          "isCorrect": true
+        },
+        {
+          "answer": "Prezentatsiya bosqichi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Aloqa o’tkazish vaqtini boshqarish bosqichi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bosqichda axborot aniqlanadi va axborot formatini ko’rinish sintaksisini tarmoqqa qulay ravishda o’zgartiradi, ya‘ni tarjimon vazifasini bajaradi. Shu yerda axborot shinfrlanadi va dishifratsiyalanadi, lozim bo’lgan taqdirda ularni zichlashtiriladi.",
+      "answers": [
+        {
+          "answer": "Prezentatsiya bosqichi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Aloqa o’tkazish vaqtini boshqarish bosqichi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Transport bosqichi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bosqich aloqa o’tkazish vaqtini boshqaradi (ya‘ni aloqani o’rnatadi, tasdiqlaydi va tamomlaydi). Bu bosqichda abonentlarni mantiqiy nomlarini tanish, ularga ega bo’lish huquqini nazorat qilish vazifalari ham bajariladi.",
+      "answers": [
+        {
+          "answer": "Aloqa o’tkazish vaqtini boshqarish bosqichi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Prezentatsiya bosqichi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Transport bosqichi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bosqich paketni xatosiz va yo’qotmasdan, kerakli ketma-ketlikda yetkazib berishni amalga oshiradi. Shu yerda yana uzatilayotgan axborotlarni paketga joylash uchun bloklarga taqsimlanadi va qabul qilingan axborotni qayta tiklanadi.",
+      "answers": [
+        {
+          "answer": "Transport bosqichi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Aloqa o’tkazish vaqtini boshqarish bosqichi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Prezentatsiya bosqichi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bosqich paketlarni manzillash, mantiqiy nomlarni jismoniy tarmoq manziliga o’zgartirish, teskariga ham va shuningdek paketni kerakli abonentga jo’natish yo’nalishini tanlashga javobgar.",
+      "answers": [
+        {
+          "answer": "Tarmoq bosqichi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Transport bosqichi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kanal bosqichi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bosqich standart ko’rinishdagi paket tuzishga va boshlash hamda tamom bo’lishni boshqarish maydonini paket tarkibiga joylashishiga javobgardir.",
+      "answers": [
+        {
+          "answer": "Kanal bosqichi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Jismoniy bosqich",
+          "isCorrect": false
+        },
+        {
+          "answer": "Transport bosqichi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bosqich modelni eng quyi bosqichi bo’lib, uzatilayotgan axborotni signal kattaligiga kodlashtiradi, uzatish muhitiga qabul qilishni va teskari kodlashni amalga oshirishga javob beradi. Shu yerda yana ulanish moslamalariga, razyomlarga, elektr bo’yicha moslashtirish va yerga ulanish hamda to’siqlardan himoya qilish va hokazolarga talablar aniqlanadi.",
+      "answers": [
+        {
+          "answer": "Jismoniy bosqich",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kanal bosqichi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Transport bosqichi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Zamonaviy simsiz tarmoqlarni ta’sir doirasi va vazifasi bo’yicha shaxsiy simsiz tarmoqni aniqlang",
+      "answers": [
+        {
+          "answer": "WPAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "WWAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WLAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Zamonaviy simsiz tarmoqlarni ta’sir doirasi va vazifasi bo’yicha lokal simsiz tarmoqni aniqlang",
+      "answers": [
+        {
+          "answer": "WLAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "WWAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WMAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Zamonaviy simsiz tarmoqlarni ta’sir doirasi va vazifasi bo’yicha shahar simsiz tarmoqni aniqlang",
+      "answers": [
+        {
+          "answer": "WMAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "WWAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WLAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Zamonaviy simsiz tarmoqlarni ta’sir doirasi va vazifasi bo’yicha global simsiz tarmoqni aniqlang",
+      "answers": [
+        {
+          "answer": "WWAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "WLAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WMAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu tarmoqlar uzatishning katta bo’lmagan masofasi bilan (17 metrgacha) ajralib turadi va katta bo’lmagan binoda ishlatiladi.",
+      "answers": [
+        {
+          "answer": "WPAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "WMAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WLAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu tarmoqlar ofislarning ichida va tashqarisida, ishlab chiqarish binolarida uzatishlarning yuqori xarakteristikalarini ta’minlaydi.",
+      "answers": [
+        {
+          "answer": "WLAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "WMAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WPAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu tarmoqlar maydoni bo’yicha shaharga teng bo’lgan hududga xizmat qiladi.",
+      "answers": [
+        {
+          "answer": "WMAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "WPAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WLAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu tarmoqlar mobil ilovalarning ishlanishini, mamlakat yoki xatto kontinent masshtabida foydalanish bilan, ta’minlaydi.",
+      "answers": [
+        {
+          "answer": "WWAN",
+          "isCorrect": true
+        },
+        {
+          "answer": "WMAN",
+          "isCorrect": false
+        },
+        {
+          "answer": "WLAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bitta buyruq oqimi - yagona ma'lumotlar oqimi.",
+      "answers": [
+        {
+          "answer": "SISD",
+          "isCorrect": true
+        },
+        {
+          "answer": "MIMD",
+          "isCorrect": false
+        },
+        {
+          "answer": "SIMD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bitta buyruq oqimi - bir nechta ma'lumotlar oqimi.",
+      "answers": [
+        {
+          "answer": "SIMD",
+          "isCorrect": true
+        },
+        {
+          "answer": "MIMD",
+          "isCorrect": false
+        },
+        {
+          "answer": "SISD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bir nechta buyruqlar oqimi - yagona ma'lumotlar oqimi.",
+      "answers": [
+        {
+          "answer": "MISD",
+          "isCorrect": true
+        },
+        {
+          "answer": "MIMD",
+          "isCorrect": false
+        },
+        {
+          "answer": "SIMD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu bir nechta buyruq oqimi - bir nechta ma'lumotlar oqimi.",
+      "answers": [
+        {
+          "answer": "MIMD",
+          "isCorrect": true
+        },
+        {
+          "answer": "SIMD",
+          "isCorrect": false
+        },
+        {
+          "answer": "SISD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu hisoblash tizimlari umumiy xotirada ishlaydigan bir nechta protsessorli kompyuterlardir.",
+      "answers": [
+        {
+          "answer": "Ko'p protsessorli hisoblash tizimlari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ko'p kompyuterli hisoblash majmualari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Gibrid hisoblash tizimlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu hisoblash majmualari yuqori tezlikdagi aloqa liniyalari orqali ulangan ko'plab kompyuterlarni ifodalaydi.",
+      "answers": [
+        {
+          "answer": "Ko'p kompyuterli hisoblash majmualari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Gibrid hisoblash tizimlari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ko'p protsessorli hisoblash tizimlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu hisoblash tizimlari - ko'p tugunlardan iborat bo'lib, ularning har biri ko'p kompyuter, ko'p protsessor, grafik yoki vektor protsessor bo'lishi mumkin.",
+      "answers": [
+        {
+          "answer": "Gibrid hisoblash tizimlari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ko'p kompyuterli hisoblash majmualari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ko'p protsessorli hisoblash tizimlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu sirli axborotlarni faqat bu axborotga ega bo’lishga ruxsati bor foydalanuvchi ega bo’lishga kafolatlanishidir.",
+      "answers": [
+        {
+          "answer": "Sir saqlash",
+          "isCorrect": true
+        },
+        {
+          "answer": "Butunlikni ta’minlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ega bo’lishlik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu mualliflashtirilgan foydalanuvchi har doim axborotga ega bo’lishiga kafolatlanishidir.",
+      "answers": [
+        {
+          "answer": "Ega bo’lishlik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Butunlikni ta’minlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sir saqlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu ma‘lumotlarni to’g’ri qiymatda saqlanishini kafolatlanishidir.",
+      "answers": [
+        {
+          "answer": "Butunlikni ta’minlash",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sir saqlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ega bo’lishlik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu qurilmadan foydalanishga zarurat tug’ilgan xohishiy vaqt davomida uning ishga tayyor ekanligini bildiradi.",
+      "answers": [
+        {
+          "answer": "Qurilmaga ega bo’lish xususiyati",
+          "isCorrect": true
+        },
+        {
+          "answer": "Butunlikni ta’minlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sir saqlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu axborot xizmatlarining barcha sohalari uchun katta muammo.",
+      "answers": [
+        {
+          "answer": "Shifrlash",
+          "isCorrect": true
+        },
+        {
+          "answer": "Hujum",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xavf",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – sir saqlashga, ega bo’lishlikni va (yoki) butunlikni ta‘minlashni buzishga qaratilgan har qanday hatti-harakat.",
+      "answers": [
+        {
+          "answer": "Xavf",
+          "isCorrect": true
+        },
+        {
+          "answer": "Hujum",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tavakkalchilik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Joriy etilgan xavf esa … deb ataladi.",
+      "answers": [
+        {
+          "answer": "Hujum",
+          "isCorrect": true
+        },
+        {
+          "answer": "Xavf",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tavakkalchilik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu muvaffaqiyatli o’tkazilgan hujum natijasida axborot resurs egasi ko’rishi mumkin bo’lgan ziyon qiymatining ehtimolini baholashdir.",
+      "answers": [
+        {
+          "answer": "Tavakkalchilik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Hujum",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xavf",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu alohida olingan xizmatchilarning malakasiz hatti harakati tufayli hosil bo’lishidir.",
+      "answers": [
+        {
+          "answer": "Ongsiz xavf",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ongli xavf",
+          "isCorrect": false
+        },
+        {
+          "answer": "Shifrlashning asimmetrik sxemasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu diskdan axborotlarni sust o’qish yoki tizimni monitoring qilish bilan cheklanadi.",
+      "answers": [
+        {
+          "answer": "Ongli xavf",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ongsiz xavf",
+          "isCorrect": false
+        },
+        {
+          "answer": "Shifrlashning asimmetrik sxemasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bunda shifrlashning sirli kaliti shifrdan chiqarishning sirli kaliti bilan mos keladi.",
+      "answers": [
+        {
+          "answer": "Shifrlashning simmetrik sxemasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ongli xavf",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ongsiz xavf",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bunda shifrlashning ochiq kaliti shifrdan chiqarishning sirli kalitiga mos kelmaydi.",
+      "answers": [
+        {
+          "answer": "Shifrlashning asimmetrik sxemasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ongli xavf",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ongsiz xavf",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Amplitudaviy modulyatsiyaning birinchi tijorat radiobloklari qachon paydo bo‘ldi?",
+      "answers": [
+        {
+          "answer": "XX asrning 20 yillarida",
+          "isCorrect": true
+        },
+        {
+          "answer": "XX asrning 70 yillarning oxirida",
+          "isCorrect": false
+        },
+        {
+          "answer": "XX asrning 80 yillarida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma’lumot uzatish tarmoqlariga simsiz keng polosali ulanish usulining birinchi ishlanmalari qachon paydo bo‘ldi?",
+      "answers": [
+        {
+          "answer": "XX asrning 90 yillarida",
+          "isCorrect": true
+        },
+        {
+          "answer": "XX asrning 20 yillarida",
+          "isCorrect": false
+        },
+        {
+          "answer": "XX asrning 70 yillarning oxirida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sotali aloqaning birinchi avlod - 1G tizimlari qachon ishga tushirildi?",
+      "answers": [
+        {
+          "answer": "XX asrning 70 yillarning oxirida",
+          "isCorrect": true
+        },
+        {
+          "answer": "XX asrning 20 yillarida",
+          "isCorrect": false
+        },
+        {
+          "answer": "XX asrning 80 yillarida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma’lumot uzatish bo‘yicha harbiy tizim - ARPANET qachon dastlab milliy, keyin esa xalqaro miqyosdagi umumiy foydalanish tarmog‘i - INTERNET ga aylandi?",
+      "answers": [
+        {
+          "answer": "XX asrning 80 yillarida",
+          "isCorrect": true
+        },
+        {
+          "answer": "XX asrning 20 yillarida",
+          "isCorrect": false
+        },
+        {
+          "answer": "XX asrning 70 yillarning oxirida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yilda chastotaviy modulyatsiyali radio kashf qilindi va televidenie paydo bo‘ldi?",
+      "answers": [
+        {
+          "answer": "1933 yilda",
+          "isCorrect": true
+        },
+        {
+          "answer": "1946 yilda",
+          "isCorrect": false
+        },
+        {
+          "answer": "1973 yilda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yilda AT&T va Bell Systems (AQSh) kompaniyalari bo‘lajak sotali tizimlarning timsoli bo‘lgan harakatdagi telefon aloqa tajriba tizimini (ingl. MTS) ishga tushirishdi?",
+      "answers": [
+        {
+          "answer": "1946 yilda",
+          "isCorrect": true
+        },
+        {
+          "answer": "1933 yilda",
+          "isCorrect": false
+        },
+        {
+          "answer": "1973 yilda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Nechanchi yilda lokal kompyuter tarmoqlarning birinchi protokoli - Ethernet ishlab chiqildi?",
+      "answers": [
+        {
+          "answer": "1973 yilda",
+          "isCorrect": true
+        },
+        {
+          "answer": "1933 yilda",
+          "isCorrect": false
+        },
+        {
+          "answer": "1946 yilda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Simsiz texnologiyalar standartlarini ishlab chiqishning boshlang‘ich nuqtasi sifatida nechanchi yilda IEEE (Elektronika va elektrotexnika bo’yicha muhandislar instituti) qoshida 802.11 qo‘mitasi tashkil etildi?",
+      "answers": [
+        {
+          "answer": "1989 yilda",
+          "isCorrect": true
+        },
+        {
+          "answer": "1933 yilda",
+          "isCorrect": false
+        },
+        {
+          "answer": "1946 yilda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bular, bir necha detsimetrlardan bir necha dekametrlargacha radioqamrovga ega simsiz personal tarmoqlar.",
+      "answers": [
+        {
+          "answer": "Wireless Personal Area Networks",
+          "isCorrect": true
+        },
+        {
+          "answer": "Wireless Local Area Networks",
+          "isCorrect": false
+        },
+        {
+          "answer": "Wireless World Wide Area Networks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bular, bir necha yuzlab metrlargacha ta’sir etish radiusili simsiz lokal tarmoqlar.",
+      "answers": [
+        {
+          "answer": "Wireless Local Area Networks",
+          "isCorrect": true
+        },
+        {
+          "answer": "Wireless Personal Area Networks",
+          "isCorrect": false
+        },
+        {
+          "answer": "Wireless World Wide Area Networks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bular, bir necha, hatto o‘nlab kilometrlargacha qamrov radiusiga ega shahar (hudud) ko‘lamidagi simsiz tarmoqlar.",
+      "answers": [
+        {
+          "answer": "Wireless Metropolitan Area Networks",
+          "isCorrect": true
+        },
+        {
+          "answer": "Wireless Local Area Networks",
+          "isCorrect": false
+        },
+        {
+          "answer": "Wireless Personal Area Networks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bular, global ko‘lamdagi simsiz tarmoqlar.",
+      "answers": [
+        {
+          "answer": "Wireless World Wide Area Networks",
+          "isCorrect": true
+        },
+        {
+          "answer": "Wireless Local Area Networks",
+          "isCorrect": false
+        },
+        {
+          "answer": "Wireless Personal Area Networks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bunga alohida tizim sifatida ko’riladigan kompyuterda ishlov beriladigan va saqlanadigan axborotlarni himoyalashning barcha muammolari kiradi.",
+      "answers": [
+        {
+          "answer": "Kompyuterning xavfsizligi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarmoq xavfsizligi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoqning ichki trafigini “eshitish”",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – deganda tarmoqda muloqoti orqali bog’langan qurilmalardagi barcha masalalar tushiniladi.",
+      "answers": [
+        {
+          "answer": "Tarmoq xavfsizligi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kompyuterning xavfsizligi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoqning ichki trafigini “eshitish”",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu tizim, u birinchidan ruxsat etilmagan ega bo’lishlardan saqlaydi.",
+      "answers": [
+        {
+          "answer": "Xavfsiz axborot tizimi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarmoq xavfsizligi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kompyuterning xavfsizligi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "… – bu tarmoqni qonunga xilof ravishda monitoring qilish bo’lib, tarmoq xabarlarini egallab olish va tahlillash.",
+      "answers": [
+        {
+          "answer": "Tarmoqning ichki trafigini “eshitish”",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarmoq xavfsizligi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kompyuterning xavfsizligi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma’lumki, radioaloqaning birinchi omadli sinovlari qachon amalga oshirildi?",
+      "answers": [
+        {
+          "answer": "1893 yilda",
+          "isCorrect": true
+        },
+        {
+          "answer": "1880 yilda",
+          "isCorrect": false
+        },
+        {
+          "answer": "1895 yilda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ilk marta simsiz telefon qo’ng’irog’ini amalga oshirgan shaxs kim?",
+      "answers": [
+        {
+          "answer": "Aleksandr Bell",
+          "isCorrect": true
+        },
+        {
+          "answer": "Nikola Tesla",
+          "isCorrect": false
+        },
+        {
+          "answer": "A.S.Popov",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Оptik tоlаli kаbеldаn fоydаlаnilgаn koʻp tаrqаlgаn tаrmоq bu - …",
+      "answers": [
+        {
+          "answer": "FDDI",
+          "isCorrect": true
+        },
+        {
+          "answer": "Fast Ethernet",
+          "isCorrect": false
+        },
+        {
+          "answer": "WLAN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "O’ta keng polosali texnologiya qaysi radiokanal orqali ma’lumotlar almashinuvini ta’minlaydi?",
+      "answers": [
+        {
+          "answer": "UWB",
+          "isCorrect": true
+        },
+        {
+          "answer": "Wi-Fi",
+          "isCorrect": false
+        },
+        {
+          "answer": "ZigBee",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "ZigBee boshqa WPAN-texnologiyalariga nisbatan qanday afzalliklarga ega?",
+      "answers": [
+        {
+          "answer": "Arzonroq va kam energiya sarfi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tezlik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Masofa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lokal simsiz tarmoq (WLAN) texnologiyasi qaysi standartlar oilasiga asoslanadi?",
+      "answers": [
+        {
+          "answer": "802.11",
+          "isCorrect": true
+        },
+        {
+          "answer": "802.15",
+          "isCorrect": false
+        },
+        {
+          "answer": "802.16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Simsiz lokal tarmoqlar uzatish tezligi qanday?",
+      "answers": [
+        {
+          "answer": "54 Mbit/s gacha",
+          "isCorrect": true
+        },
+        {
+          "answer": "100 Mbit/s gacha",
+          "isCorrect": false
+        },
+        {
+          "answer": "1 Gbit/s gacha",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Bluetooth-qurilmalar ishni qanday jarayon bilan boshlaydi?",
+      "answers": [
+        {
+          "answer": "Device discovery",
+          "isCorrect": true
+        },
+        {
+          "answer": "Pairing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Connection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Bluetooth qurilmalarining rejimlari qanchaga bo’linadi?",
+      "answers": [
+        {
+          "answer": "Uchta",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ikki",
+          "isCorrect": false
+        },
+        {
+          "answer": "Besh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Discoverable mode rejimida qurilmalar qanday javob berishadi?",
+      "answers": [
+        {
+          "answer": "Olingan so’rovlarning barchasiga javob beradilar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Faqat cheklangan vaqtda javob beradilar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Javob bermaydilar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Eltuvchi chastotaning o’zgarishi qanday ataladi?",
+      "answers": [
+        {
+          "answer": "Hopping",
+          "isCorrect": true
+        },
+        {
+          "answer": "Switching",
+          "isCorrect": false
+        },
+        {
+          "answer": "Modulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Bluetooth qurilmaning master va slave vazifalari qanday?",
+      "answers": [
+        {
+          "answer": "Bitta master bir nechta slave qurilmalarga ulanishi mumkin",
+          "isCorrect": true
+        },
+        {
+          "answer": "Barcha qurilmalar master bo’ladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bitta qurilma hech kimga ulana olmaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Klaster deganda nima tushuniladi?",
+      "answers": [
+        {
+          "answer": "Server rolini o'ynaydigan maxsus kompyuterlar majmuasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bir nechta mustaqil kompyuterlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimning ichki trafigi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Parallel hisoblash nima?",
+      "answers": [
+        {
+          "answer": "Dasturlar bir vaqtning o'zida ishlaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Dasturlar ketma-ket ishlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat bitta dastur ishlaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Amdal qonuni nima?",
+      "answers": [
+        {
+          "answer": "Hisoblash tizimining ishlashidagi o'sishning cheklanishini ko'rsatadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kompyuterlar sonining ko'payishi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dastur samaradorligini oshirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Xavflarni qanday turga bo’lish mumkin?",
+      "answers": [
+        {
+          "answer": "Ongsiz va ongli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Foydali va zararli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kichik va katta",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Kriptotizimning ikki sinfi qaysilar?",
+      "answers": [
+        {
+          "answer": "Simmetrik va asimmetrik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Asimmetrik va simmetrik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ochiq va yopiq",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
