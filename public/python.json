@@ -1,0 +1,5150 @@
+{
+  "questions": [
+    {
+      "question": "Python dasturlash tilining muallifi kim?",
+      "answers": [
+        {
+          "answer": "Mark Sukerberg",
+          "isCorrect": false
+        },
+        {
+          "answer": "Pavel Durov",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bill Geyts",
+          "isCorrect": false
+        },
+        {
+          "answer": "Gvido van Rossum",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Python kop qatorli izohlar hosil qilish uchun qaysi belgilardan foydalaniladi?",
+      "answers": [
+        {
+          "answer": "\" \" \" Bu izoh  \" \" \"",
+          "isCorrect": true
+        },
+        {
+          "answer": "\" \"  Bu izoh  \" \"",
+          "isCorrect": false
+        },
+        {
+          "answer": "\"  Bu izoh  \"",
+          "isCorrect": false
+        },
+        {
+          "answer": "/ Bu izoh  /",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda x ni y ga Butunli bo'lish - ...",
+      "answers": [
+        {
+          "answer": "x // y",
+          "isCorrect": true
+        },
+        {
+          "answer": "x / y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x % y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x :: y",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda x ni y ga qoldiqli bo'lish - ...",
+      "answers": [
+        {
+          "answer": "x // y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x / y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x % y",
+          "isCorrect": true
+        },
+        {
+          "answer": "x :: y",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda xato yozilgan o'zlashtirishni toping.",
+      "answers": [
+        {
+          "answer": "x %= 5",
+          "isCorrect": false
+        },
+        {
+          "answer": "x **= 5",
+          "isCorrect": false
+        },
+        {
+          "answer": "x =+ 3",
+          "isCorrect": true
+        },
+        {
+          "answer": "x //= 5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda xato yozilgan taqqoslash operatorini toping.",
+      "answers": [
+        {
+          "answer": "x != y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x =< y",
+          "isCorrect": true
+        },
+        {
+          "answer": "x >= y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x == y",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda xato yozilgan mantiq operatorini toping.",
+      "answers": [
+        {
+          "answer": "and",
+          "isCorrect": false
+        },
+        {
+          "answer": "or",
+          "isCorrect": false
+        },
+        {
+          "answer": "true",
+          "isCorrect": true
+        },
+        {
+          "answer": "not",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "A'zolik operatori in - ...",
+      "answers": [
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lsa, rost qiymat qaytaradi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lmasa, rost qiymat qaytaradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lsa, yolg'on qiymat qaytaradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "to'g'ri javob yo'q.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "A'zolik operatori not in - ...",
+      "answers": [
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lsa, rost qiymat qaytaradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lmasa, rost qiymat qaytaradi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lmasa, yolg'on qiymat qaytaradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "to'g'ri javob yo'q.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida Satrlar bilan ishlovchi funksiya: S.islower() - ...",
+      "answers": [
+        {
+          "answer": "Satrda raqamlar ishtirok etganligini tekshirish.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Satr faqat harflardan iboratligini tekshirish.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Satr harf yoki raqamlardan iboratligini tekshiradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Satr quyi registrdagi belgilardan iboratligini tekshiradi.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida satrlar bilan ishlovchi funksiya: S.split() - ...",
+      "answers": [
+        {
+          "answer": "satrdagi bir so'z yoki harfni boshqasi bilan almashtiradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "satrni ko'rsatilgan belgi bo'yicha qismlarga bo'lib chiqadi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "satrdagi barcha so'zlarni katta harflar bilan yozadi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "satrdagi barcha so'zlarni kichik harflar bilan yozadi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida satrlar bilan ishlovchi funksiya: S.replace() - ...",
+      "answers": [
+        {
+          "answer": "satrdagi bir so'z yoki harfni boshqasi bilan almashtiradi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "satrni ko'rsatilgan belgi bo'yicha qismlarga bo'lib chiqadi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "satrdagi barcha so'zlarni katta harflar bilan yozadi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "satrdagi barcha so'zlarni kichik harflar bilan yozadi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? txt = \"Olmaxon yerdagi olmani olib ketdi\"\nx = \"ol\" in txt\nprint(x)",
+      "answers": [
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "false",
+          "isCorrect": false
+        },
+        {
+          "answer": "true",
+          "isCorrect": true
+        },
+        {
+          "answer": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? txt = \"Olmaxon yerdagi olmani olib ketdi\"\nx = \"ol\" not in txt\nprint(x)",
+      "answers": [
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "false",
+          "isCorrect": true
+        },
+        {
+          "answer": "true",
+          "isCorrect": false
+        },
+        {
+          "answer": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? mashina = [\"Audi\", \"Mustang\", \"Ferrari\"]\nprint(mashina[1])",
+      "answers": [
+        {
+          "answer": "Audi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mustang",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ferrari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? mashina = [\"Audi\", \"Mustang\", \"Ferrari\"]\nprint(mashina[-1])",
+      "answers": [
+        {
+          "answer": "Audi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mustang",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ferrari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? meva = [\"olma\", \"banan\", \"apelsin\", \"nok\", \"uzum\"]\nprint(meva[1:4])",
+      "answers": [
+        {
+          "answer": "['banan', 'apelsin', 'nok']",
+          "isCorrect": true
+        },
+        {
+          "answer": "['apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['olma', 'banan', 'apelsin']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['banan', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? meva = [\"olma\", \"banan\", \"apelsin\", \"nok\", \"uzum\"]\nprint(len(meva))",
+      "answers": [
+        {
+          "answer": "4",
+          "isCorrect": false
+        },
+        {
+          "answer": "5",
+          "isCorrect": true
+        },
+        {
+          "answer": "6",
+          "isCorrect": false
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? meva = [\"olma\", \"banan\", \"apelsin\", \"nok\", \"uzum\"]\nmeva.insert(0, \"anor\")\nprint(meva)",
+      "answers": [
+        {
+          "answer": "['olma', 'anor', 'banan', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['olma', 'banan', 'anor', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['anor', 'olma', 'banan', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": true
+        },
+        {
+          "answer": "['olma', 'banan', 'apelsin', 'nok', 'uzum', 'anor']",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? a = [1, 2, 3, 4, 5]\nb = [5, 6, 7]\nc= a + b\nprint(c)",
+      "answers": [
+        {
+          "answer": "[1, 2, 3, 4, 5, 5, 6, 7]",
+          "isCorrect": true
+        },
+        {
+          "answer": "[1, 2, 3, 4, 5, 6, 7]",
+          "isCorrect": false
+        },
+        {
+          "answer": "[1, 2, 3, 4, 10, 6, 7]",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? meva = [\"olma\", \"banan\", \"apelsin\", \"nok\", \"uzum\"]\nmeva.sort()\nprint(meva)",
+      "answers": [
+        {
+          "answer": "['apelsin', 'banan', 'nok', 'olma', 'uzum']",
+          "isCorrect": true
+        },
+        {
+          "answer": "['apelsin', 'nok', 'banan', 'olma', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['olma', 'banan', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['banan', 'nok', 'olma', 'uzum', 'apelsin']",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida sonlar nechta turda bo'ladi?",
+      "answers": [
+        {
+          "answer": "3 turda butun, musbat, manfiy",
+          "isCorrect": false
+        },
+        {
+          "answer": "3 turda butun, kasr, haqiqiy",
+          "isCorrect": false
+        },
+        {
+          "answer": "3 turda butun, haqiqiy, kompleks",
+          "isCorrect": true
+        },
+        {
+          "answer": "turda natural, butun, kompleks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida satrlarni qanday e'lon qilinadi?",
+      "answers": [
+        {
+          "answer": "Bir tirnoq yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "Qo'sh tirnoq yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bir tirnoq va qo'sh tirnoqdan birgalikda foydalangan holda",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hamma javob to'g'ri",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": ">>> '{0:.3}'.format(1/3) qanday natija chiqaradi?",
+      "answers": [
+        {
+          "answer": "'0.3333'",
+          "isCorrect": false
+        },
+        {
+          "answer": "'0.333'",
+          "isCorrect": true
+        },
+        {
+          "answer": "'0.333333'",
+          "isCorrect": false
+        },
+        {
+          "answer": "'0.33'",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "O'zgaruvchilarni nomlari noto'g'ri ko'rsatilgan javobni toping?",
+      "answers": [
+        {
+          "answer": "777my-name",
+          "isCorrect": true
+        },
+        {
+          "answer": "__my_name__777",
+          "isCorrect": false
+        },
+        {
+          "answer": "myNamE777",
+          "isCorrect": false
+        },
+        {
+          "answer": "ixtiyoriy_simvol_utf",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida takrorlash operatorlari qaysilar?",
+      "answers": [
+        {
+          "answer": "for, while, do while, repeat",
+          "isCorrect": false
+        },
+        {
+          "answer": "for, while",
+          "isCorrect": true
+        },
+        {
+          "answer": "for, while, repeat",
+          "isCorrect": false
+        },
+        {
+          "answer": "for, do while repeat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? k = 1\nwhile k<=10:\n    print(k)\n    k+=2",
+      "answers": [
+        {
+          "answer": "10 gacha bo'lgan sonlar yi'g'indisi",
+          "isCorrect": false
+        },
+        {
+          "answer": "10 gacha bo'lgan juft sonlar yi'g'indisi",
+          "isCorrect": false
+        },
+        {
+          "answer": "10 gacha bo'lgan juft sonlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "10 gacha bo'lgan toq sonlar",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? for i in 'informatika':\n    print(i*2, end = '')",
+      "answers": [
+        {
+          "answer": "iinformatiika",
+          "isCorrect": false
+        },
+        {
+          "answer": "informatikainformatika",
+          "isCorrect": false
+        },
+        {
+          "answer": "iinnffoorrmmaattiikkaa",
+          "isCorrect": true
+        },
+        {
+          "answer": "i*2nformati*2ka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda satr yuqori registrdagi belgilardan iboratligini tekshirishish metodi qaysi?",
+      "answers": [
+        {
+          "answer": "S.replace()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.isalpha()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.islower()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.isupper()",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Pythonda satr quyi registrdagi belgilardan iboratligini tekshirishish metodi qaysi?",
+      "answers": [
+        {
+          "answer": "S.replace()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.isalpha()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.islower()",
+          "isCorrect": true
+        },
+        {
+          "answer": "S.isupper()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? a = range(1, 12)\nprint(a)",
+      "answers": [
+        {
+          "answer": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+          "isCorrect": false
+        },
+        {
+          "answer": "range(1, 12)",
+          "isCorrect": true
+        },
+        {
+          "answer": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+          "isCorrect": false
+        },
+        {
+          "answer": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? lst = ['hello']\nlst.extend(\"world\")\nprint(lst[1])",
+      "answers": [
+        {
+          "answer": "w",
+          "isCorrect": true
+        },
+        {
+          "answer": "World",
+          "isCorrect": false
+        },
+        {
+          "answer": "['world']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['hello', 'world']",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? text = \"salom\"\nprint(text[3:] + text[:3])",
+      "answers": [
+        {
+          "answer": "molas",
+          "isCorrect": false
+        },
+        {
+          "answer": "omsal",
+          "isCorrect": true
+        },
+        {
+          "answer": "samol",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? text = \"Hello World\"\nprint(text.isupper())",
+      "answers": [
+        {
+          "answer": "True",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "False",
+          "isCorrect": true
+        },
+        {
+          "answer": "HELLO WORLD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? a = [1, 'a', False]\nprint(type(a))",
+      "answers": [
+        {
+          "answer": "complex",
+          "isCorrect": false
+        },
+        {
+          "answer": "list",
+          "isCorrect": true
+        },
+        {
+          "answer": "bool",
+          "isCorrect": false
+        },
+        {
+          "answer": "dict",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? dct = {'lang': 'java', 'lang': 'python'}\nprint(dct['lang'])",
+      "answers": [
+        {
+          "answer": "java",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "python",
+          "isCorrect": true
+        },
+        {
+          "answer": "True",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atda kalitlarni necha marta o'zgartirish mumkin?",
+      "answers": [
+        {
+          "answer": "ishga tushirish vaqtida 1 martadan ko'p bo'lmagan",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalitlar o'zgarmasdir",
+          "isCorrect": true
+        },
+        {
+          "answer": "xohlaganingizcha",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalitlar doimiy ravishda o'zgarib turadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atni nusxalash uchun qaysi usul(metod)dan foydalaniladi ?",
+      "answers": [
+        {
+          "answer": "erase()",
+          "isCorrect": false
+        },
+        {
+          "answer": "copy()",
+          "isCorrect": true
+        },
+        {
+          "answer": "build()",
+          "isCorrect": false
+        },
+        {
+          "answer": "put()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python tilidagi lug'atlar nima?",
+      "answers": [
+        {
+          "answer": "massivlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "tartiblangan ro'yxatlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "tartibsiz to'plamlar",
+          "isCorrect": true
+        },
+        {
+          "answer": "json ob'ektlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atda fromkeys() usuli qanday parametrlarni kiritish sifatida oladi?",
+      "answers": [
+        {
+          "answer": "kalit va qiymat",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalitlar va qiymatlar ketma-ketligi",
+          "isCorrect": true
+        },
+        {
+          "answer": "kalitlar ketma-ketligi va qiymatlar ketma-ketligi",
+          "isCorrect": false
+        },
+        {
+          "answer": "qiymat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atda pop() usuli kirish sifatida qanday parametrlarni oladi?",
+      "answers": [
+        {
+          "answer": "kalit va uning qiymati",
+          "isCorrect": false
+        },
+        {
+          "answer": "qiymat",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalit",
+          "isCorrect": true
+        },
+        {
+          "answer": "uning parametrlari yo'q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atda items() usuli nimani qaytaradi?",
+      "answers": [
+        {
+          "answer": "qiymatlarni",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalit va qiymat turlarini",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalitlarni",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalit/qiymat juftliklari",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Qaysi usul lug'atga yangi elementlar qo'shish imkonini beradi?",
+      "answers": [
+        {
+          "answer": "update()",
+          "isCorrect": true
+        },
+        {
+          "answer": "input()",
+          "isCorrect": false
+        },
+        {
+          "answer": "dict_in()",
+          "isCorrect": false
+        },
+        {
+          "answer": "insert()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'at yaratish uchun qaysi funktsiyadan foydalaniladi ?",
+      "answers": [
+        {
+          "answer": "create_dict()",
+          "isCorrect": false
+        },
+        {
+          "answer": "dictionary()",
+          "isCorrect": false
+        },
+        {
+          "answer": "dict()",
+          "isCorrect": true
+        },
+        {
+          "answer": "list()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'at kalitlarini qaytarish uchun qanday usul qo'llaniladi?",
+      "answers": [
+        {
+          "answer": "keys()",
+          "isCorrect": false
+        },
+        {
+          "answer": "key()",
+          "isCorrect": true
+        },
+        {
+          "answer": "keys_list()",
+          "isCorrect": false
+        },
+        {
+          "answer": "get_keys()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Kalit bo'yicha lug'atdan juftlikni o'chirish uchun qaysi usuldan foydalaniladi?",
+      "answers": [
+        {
+          "answer": "clear()",
+          "isCorrect": false
+        },
+        {
+          "answer": "pop()",
+          "isCorrect": true
+        },
+        {
+          "answer": "del()",
+          "isCorrect": false
+        },
+        {
+          "answer": "delete()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda vaqt, sana va kalendar bilan ishlash uchun .... modullar mavjud.",
+      "answers": [
+        {
+          "answer": "uchta (time, datetime, calendar)",
+          "isCorrect": true
+        },
+        {
+          "answer": "ikkita (time, datetime)",
+          "isCorrect": false
+        },
+        {
+          "answer": "ikkita (time, calendar)",
+          "isCorrect": false
+        },
+        {
+          "answer": "ikkita (datetime, calendar)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Davrdan hozirgi vaqtgacha qancha soniya o'tganini bilish uchun ... funksiyasidan foydalinadi.",
+      "answers": [
+        {
+          "answer": "localtime",
+          "isCorrect": false
+        },
+        {
+          "answer": "time",
+          "isCorrect": true
+        },
+        {
+          "answer": "asctime",
+          "isCorrect": false
+        },
+        {
+          "answer": "strftime",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt mintaqangizdagi joriy vaqt bilan time_struct ob'ektini olish mumkin, buning uchun .... funksiyasidan foydalinadi.",
+      "answers": [
+        {
+          "answer": "localtime",
+          "isCorrect": true
+        },
+        {
+          "answer": "time",
+          "isCorrect": false
+        },
+        {
+          "answer": "asctime",
+          "isCorrect": false
+        },
+        {
+          "answer": "strftime",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt chiqish formatini o'zingiz o'rnatishingiz kerak bo'lganda ... funksiyasidan foydalinadi.",
+      "answers": [
+        {
+          "answer": "localtime",
+          "isCorrect": false
+        },
+        {
+          "answer": "time",
+          "isCorrect": false
+        },
+        {
+          "answer": "asctime",
+          "isCorrect": false
+        },
+        {
+          "answer": "strftime",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Vaqt bilan ishlash uchun shablon spetsifikatori: % d -- ...",
+      "answers": [
+        {
+          "answer": "oyning kuni",
+          "isCorrect": true
+        },
+        {
+          "answer": "yil kunining raqami",
+          "isCorrect": false
+        },
+        {
+          "answer": "oyning ikki xonali ko'rinishi",
+          "isCorrect": false
+        },
+        {
+          "answer": "daqiqalarni ikki xonali ko'rsatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt bilan ishlash uchun shablon spetsifikatori: % j -- ...",
+      "answers": [
+        {
+          "answer": "oyning kuni",
+          "isCorrect": false
+        },
+        {
+          "answer": "yil kunining raqami",
+          "isCorrect": true
+        },
+        {
+          "answer": "oyning ikki xonali ko'rinishi",
+          "isCorrect": false
+        },
+        {
+          "answer": "daqiqalarni ikki xonali ko'rsatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt bilan ishlash uchun shablon spetsifikatori: % m -- ...",
+      "answers": [
+        {
+          "answer": "oyning kuni",
+          "isCorrect": false
+        },
+        {
+          "answer": "yil kunining raqami",
+          "isCorrect": false
+        },
+        {
+          "answer": "oyning ikki xonali ko'rinishi",
+          "isCorrect": true
+        },
+        {
+          "answer": "daqiqalarni ikki xonali ko'rsatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt bilan ishlash uchun shablon spetsifikatori: % M -- ...",
+      "answers": [
+        {
+          "answer": "oyning kuni",
+          "isCorrect": false
+        },
+        {
+          "answer": "yil kunining raqami",
+          "isCorrect": false
+        },
+        {
+          "answer": "oyning ikki xonali ko'rinishi",
+          "isCorrect": false
+        },
+        {
+          "answer": "daqiqalarni ikki xonali ko'rsatish",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod bilan qanaqa funksiya yaratilmoqda: def add(x, y):\n    return x + y",
+      "answers": [
+        {
+          "answer": "bu funksiya emas",
+          "isCorrect": false
+        },
+        {
+          "answer": "anonim funksiya",
+          "isCorrect": false
+        },
+        {
+          "answer": "rekursiv funksiya",
+          "isCorrect": false
+        },
+        {
+          "answer": "nomli funksiya",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Pythonda funktsiyani aniqlash uchun ajratilgan so'z qaysi?",
+      "answers": [
+        {
+          "answer": "func",
+          "isCorrect": false
+        },
+        {
+          "answer": "def",
+          "isCorrect": true
+        },
+        {
+          "answer": "define",
+          "isCorrect": false
+        },
+        {
+          "answer": "procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Rekursiv funksiya chaqirilganda qanday hisoblashlar amalga oshiriladi?",
+      "answers": [
+        {
+          "answer": "chiziqli",
+          "isCorrect": false
+        },
+        {
+          "answer": "teskari",
+          "isCorrect": false
+        },
+        {
+          "answer": "bir tomonlama",
+          "isCorrect": false
+        },
+        {
+          "answer": "siklik",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Rekursiv funksiyaning asosiy maqsadi nima?",
+      "answers": [
+        {
+          "answer": "siklni o'rniga foydalanish",
+          "isCorrect": true
+        },
+        {
+          "answer": "kerakli natijani qaytarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "ro'yxatlar bilan ishlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "tsikllar orqali takrorlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python yordamida kompyuterda istalgan faylni ochish sintaksisi:",
+      "answers": [
+        {
+          "answer": "f = open(file_name, access_mode)",
+          "isCorrect": true
+        },
+        {
+          "answer": "f = open(access_mode, file_name)",
+          "isCorrect": false
+        },
+        {
+          "answer": "file.read(file_name, access_mode)",
+          "isCorrect": false
+        },
+        {
+          "answer": "file.read(file_name)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Faylni ochish rejimi r −...",
+      "answers": [
+        {
+          "answer": "Faqat yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat oʻqish uchun.",
+          "isCorrect": true
+        },
+        {
+          "answer": "O'qish va yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yangi ma'lumot qo'shish uchun ochish.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Faylni ochish rejimi w − ...",
+      "answers": [
+        {
+          "answer": "Faqat yozish uchun.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Faqat oʻqish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "O'qish va yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yangi ma'lumot qo'shish uchun ochish.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Faylni ochish rejimi a − ...",
+      "answers": [
+        {
+          "answer": "Faqat yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat oʻqish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "O'qish va yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yangi ma'lumot qo'shish uchun ochish.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Pythonda bir qatorli izoh to'g'ri berilgan javobni aniqlang.",
+      "answers": [
+        {
+          "answer": "# bu izox;",
+          "isCorrect": true
+        },
+        {
+          "answer": "% bu izox;",
+          "isCorrect": false
+        },
+        {
+          "answer": "* bu izox;",
+          "isCorrect": false
+        },
+        {
+          "answer": "$ bu izox;",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda dastur natijasini chop etish uchun qaysi operator ishlatiladi?",
+      "answers": [
+        {
+          "answer": "print()",
+          "isCorrect": true
+        },
+        {
+          "answer": "cout()",
+          "isCorrect": false
+        },
+        {
+          "answer": "echo()",
+          "isCorrect": false
+        },
+        {
+          "answer": "writeln()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda ma'lumotlarni kiritish uchun qaysi operator ishlatiladi?",
+      "answers": [
+        {
+          "answer": "input ()",
+          "isCorrect": true
+        },
+        {
+          "answer": "print()",
+          "isCorrect": false
+        },
+        {
+          "answer": "cin()",
+          "isCorrect": false
+        },
+        {
+          "answer": "edit()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'zgaruvchilar qaysi kalit so'z bilan e'lon qilinadi?",
+      "answers": [
+        {
+          "answer": "Pythonda o'zgaruvchi e'lon qilinmaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "var",
+          "isCorrect": false
+        },
+        {
+          "answer": "let",
+          "isCorrect": false
+        },
+        {
+          "answer": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda mantiqiy amal natijasi qanday boladi?",
+      "answers": [
+        {
+          "answer": "True yoki False(1 yoki 0)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Begin yoki end",
+          "isCorrect": false
+        },
+        {
+          "answer": "int",
+          "isCorrect": false
+        },
+        {
+          "answer": "float",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda suzuvchi vergulli son turi qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "float",
+          "isCorrect": true
+        },
+        {
+          "answer": "decimal",
+          "isCorrect": false
+        },
+        {
+          "answer": "int",
+          "isCorrect": false
+        },
+        {
+          "answer": "bool",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda ro'yxat turi qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "list",
+          "isCorrect": true
+        },
+        {
+          "answer": "dict",
+          "isCorrect": false
+        },
+        {
+          "answer": "tuple",
+          "isCorrect": false
+        },
+        {
+          "answer": "range",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda lug'at turi qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "dict",
+          "isCorrect": true
+        },
+        {
+          "answer": "list",
+          "isCorrect": false
+        },
+        {
+          "answer": "tuple",
+          "isCorrect": false
+        },
+        {
+          "answer": "range",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda ma'lumotni butun son tipiga o'zgartirish tug'ri ko'rsatilag javobni aniqalang.",
+      "answers": [
+        {
+          "answer": "int(<ma'lumot>)",
+          "isCorrect": true
+        },
+        {
+          "answer": "float(ma'lumot)",
+          "isCorrect": false
+        },
+        {
+          "answer": "str(ma'lumot)",
+          "isCorrect": false
+        },
+        {
+          "answer": "bool(ma'lumot)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'zgaruvchini o'chirish konstruksiyasi qanday bo'ladi?",
+      "answers": [
+        {
+          "answer": "del <o'zgaruvchi>[, ..., <o'zgaruvchi_N>]",
+          "isCorrect": true
+        },
+        {
+          "answer": "delete <o'zgaruvchi>[, ..., <o'zgaruvchi_N>]",
+          "isCorrect": false
+        },
+        {
+          "answer": "rd <o'zgaruvchi>[, ..., <o'zgaruvchi_N>]",
+          "isCorrect": false
+        },
+        {
+          "answer": "clear <o'zgaruvchi>[, ..., <o'zgaruvchi_N>]",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda \" / / \" amali qanaday ma'no anglatadi?",
+      "answers": [
+        {
+          "answer": "kami bilan yaxlitlanadigan bo'lish",
+          "isCorrect": true
+        },
+        {
+          "answer": "qoldiqli bo'lish",
+          "isCorrect": false
+        },
+        {
+          "answer": "darajaga ko'tarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "bo'lish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda \"%\" amali qanaday ma'no anglatadi?",
+      "answers": [
+        {
+          "answer": "qoldiqli bo'lish",
+          "isCorrect": true
+        },
+        {
+          "answer": "kami bilan yaxlitlanadigan bo'lish",
+          "isCorrect": false
+        },
+        {
+          "answer": "darajaga ko'tarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "bo'lish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mantiqiy (ikkilik) VA amali qaysi belgi bilan abelgilanadi?",
+      "answers": [
+        {
+          "answer": "&",
+          "isCorrect": true
+        },
+        {
+          "answer": "|",
+          "isCorrect": false
+        },
+        {
+          "answer": "^",
+          "isCorrect": false
+        },
+        {
+          "answer": "<<",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda >>> True + 2 amal natijasi nimaga teng?",
+      "answers": [
+        {
+          "answer": "3",
+          "isCorrect": true
+        },
+        {
+          "answer": "\"True+2\"",
+          "isCorrect": false
+        },
+        {
+          "answer": "2",
+          "isCorrect": false
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda bool (20) funksiya qanday qiymat qaytaradi?",
+      "answers": [
+        {
+          "answer": "True",
+          "isCorrect": true
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "False",
+          "isCorrect": false
+        },
+        {
+          "answer": "20",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda bool (\"0\") funksiya qanday qiymat qaytaradi?",
+      "answers": [
+        {
+          "answer": "True",
+          "isCorrect": true
+        },
+        {
+          "answer": "False",
+          "isCorrect": false
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "20",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi operator ikkita o'zgaruchi bir obyektga havola qilinganini tekshiradi?",
+      "answers": [
+        {
+          "answer": "is",
+          "isCorrect": true
+        },
+        {
+          "answer": "in",
+          "isCorrect": false
+        },
+        {
+          "answer": "if",
+          "isCorrect": false
+        },
+        {
+          "answer": "not",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi operator qiymatni qator yoki ketma-ketlikka tegishlilikka tekshiradi?",
+      "answers": [
+        {
+          "answer": "in",
+          "isCorrect": true
+        },
+        {
+          "answer": "is",
+          "isCorrect": false
+        },
+        {
+          "answer": "if",
+          "isCorrect": false
+        },
+        {
+          "answer": "not",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda \"VA\" mantiqiy amalai qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "AND",
+          "isCorrect": true
+        },
+        {
+          "answer": "OR",
+          "isCorrect": false
+        },
+        {
+          "answer": "NOT",
+          "isCorrect": false
+        },
+        {
+          "answer": "I",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda \"YOKI\" mantiqiy amalai qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "OR",
+          "isCorrect": true
+        },
+        {
+          "answer": "AND",
+          "isCorrect": false
+        },
+        {
+          "answer": "NOT",
+          "isCorrect": false
+        },
+        {
+          "answer": "IF",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Javoblar orasidan qaysi operator Pythonda takrorlanishni ta'minlaydi?",
+      "answers": [
+        {
+          "answer": "while",
+          "isCorrect": true
+        },
+        {
+          "answer": "if",
+          "isCorrect": false
+        },
+        {
+          "answer": "switch",
+          "isCorrect": false
+        },
+        {
+          "answer": "numerate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda range funksiyasi formati to'g'ri berilgan javobni belgilang?",
+      "answers": [
+        {
+          "answer": "range ([<boshlang'ich qiymat>,] <Tugash> [, <Qadam>])",
+          "isCorrect": true
+        },
+        {
+          "answer": "range ([<boshlang'ich qiymat>,] [ <Qadam>], <Tugash>)",
+          "isCorrect": false
+        },
+        {
+          "answer": "range (<Qadam>)",
+          "isCorrect": false
+        },
+        {
+          "answer": "range ([<Qadam>,] [<boshlang'ich qiymat>,] <Tugash>)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda range() funksiyasi qanday vaziafa bajaradi?",
+      "answers": [
+        {
+          "answer": "Sonlar ketma-ketligini ifodalaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sonlarni yigindisini qayataradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Darajaga ko'taradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kvadrat ildiz chiqaradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda for operatori qanaday maqsadda qo'llaniladi?",
+      "answers": [
+        {
+          "answer": "takrorlanishlarni hisoblash va ketma-ketliklar bilan ishlash uchun foydalaniladi;",
+          "isCorrect": true
+        },
+        {
+          "answer": "tarmoqlanishlarni amaliga oshirishda va sonlar bilan ishlashda qo'llaniladi;",
+          "isCorrect": false
+        },
+        {
+          "answer": "murakkab ifodalarni yozishda foydalaniladi;",
+          "isCorrect": false
+        },
+        {
+          "answer": "ketma-ketliklarni ifodalsh uchun va tarmoqlarga ajratsish uchun ishlatiladi;",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi operator sikldagi barcha instruksiyalar bajarilmay, siklning navbatdagi iterasiyasiga o'tish imkonini beradi",
+      "answers": [
+        {
+          "answer": "continue",
+          "isCorrect": true
+        },
+        {
+          "answer": "break",
+          "isCorrect": false
+        },
+        {
+          "answer": "for",
+          "isCorrect": false
+        },
+        {
+          "answer": "while",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi operator sikl bajarilishini zudlik bilan to'xtatish imkonini beradi",
+      "answers": [
+        {
+          "answer": "break",
+          "isCorrect": true
+        },
+        {
+          "answer": "continue",
+          "isCorrect": false
+        },
+        {
+          "answer": "for",
+          "isCorrect": false
+        },
+        {
+          "answer": "while",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda while operatori qanday maqsadda qo'llaniladi?",
+      "answers": [
+        {
+          "answer": "takrorlanishlarni tashkil etish uchun",
+          "isCorrect": true
+        },
+        {
+          "answer": "tarmoqlanishi tashkil etish uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "ichma-ich takrorlanishni tashkil etish uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "shartsiz takrorlanishlarni tashkil etish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python 3 da butun son tipi qaysi so'z bilan belgilanadi?",
+      "answers": [
+        {
+          "answer": "int",
+          "isCorrect": true
+        },
+        {
+          "answer": "float",
+          "isCorrect": false
+        },
+        {
+          "answer": "decimal",
+          "isCorrect": false
+        },
+        {
+          "answer": "complex",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python 3 da kasr sonni qanday ifodalash mumkin?",
+      "answers": [
+        {
+          "answer": "Fraction() funksiyasi yordamida",
+          "isCorrect": true
+        },
+        {
+          "answer": "complex() funksiyasi yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "float xizmatchi so'zi yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "ifodalab bo'lmaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda kompleks son yozilish formati to'g'ri berilgan javobni tping?",
+      "answers": [
+        {
+          "answer": "<Haqiyqiy qism> + <Mavhum qism>J",
+          "isCorrect": true
+        },
+        {
+          "answer": "<Haqiyqiy qism>J + <Mavhum qism>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<Haqiyqiy qism>+J + <Mavhum qism>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<Haqiyqiy qism>+ <Mavhum qism>+J",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'nlik sonni ikkilik sanoq sistemasiga o'tkazish uchun qayis funksiya ishlatiladi?",
+      "answers": [
+        {
+          "answer": "bin (<Son> )",
+          "isCorrect": true
+        },
+        {
+          "answer": "oct (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "hex (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "abs (<Son>)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'nlik sonni sakkizlik sanoq sistemasiga o'tkazish uchun qayis funksiya ishlatiladi?",
+      "answers": [
+        {
+          "answer": "oct (<Son> )",
+          "isCorrect": true
+        },
+        {
+          "answer": "bin (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "hex (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "abs (<Son>)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'nlik sonni o'n oltilik sanoq sistemasiga o'tkazish uchun qayis funksiya ishlatiladi?",
+      "answers": [
+        {
+          "answer": "hex (<Son> )",
+          "isCorrect": true
+        },
+        {
+          "answer": "oct (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "bin (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "abs (<Son>)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda divmod (õ, ó) funksiyasi qanday amal bajkaradi?",
+      "answers": [
+        {
+          "answer": "Sonning butun va qoldiq qismini qaytaradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sonning butun qismini qaytaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sonning qoldiq qismini qaytaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sonni yaxlitlaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda sonni radiandan gradusga o'tkazish uchunqaysi funksiya qo'llaniladi?",
+      "answers": [
+        {
+          "answer": "degrees()",
+          "isCorrect": true
+        },
+        {
+          "answer": "radians()",
+          "isCorrect": false
+        },
+        {
+          "answer": "åõð()",
+          "isCorrect": false
+        },
+        {
+          "answer": "ceil()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda sonni eng yaqin katta songa yaxlitlash funksiyasi qaysi?",
+      "answers": [
+        {
+          "answer": "ceil ()",
+          "isCorrect": true
+        },
+        {
+          "answer": "floor ()",
+          "isCorrect": false
+        },
+        {
+          "answer": "fabs ()",
+          "isCorrect": false
+        },
+        {
+          "answer": "round ()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilining muallifi kim?",
+      "answers": [
+        {
+          "answer": "Mark Sukerberg",
+          "isCorrect": false
+        },
+        {
+          "answer": "Pavel Durov",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bill Geyts",
+          "isCorrect": false
+        },
+        {
+          "answer": "Gvido van Rossum",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Python kop qatorli izohlar hosil qilish uchun qaysi belgilardan foydalaniladi?",
+      "answers": [
+        {
+          "answer": "\" \" \" Bu izoh  \" \" \"",
+          "isCorrect": true
+        },
+        {
+          "answer": "\" \"  Bu izoh  \" \"",
+          "isCorrect": false
+        },
+        {
+          "answer": "\"  Bu izoh  \"",
+          "isCorrect": false
+        },
+        {
+          "answer": "/ Bu izoh  /",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda x ni y ga Butunli bo'lish - ...",
+      "answers": [
+        {
+          "answer": "x // y",
+          "isCorrect": true
+        },
+        {
+          "answer": "x / y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x % y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x :: y",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda x ni y ga qoldiqli bo'lish - ...",
+      "answers": [
+        {
+          "answer": "x // y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x / y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x % y",
+          "isCorrect": true
+        },
+        {
+          "answer": "x :: y",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda xato yozilgan o'zlashtirishni toping.",
+      "answers": [
+        {
+          "answer": "x %= 5",
+          "isCorrect": false
+        },
+        {
+          "answer": "x **= 5",
+          "isCorrect": false
+        },
+        {
+          "answer": "x =+ 3",
+          "isCorrect": true
+        },
+        {
+          "answer": "x //= 5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda xato yozilgan taqqoslash operatorini toping.",
+      "answers": [
+        {
+          "answer": "x != y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x =< y",
+          "isCorrect": true
+        },
+        {
+          "answer": "x >= y",
+          "isCorrect": false
+        },
+        {
+          "answer": "x == y",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda xato yozilgan mantiq operatorini toping.",
+      "answers": [
+        {
+          "answer": "and",
+          "isCorrect": false
+        },
+        {
+          "answer": "or",
+          "isCorrect": false
+        },
+        {
+          "answer": "true",
+          "isCorrect": true
+        },
+        {
+          "answer": "not",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "A'zolik operatori in - ...",
+      "answers": [
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lsa, rost qiymat qaytaradi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lmasa, rost qiymat qaytaradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lsa, yolg'on qiymat qaytaradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "to'g'ri javob yo'q.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "A'zolik operatori not in - ...",
+      "answers": [
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lsa, rost qiymat qaytaradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lmasa, rost qiymat qaytaradi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "belgilangan qiymat obyektda mavjud bo'lmasa, yolg'on qiymat qaytaradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "to'g'ri javob yo'q.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida Satrlar bilan ishlovchi funksiya: S.islower() - ...",
+      "answers": [
+        {
+          "answer": "Satrda raqamlar ishtirok etganligini tekshirish.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Satr faqat harflardan iboratligini tekshirish.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Satr harf yoki raqamlardan iboratligini tekshiradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Satr quyi registrdagi belgilardan iboratligini tekshiradi.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida satrlar bilan ishlovchi funksiya: S.split() - ...",
+      "answers": [
+        {
+          "answer": "satrdagi bir so'z yoki harfni boshqasi bilan almashtiradi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "satrni ko'rsatilgan belgi bo'yicha qismlarga bo'lib chiqadi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "satrdagi barcha so'zlarni katta harflar bilan yozadi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "satrdagi barcha so'zlarni kichik harflar bilan yozadi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida satrlar bilan ishlovchi funksiya: S.replace() - ...",
+      "answers": [
+        {
+          "answer": "satrdagi bir so'z yoki harfni boshqasi bilan almashtiradi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "satrni ko'rsatilgan belgi bo'yicha qismlarga bo'lib chiqadi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "satrdagi barcha so'zlarni katta harflar bilan yozadi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "satrdagi barcha so'zlarni kichik harflar bilan yozadi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? txt = \"Olmaxon yerdagi olmani olib ketdi\"\nx = \"ol\" in txt\nprint(x)",
+      "answers": [
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "false",
+          "isCorrect": false
+        },
+        {
+          "answer": "true",
+          "isCorrect": true
+        },
+        {
+          "answer": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? txt = \"Olmaxon yerdagi olmani olib ketdi\"\nx = \"ol\" not in txt\nprint(x)",
+      "answers": [
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "false",
+          "isCorrect": true
+        },
+        {
+          "answer": "true",
+          "isCorrect": false
+        },
+        {
+          "answer": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? mashina = [\"Audi\", \"Mustang\", \"Ferrari\"]\nprint(mashina[1])",
+      "answers": [
+        {
+          "answer": "Audi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mustang",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ferrari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? mashina = [\"Audi\", \"Mustang\", \"Ferrari\"]\nprint(mashina[-1])",
+      "answers": [
+        {
+          "answer": "Audi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mustang",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ferrari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? meva = [\"olma\", \"banan\", \"apelsin\", \"nok\", \"uzum\"]\nprint(meva[1:4])",
+      "answers": [
+        {
+          "answer": "['banan', 'apelsin', 'nok']",
+          "isCorrect": true
+        },
+        {
+          "answer": "['apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['olma', 'banan', 'apelsin']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['banan', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? meva = [\"olma\", \"banan\", \"apelsin\", \"nok\", \"uzum\"]\nprint(len(meva))",
+      "answers": [
+        {
+          "answer": "4",
+          "isCorrect": false
+        },
+        {
+          "answer": "5",
+          "isCorrect": true
+        },
+        {
+          "answer": "6",
+          "isCorrect": false
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? meva = [\"olma\", \"banan\", \"apelsin\", \"nok\", \"uzum\"]\nmeva.insert(0, \"anor\")\nprint(meva)",
+      "answers": [
+        {
+          "answer": "['olma', 'anor', 'banan', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['olma', 'banan', 'anor', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['anor', 'olma', 'banan', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": true
+        },
+        {
+          "answer": "['olma', 'banan', 'apelsin', 'nok', 'uzum', 'anor']",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? a = [1, 2, 3, 4, 5]\nb = [5, 6, 7]\nc= a + b\nprint(c)",
+      "answers": [
+        {
+          "answer": "[1, 2, 3, 4, 5, 5, 6, 7]",
+          "isCorrect": true
+        },
+        {
+          "answer": "[1, 2, 3, 4, 5, 6, 7]",
+          "isCorrect": false
+        },
+        {
+          "answer": "[1, 2, 3, 4, 10, 6, 7]",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida ekranga qanday natija chiqadi? meva = [\"olma\", \"banan\", \"apelsin\", \"nok\", \"uzum\"]\nmeva.sort()\nprint(meva)",
+      "answers": [
+        {
+          "answer": "['apelsin', 'banan', 'nok', 'olma', 'uzum']",
+          "isCorrect": true
+        },
+        {
+          "answer": "['apelsin', 'nok', 'banan', 'olma', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['olma', 'banan', 'apelsin', 'nok', 'uzum']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['banan', 'nok', 'olma', 'uzum', 'apelsin']",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida sonlar nechta turda bo'ladi?",
+      "answers": [
+        {
+          "answer": "3 turda butun, musbat, manfiy",
+          "isCorrect": false
+        },
+        {
+          "answer": "3 turda butun, kasr, haqiqiy",
+          "isCorrect": false
+        },
+        {
+          "answer": "3 turda butun, haqiqiy, kompleks",
+          "isCorrect": true
+        },
+        {
+          "answer": "turda natural, butun, kompleks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida satrlarni qanday e'lon qilinadi?",
+      "answers": [
+        {
+          "answer": "Bir tirnoq yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "Qo'sh tirnoq yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bir tirnoq va qo'sh tirnoqdan birgalikda foydalangan holda",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hamma javob to'g'ri",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": ">>> '{0:.3}'.format(1/3) qanday natija chiqaradi?",
+      "answers": [
+        {
+          "answer": "'0.3333'",
+          "isCorrect": false
+        },
+        {
+          "answer": "'0.333'",
+          "isCorrect": true
+        },
+        {
+          "answer": "'0.333333'",
+          "isCorrect": false
+        },
+        {
+          "answer": "'0.33'",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "O'zgaruvchilarni nomlari noto'g'ri ko'rsatilgan javobni toping?",
+      "answers": [
+        {
+          "answer": "777my-name",
+          "isCorrect": true
+        },
+        {
+          "answer": "__my_name__777",
+          "isCorrect": false
+        },
+        {
+          "answer": "myNamE777",
+          "isCorrect": false
+        },
+        {
+          "answer": "ixtiyoriy_simvol_utf",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilida takrorlash operatorlari qaysilar?",
+      "answers": [
+        {
+          "answer": "for, while, do while, repeat",
+          "isCorrect": false
+        },
+        {
+          "answer": "for, while",
+          "isCorrect": true
+        },
+        {
+          "answer": "for, while, repeat",
+          "isCorrect": false
+        },
+        {
+          "answer": "for, do while repeat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? k = 1\nwhile k<=10:\n    print(k)\n    k+=2",
+      "answers": [
+        {
+          "answer": "10 gacha bo'lgan sonlar yi'g'indisi",
+          "isCorrect": false
+        },
+        {
+          "answer": "10 gacha bo'lgan juft sonlar yi'g'indisi",
+          "isCorrect": false
+        },
+        {
+          "answer": "10 gacha bo'lgan juft sonlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "10 gacha bo'lgan toq sonlar",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? for i in 'informatika':\n    print(i*2, end = '')",
+      "answers": [
+        {
+          "answer": "iinformatiika",
+          "isCorrect": false
+        },
+        {
+          "answer": "informatikainformatika",
+          "isCorrect": false
+        },
+        {
+          "answer": "iinnffoorrmmaattiikkaa",
+          "isCorrect": true
+        },
+        {
+          "answer": "i*2nformati*2ka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda satr yuqori registrdagi belgilardan iboratligini tekshirishish metodi qaysi?",
+      "answers": [
+        {
+          "answer": "S.replace()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.isalpha()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.islower()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.isupper()",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Pythonda satr quyi registrdagi belgilardan iboratligini tekshirishish metodi qaysi?",
+      "answers": [
+        {
+          "answer": "S.replace()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.isalpha()",
+          "isCorrect": false
+        },
+        {
+          "answer": "S.islower()",
+          "isCorrect": true
+        },
+        {
+          "answer": "S.isupper()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? a = range(1, 12)\nprint(a)",
+      "answers": [
+        {
+          "answer": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+          "isCorrect": false
+        },
+        {
+          "answer": "range(1, 12)",
+          "isCorrect": true
+        },
+        {
+          "answer": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+          "isCorrect": false
+        },
+        {
+          "answer": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? lst = ['hello']\nlst.extend(\"world\")\nprint(lst[1])",
+      "answers": [
+        {
+          "answer": "w",
+          "isCorrect": true
+        },
+        {
+          "answer": "World",
+          "isCorrect": false
+        },
+        {
+          "answer": "['world']",
+          "isCorrect": false
+        },
+        {
+          "answer": "['hello', 'world']",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? text = \"salom\"\nprint(text[3:] + text[:3])",
+      "answers": [
+        {
+          "answer": "molas",
+          "isCorrect": false
+        },
+        {
+          "answer": "omsal",
+          "isCorrect": true
+        },
+        {
+          "answer": "samol",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? text = \"Hello World\"\nprint(text.isupper())",
+      "answers": [
+        {
+          "answer": "True",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "False",
+          "isCorrect": true
+        },
+        {
+          "answer": "HELLO WORLD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? a = [1, 'a', False]\nprint(type(a))",
+      "answers": [
+        {
+          "answer": "complex",
+          "isCorrect": false
+        },
+        {
+          "answer": "list",
+          "isCorrect": true
+        },
+        {
+          "answer": "bool",
+          "isCorrect": false
+        },
+        {
+          "answer": "dict",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python DTda ekranga qanday natija chiqadi? dct = {'lang': 'java', 'lang': 'python'}\nprint(dct['lang'])",
+      "answers": [
+        {
+          "answer": "java",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "python",
+          "isCorrect": true
+        },
+        {
+          "answer": "True",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atda kalitlarni necha marta o'zgartirish mumkin?",
+      "answers": [
+        {
+          "answer": "ishga tushirish vaqtida 1 martadan ko'p bo'lmagan",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalitlar o'zgarmasdir",
+          "isCorrect": true
+        },
+        {
+          "answer": "xohlaganingizcha",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalitlar doimiy ravishda o'zgarib turadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atni nusxalash uchun qaysi usul(metod)dan foydalaniladi ?",
+      "answers": [
+        {
+          "answer": "erase()",
+          "isCorrect": false
+        },
+        {
+          "answer": "copy()",
+          "isCorrect": true
+        },
+        {
+          "answer": "build()",
+          "isCorrect": false
+        },
+        {
+          "answer": "put()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python tilidagi lug'atlar nima?",
+      "answers": [
+        {
+          "answer": "massivlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "tartiblangan ro'yxatlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "tartibsiz to'plamlar",
+          "isCorrect": true
+        },
+        {
+          "answer": "json ob'ektlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atda fromkeys() usuli qanday parametrlarni kiritish sifatida oladi?",
+      "answers": [
+        {
+          "answer": "kalit va qiymat",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalitlar va qiymatlar ketma-ketligi",
+          "isCorrect": true
+        },
+        {
+          "answer": "kalitlar ketma-ketligi va qiymatlar ketma-ketligi",
+          "isCorrect": false
+        },
+        {
+          "answer": "qiymat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atda pop() usuli kirish sifatida qanday parametrlarni oladi?",
+      "answers": [
+        {
+          "answer": "kalit va uning qiymati",
+          "isCorrect": false
+        },
+        {
+          "answer": "qiymat",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalit",
+          "isCorrect": true
+        },
+        {
+          "answer": "uning parametrlari yo'q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'atda items() usuli nimani qaytaradi?",
+      "answers": [
+        {
+          "answer": "qiymatlarni",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalit va qiymat turlarini",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalitlarni",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalit/qiymat juftliklari",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Qaysi usul lug'atga yangi elementlar qo'shish imkonini beradi?",
+      "answers": [
+        {
+          "answer": "update()",
+          "isCorrect": true
+        },
+        {
+          "answer": "input()",
+          "isCorrect": false
+        },
+        {
+          "answer": "dict_in()",
+          "isCorrect": false
+        },
+        {
+          "answer": "insert()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'at yaratish uchun qaysi funktsiyadan foydalaniladi ?",
+      "answers": [
+        {
+          "answer": "create_dict()",
+          "isCorrect": false
+        },
+        {
+          "answer": "dictionary()",
+          "isCorrect": false
+        },
+        {
+          "answer": "dict()",
+          "isCorrect": true
+        },
+        {
+          "answer": "list()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lug'at kalitlarini qaytarish uchun qanday usul qo'llaniladi?",
+      "answers": [
+        {
+          "answer": "keys()",
+          "isCorrect": false
+        },
+        {
+          "answer": "key()",
+          "isCorrect": true
+        },
+        {
+          "answer": "keys_list()",
+          "isCorrect": false
+        },
+        {
+          "answer": "get_keys()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Kalit bo'yicha lug'atdan juftlikni o'chirish uchun qaysi usuldan foydalaniladi?",
+      "answers": [
+        {
+          "answer": "clear()",
+          "isCorrect": false
+        },
+        {
+          "answer": "pop()",
+          "isCorrect": true
+        },
+        {
+          "answer": "del()",
+          "isCorrect": false
+        },
+        {
+          "answer": "delete()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda vaqt, sana va kalendar bilan ishlash uchun .... modullar mavjud.",
+      "answers": [
+        {
+          "answer": "uchta (time, datetime, calendar)",
+          "isCorrect": true
+        },
+        {
+          "answer": "ikkita (time, datetime)",
+          "isCorrect": false
+        },
+        {
+          "answer": "ikkita (time, calendar)",
+          "isCorrect": false
+        },
+        {
+          "answer": "ikkita (datetime, calendar)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Davrdan hozirgi vaqtgacha qancha soniya o'tganini bilish uchun ... funksiyasidan foydalinadi.",
+      "answers": [
+        {
+          "answer": "localtime",
+          "isCorrect": false
+        },
+        {
+          "answer": "time",
+          "isCorrect": true
+        },
+        {
+          "answer": "asctime",
+          "isCorrect": false
+        },
+        {
+          "answer": "strftime",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt mintaqangizdagi joriy vaqt bilan time_struct ob'ektini olish mumkin, buning uchun .... funksiyasidan foydalinadi.",
+      "answers": [
+        {
+          "answer": "localtime",
+          "isCorrect": true
+        },
+        {
+          "answer": "time",
+          "isCorrect": false
+        },
+        {
+          "answer": "asctime",
+          "isCorrect": false
+        },
+        {
+          "answer": "strftime",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt chiqish formatini o'zingiz o'rnatishingiz kerak bo'lganda ... funksiyasidan foydalinadi.",
+      "answers": [
+        {
+          "answer": "localtime",
+          "isCorrect": false
+        },
+        {
+          "answer": "time",
+          "isCorrect": false
+        },
+        {
+          "answer": "asctime",
+          "isCorrect": false
+        },
+        {
+          "answer": "strftime",
+          "isCorrect": true
+        }
+      ]
+    },
+
+    {
+      "question": "Vaqt bilan ishlash uchun shablon spetsifikatori: % d -- ...",
+      "answers": [
+        {
+          "answer": "oyning kuni",
+          "isCorrect": true
+        },
+        {
+          "answer": "yil kunining raqami",
+          "isCorrect": false
+        },
+        {
+          "answer": "oyning ikki xonali ko'rinishi",
+          "isCorrect": false
+        },
+        {
+          "answer": "daqiqalarni ikki xonali ko'rsatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt bilan ishlash uchun shablon spetsifikatori: % j -- ...",
+      "answers": [
+        {
+          "answer": "oyning kuni",
+          "isCorrect": false
+        },
+        {
+          "answer": "yil kunining raqami",
+          "isCorrect": true
+        },
+        {
+          "answer": "oyning ikki xonali ko'rinishi",
+          "isCorrect": false
+        },
+        {
+          "answer": "daqiqalarni ikki xonali ko'rsatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt bilan ishlash uchun shablon spetsifikatori: % m -- ...",
+      "answers": [
+        {
+          "answer": "oyning kuni",
+          "isCorrect": false
+        },
+        {
+          "answer": "yil kunining raqami",
+          "isCorrect": false
+        },
+        {
+          "answer": "oyning ikki xonali ko'rinishi",
+          "isCorrect": true
+        },
+        {
+          "answer": "daqiqalarni ikki xonali ko'rsatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Vaqt bilan ishlash uchun shablon spetsifikatori: % M -- ...",
+      "answers": [
+        {
+          "answer": "oyning kuni",
+          "isCorrect": false
+        },
+        {
+          "answer": "yil kunining raqami",
+          "isCorrect": false
+        },
+        {
+          "answer": "oyning ikki xonali ko'rinishi",
+          "isCorrect": false
+        },
+        {
+          "answer": "daqiqalarni ikki xonali ko'rsatish",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod bilan qanaqa funksiya yaratilmoqda: def add(x, y):\n    return x + y",
+      "answers": [
+        {
+          "answer": "bu funksiya emas",
+          "isCorrect": false
+        },
+        {
+          "answer": "anonim funksiya",
+          "isCorrect": false
+        },
+        {
+          "answer": "rekursiv funksiya",
+          "isCorrect": false
+        },
+        {
+          "answer": "nomli funksiya",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Pythonda funktsiyani aniqlash uchun ajratilgan so'z qaysi?",
+      "answers": [
+        {
+          "answer": "func",
+          "isCorrect": false
+        },
+        {
+          "answer": "def",
+          "isCorrect": true
+        },
+        {
+          "answer": "define",
+          "isCorrect": false
+        },
+        {
+          "answer": "procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Rekursiv funksiya chaqirilganda qanday hisoblashlar amalga oshiriladi?",
+      "answers": [
+        {
+          "answer": "chiziqli",
+          "isCorrect": false
+        },
+        {
+          "answer": "teskari",
+          "isCorrect": false
+        },
+        {
+          "answer": "bir tomonlama",
+          "isCorrect": false
+        },
+        {
+          "answer": "siklik",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Rekursiv funksiyaning asosiy maqsadi nima?",
+      "answers": [
+        {
+          "answer": "siklni o'rniga foydalanish",
+          "isCorrect": true
+        },
+        {
+          "answer": "kerakli natijani qaytarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "ro'yxatlar bilan ishlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "tsikllar orqali takrorlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python yordamida kompyuterda istalgan faylni ochish sintaksisi:",
+      "answers": [
+        {
+          "answer": "f = open(file_name, access_mode)",
+          "isCorrect": true
+        },
+        {
+          "answer": "f = open(access_mode, file_name)",
+          "isCorrect": false
+        },
+        {
+          "answer": "file.read(file_name, access_mode)",
+          "isCorrect": false
+        },
+        {
+          "answer": "file.read(file_name)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Faylni ochish rejimi r −...",
+      "answers": [
+        {
+          "answer": "Faqat yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat oʻqish uchun.",
+          "isCorrect": true
+        },
+        {
+          "answer": "O'qish va yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yangi ma'lumot qo'shish uchun ochish.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Faylni ochish rejimi w − ...",
+      "answers": [
+        {
+          "answer": "Faqat yozish uchun.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Faqat oʻqish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "O'qish va yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yangi ma'lumot qo'shish uchun ochish.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Faylni ochish rejimi a − ...",
+      "answers": [
+        {
+          "answer": "Faqat yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat oʻqish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "O'qish va yozish uchun.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yangi ma'lumot qo'shish uchun ochish.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Pythonda bir qatorli izoh to'g'ri berilgan javobni aniqlang.",
+      "answers": [
+        {
+          "answer": "# bu izox;",
+          "isCorrect": true
+        },
+        {
+          "answer": "% bu izox;",
+          "isCorrect": false
+        },
+        {
+          "answer": "* bu izox;",
+          "isCorrect": false
+        },
+        {
+          "answer": "$ bu izox;",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda dastur natijasini chop etish uchun qaysi operator ishlatiladi?",
+      "answers": [
+        {
+          "answer": "print()",
+          "isCorrect": true
+        },
+        {
+          "answer": "cout()",
+          "isCorrect": false
+        },
+        {
+          "answer": "echo()",
+          "isCorrect": false
+        },
+        {
+          "answer": "writeln()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda ma'lumotlarni kiritish uchun qaysi operator ishlatiladi?",
+      "answers": [
+        {
+          "answer": "input ()",
+          "isCorrect": true
+        },
+        {
+          "answer": "print()",
+          "isCorrect": false
+        },
+        {
+          "answer": "cin()",
+          "isCorrect": false
+        },
+        {
+          "answer": "edit()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'zgaruvchilar qaysi kalit so'z bilan e'lon qilinadi?",
+      "answers": [
+        {
+          "answer": "Pythonda o'zgaruvchi e'lon qilinmaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "var",
+          "isCorrect": false
+        },
+        {
+          "answer": "let",
+          "isCorrect": false
+        },
+        {
+          "answer": "input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda mantiqiy amal natijasi qanday boladi?",
+      "answers": [
+        {
+          "answer": "True yoki False(1 yoki 0)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Begin yoki end",
+          "isCorrect": false
+        },
+        {
+          "answer": "int",
+          "isCorrect": false
+        },
+        {
+          "answer": "float",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda suzuvchi vergulli son turi qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "float",
+          "isCorrect": true
+        },
+        {
+          "answer": "decimal",
+          "isCorrect": false
+        },
+        {
+          "answer": "int",
+          "isCorrect": false
+        },
+        {
+          "answer": "bool",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda ro'yxat turi qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "list",
+          "isCorrect": true
+        },
+        {
+          "answer": "dict",
+          "isCorrect": false
+        },
+        {
+          "answer": "tuple",
+          "isCorrect": false
+        },
+        {
+          "answer": "range",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda lug'at turi qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "dict",
+          "isCorrect": true
+        },
+        {
+          "answer": "list",
+          "isCorrect": false
+        },
+        {
+          "answer": "tuple",
+          "isCorrect": false
+        },
+        {
+          "answer": "range",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda ma'lumotni butun son tipiga o'zgartirish tug'ri ko'rsatilag javobni aniqalang.",
+      "answers": [
+        {
+          "answer": "int(<ma'lumot>)",
+          "isCorrect": true
+        },
+        {
+          "answer": "float(ma'lumot)",
+          "isCorrect": false
+        },
+        {
+          "answer": "str(ma'lumot)",
+          "isCorrect": false
+        },
+        {
+          "answer": "bool(ma'lumot)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'zgaruvchini o'chirish konstruksiyasi qanday bo'ladi?",
+      "answers": [
+        {
+          "answer": "del <o'zgaruvchi>[, ..., <o'zgaruvchi_N>]",
+          "isCorrect": true
+        },
+        {
+          "answer": "delete <o'zgaruvchi>[, ..., <o'zgaruvchi_N>]",
+          "isCorrect": false
+        },
+        {
+          "answer": "rd <o'zgaruvchi>[, ..., <o'zgaruvchi_N>]",
+          "isCorrect": false
+        },
+        {
+          "answer": "clear <o'zgaruvchi>[, ..., <o'zgaruvchi_N>]",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda \" / / \" amali qanaday ma'no anglatadi?",
+      "answers": [
+        {
+          "answer": "kami bilan yaxlitlanadigan bo'lish",
+          "isCorrect": true
+        },
+        {
+          "answer": "qoldiqli bo'lish",
+          "isCorrect": false
+        },
+        {
+          "answer": "darajaga ko'tarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "bo'lish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda \"%\" amali qanaday ma'no anglatadi?",
+      "answers": [
+        {
+          "answer": "qoldiqli bo'lish",
+          "isCorrect": true
+        },
+        {
+          "answer": "kami bilan yaxlitlanadigan bo'lish",
+          "isCorrect": false
+        },
+        {
+          "answer": "darajaga ko'tarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "bo'lish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mantiqiy (ikkilik) VA amali qaysi belgi bilan abelgilanadi?",
+      "answers": [
+        {
+          "answer": "&",
+          "isCorrect": true
+        },
+        {
+          "answer": "|",
+          "isCorrect": false
+        },
+        {
+          "answer": "^",
+          "isCorrect": false
+        },
+        {
+          "answer": "<<",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda >>> True + 2 amal natijasi nimaga teng?",
+      "answers": [
+        {
+          "answer": "3",
+          "isCorrect": true
+        },
+        {
+          "answer": "\"True+2\"",
+          "isCorrect": false
+        },
+        {
+          "answer": "2",
+          "isCorrect": false
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda bool (20) funksiya qanday qiymat qaytaradi?",
+      "answers": [
+        {
+          "answer": "True",
+          "isCorrect": true
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "False",
+          "isCorrect": false
+        },
+        {
+          "answer": "20",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda bool (\"0\") funksiya qanday qiymat qaytaradi?",
+      "answers": [
+        {
+          "answer": "True",
+          "isCorrect": true
+        },
+        {
+          "answer": "False",
+          "isCorrect": false
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "20",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi operator ikkita o'zgaruchi bir obyektga havola qilinganini tekshiradi?",
+      "answers": [
+        {
+          "answer": "is",
+          "isCorrect": true
+        },
+        {
+          "answer": "in",
+          "isCorrect": false
+        },
+        {
+          "answer": "if",
+          "isCorrect": false
+        },
+        {
+          "answer": "not",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi operator qiymatni qator yoki ketma-ketlikka tegishlilikka tekshiradi?",
+      "answers": [
+        {
+          "answer": "in",
+          "isCorrect": true
+        },
+        {
+          "answer": "is",
+          "isCorrect": false
+        },
+        {
+          "answer": "if",
+          "isCorrect": false
+        },
+        {
+          "answer": "not",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda \"VA\" mantiqiy amalai qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "AND",
+          "isCorrect": true
+        },
+        {
+          "answer": "OR",
+          "isCorrect": false
+        },
+        {
+          "answer": "NOT",
+          "isCorrect": false
+        },
+        {
+          "answer": "I",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda \"YOKI\" mantiqiy amalai qaysi so'z bilan ifoda qilinadi?",
+      "answers": [
+        {
+          "answer": "OR",
+          "isCorrect": true
+        },
+        {
+          "answer": "AND",
+          "isCorrect": false
+        },
+        {
+          "answer": "NOT",
+          "isCorrect": false
+        },
+        {
+          "answer": "IF",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Javoblar orasidan qaysi operator Pythonda takrorlanishni ta'minlaydi?",
+      "answers": [
+        {
+          "answer": "while",
+          "isCorrect": true
+        },
+        {
+          "answer": "if",
+          "isCorrect": false
+        },
+        {
+          "answer": "switch",
+          "isCorrect": false
+        },
+        {
+          "answer": "numerate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda range funksiyasi formati to'g'ri berilgan javobni belgilang?",
+      "answers": [
+        {
+          "answer": "range ([<boshlang'ich qiymat>,] <Tugash> [, <Qadam>])",
+          "isCorrect": true
+        },
+        {
+          "answer": "range ([<boshlang'ich qiymat>,] [ <Qadam>], <Tugash>)",
+          "isCorrect": false
+        },
+        {
+          "answer": "range (<Qadam>)",
+          "isCorrect": false
+        },
+        {
+          "answer": "range ([<Qadam>,] [<boshlang'ich qiymat>,] <Tugash>)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda range() funksiyasi qanday vaziafa bajaradi?",
+      "answers": [
+        {
+          "answer": "Sonlar ketma-ketligini ifodalaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sonlarni yigindisini qayataradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Darajaga ko'taradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kvadrat ildiz chiqaradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda for operatori qanaday maqsadda qo'llaniladi?",
+      "answers": [
+        {
+          "answer": "takrorlanishlarni hisoblash va ketma-ketliklar bilan ishlash uchun foydalaniladi;",
+          "isCorrect": true
+        },
+        {
+          "answer": "tarmoqlanishlarni amaliga oshirishda va sonlar bilan ishlashda qo'llaniladi;",
+          "isCorrect": false
+        },
+        {
+          "answer": "murakkab ifodalarni yozishda foydalaniladi;",
+          "isCorrect": false
+        },
+        {
+          "answer": "ketma-ketliklarni ifodalsh uchun va tarmoqlarga ajratsish uchun ishlatiladi;",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi operator sikldagi barcha instruksiyalar bajarilmay, siklning navbatdagi iterasiyasiga o'tish imkonini beradi",
+      "answers": [
+        {
+          "answer": "continue",
+          "isCorrect": true
+        },
+        {
+          "answer": "break",
+          "isCorrect": false
+        },
+        {
+          "answer": "for",
+          "isCorrect": false
+        },
+        {
+          "answer": "while",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi operator sikl bajarilishini zudlik bilan to'xtatish imkonini beradi",
+      "answers": [
+        {
+          "answer": "break",
+          "isCorrect": true
+        },
+        {
+          "answer": "continue",
+          "isCorrect": false
+        },
+        {
+          "answer": "for",
+          "isCorrect": false
+        },
+        {
+          "answer": "while",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda while operatori qanday maqsadda qo'llaniladi?",
+      "answers": [
+        {
+          "answer": "takrorlanishlarni tashkil etish uchun",
+          "isCorrect": true
+        },
+        {
+          "answer": "tarmoqlanishi tashkil etish uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "ichma-ich takrorlanishni tashkil etish uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "shartsiz takrorlanishlarni tashkil etish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python 3 da butun son tipi qaysi so'z bilan belgilanadi?",
+      "answers": [
+        {
+          "answer": "int",
+          "isCorrect": true
+        },
+        {
+          "answer": "float",
+          "isCorrect": false
+        },
+        {
+          "answer": "decimal",
+          "isCorrect": false
+        },
+        {
+          "answer": "complex",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python 3 da kasr sonni qanday ifodalash mumkin?",
+      "answers": [
+        {
+          "answer": "Fraction() funksiyasi yordamida",
+          "isCorrect": true
+        },
+        {
+          "answer": "complex() funksiyasi yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "float xizmatchi so'zi yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "ifodalab bo'lmaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda kompleks son yozilish formati to'g'ri berilgan javobni tping?",
+      "answers": [
+        {
+          "answer": "<Haqiyqiy qism> + <Mavhum qism>J",
+          "isCorrect": true
+        },
+        {
+          "answer": "<Haqiyqiy qism>J + <Mavhum qism>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<Haqiyqiy qism>+J + <Mavhum qism>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<Haqiyqiy qism>+ <Mavhum qism>+J",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'nlik sonni ikkilik sanoq sistemasiga o'tkazish uchun qayis funksiya ishlatiladi?",
+      "answers": [
+        {
+          "answer": "bin (<Son> )",
+          "isCorrect": true
+        },
+        {
+          "answer": "oct (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "hex (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "abs (<Son>)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'nlik sonni sakkizlik sanoq sistemasiga o'tkazish uchun qayis funksiya ishlatiladi?",
+      "answers": [
+        {
+          "answer": "oct (<Son> )",
+          "isCorrect": true
+        },
+        {
+          "answer": "bin (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "hex (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "abs (<Son>)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda o'nlik sonni o'n oltilik sanoq sistemasiga o'tkazish uchun qayis funksiya ishlatiladi?",
+      "answers": [
+        {
+          "answer": "hex (<Son> )",
+          "isCorrect": true
+        },
+        {
+          "answer": "oct (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "bin (<Son> )",
+          "isCorrect": false
+        },
+        {
+          "answer": "abs (<Son>)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda divmod (õ, ó) funksiyasi qanday amal bajkaradi?",
+      "answers": [
+        {
+          "answer": "Sonning butun va qoldiq qismini qaytaradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sonning butun qismini qaytaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sonning qoldiq qismini qaytaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sonni yaxlitlaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda sonni radiandan gradusga o'tkazish uchunqaysi funksiya qo'llaniladi?",
+      "answers": [
+        {
+          "answer": "degrees()",
+          "isCorrect": true
+        },
+        {
+          "answer": "radians()",
+          "isCorrect": false
+        },
+        {
+          "answer": "åõð()",
+          "isCorrect": false
+        },
+        {
+          "answer": "ceil()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda sonni eng yaqin katta songa yaxlitlash funksiyasi qaysi?",
+      "answers": [
+        {
+          "answer": "ceil ()",
+          "isCorrect": true
+        },
+        {
+          "answer": "floor ()",
+          "isCorrect": false
+        },
+        {
+          "answer": "fabs ()",
+          "isCorrect": false
+        },
+        {
+          "answer": "round ()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda random() funksiyasining vazasi nima?",
+      "answers": [
+        {
+          "answer": "0.0 dan 1.0 gacha tasodifiy sonlarni qaytaradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tasodifiy sonlar diapazonini aniqlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tasodifiy sonlar modulini chaqirib beradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "1 dan 10 gacha tasodifiy sonlarni qaytaradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda uniform () funksiyasining vazasi nima?",
+      "answers": [
+        {
+          "answer": "Ko'rsatilgan diapazondagi haqiyqiy tasodifiy sonlar qaytaradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "0.0 dan 1.0 gacha tasodifiy sonni qaytaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tasodifiy sonlar modulini chaqirib beradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "1 dan 10 gacha tasodifiy sonlarni qaytaradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda randint () funksiyasining vazasi nima?",
+      "answers": [
+        {
+          "answer": "Ko'rsatilgan diapazondagi butun tasodifiy sonni qaytaradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "0.0 dan 1.0 gacha tasodifiy sonni qaytaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tasodifiy sonlar modulini chaqirib beradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "1 dan 10 gacha tasodifiy sonlarni qaytaradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi funksiya berilgan ketma-ketlik (satr, ro'yxat, kortej) dagi tasodifiy elementni qaytaradi?",
+      "answers": [
+        {
+          "answer": "choice (<Ketma-ketlik>)",
+          "isCorrect": true
+        },
+        {
+          "answer": "shuffle (<Ro'yxat> [, <0.0 dan 1.0 gacha sonlar>])",
+          "isCorrect": false
+        },
+        {
+          "answer": "sample (<Ketma-ketlik>, <Elementlar soni>)",
+          "isCorrect": false
+        },
+        {
+          "answer": "randrange ([<Boshlanish>,] <Tugash> [, <Qadam>])",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tili qaysi yilda yaratilgan?",
+      "answers": [
+        {
+          "answer": "1989",
+          "isCorrect": false
+        },
+        {
+          "answer": "1991",
+          "isCorrect": true
+        },
+        {
+          "answer": "1995",
+          "isCorrect": false
+        },
+        {
+          "answer": "2000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python dasturlash tilining yaratuvchisi kim?",
+      "answers": [
+        {
+          "answer": "Guido van Rossum",
+          "isCorrect": true
+        },
+        {
+          "answer": "Dennis Ritchie",
+          "isCorrect": false
+        },
+        {
+          "answer": "James Gosling",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bjarne Stroustrup",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python fayllarining kengaytmasi qanday?",
+      "answers": [
+        {
+          "answer": ".py",
+          "isCorrect": true
+        },
+        {
+          "answer": ".java",
+          "isCorrect": false
+        },
+        {
+          "answer": ".cpp",
+          "isCorrect": false
+        },
+        {
+          "answer": ".txt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python interpretatorining asosiy vazifasi nima?",
+      "answers": [
+        {
+          "answer": "Kodni kompilyatsiya qilish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kodni bajarish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Fayllarni saqlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Malumotlarni tahlil qilish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python qaysi dasturlash paradigmasini qo'llab-quvvatlaydi?",
+      "answers": [
+        {
+          "answer": "Ob'ektga yo'naltirilgan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Funksional",
+          "isCorrect": false
+        },
+        {
+          "answer": "Imperativ",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yuqoridagilarning barchasi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Python tilida o'zgaruvchi nomini e'lon qilishda qaysi belgi ishlatilmaydi?",
+      "answers": [
+        {
+          "answer": "Pastki chiziq (_)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Harf",
+          "isCorrect": false
+        },
+        {
+          "answer": "Probel (space)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Raqam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = \"Hello\"\nprint(x)",
+      "answers": [
+        {
+          "answer": "Hello",
+          "isCorrect": true
+        },
+        {
+          "answer": "\"Hello\"",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "x",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python o'zgaruvchilari qanday turdagi?",
+      "answers": [
+        {
+          "answer": "Statik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dinamik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Murakkab",
+          "isCorrect": false
+        },
+        {
+          "answer": "Raqamli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "O'zgaruvchilarning to'g'ri nomini ko'rsating:",
+      "answers": [
+        {
+          "answer": "my-variable",
+          "isCorrect": false
+        },
+        {
+          "answer": "1var",
+          "isCorrect": false
+        },
+        {
+          "answer": "_myVar",
+          "isCorrect": true
+        },
+        {
+          "answer": "var 1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday qiymat qaytaradi? x = 10\nx += 5",
+      "answers": [
+        {
+          "answer": "10",
+          "isCorrect": false
+        },
+        {
+          "answer": "5",
+          "isCorrect": false
+        },
+        {
+          "answer": "15",
+          "isCorrect": true
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday ma'lumot turiga tegishli? x = 10.5",
+      "answers": [
+        {
+          "answer": "int",
+          "isCorrect": false
+        },
+        {
+          "answer": "float",
+          "isCorrect": true
+        },
+        {
+          "answer": "str",
+          "isCorrect": false
+        },
+        {
+          "answer": "bool",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma'lumot turini aniqlash uchun qaysi funksiya ishlatiladi?",
+      "answers": [
+        {
+          "answer": "datatype()",
+          "isCorrect": false
+        },
+        {
+          "answer": "type()",
+          "isCorrect": true
+        },
+        {
+          "answer": "typeof()",
+          "isCorrect": false
+        },
+        {
+          "answer": "istype()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi qanday bo'ladi? x = [1, 2, 3]\nprint(type(x))",
+      "answers": [
+        {
+          "answer": "<class 'list'>",
+          "isCorrect": true
+        },
+        {
+          "answer": "<class 'tuple'>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<class 'dict'>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<class 'set'>",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday qiymat qaytaradi? x = True\nprint(type(x))",
+      "answers": [
+        {
+          "answer": "<class 'bool'>",
+          "isCorrect": true
+        },
+        {
+          "answer": "<class 'int'>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<class 'str'>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<class 'float'>",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday qiymat qaytaradi? x = \"Salom\"\nprint(type(x))",
+      "answers": [
+        {
+          "answer": "<class 'str'>",
+          "isCorrect": true
+        },
+        {
+          "answer": "<class 'int'>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<class 'float'>",
+          "isCorrect": false
+        },
+        {
+          "answer": "<class 'bool'>",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = 7 % 3",
+      "answers": [
+        {
+          "answer": "1",
+          "isCorrect": true
+        },
+        {
+          "answer": "2",
+          "isCorrect": false
+        },
+        {
+          "answer": "3",
+          "isCorrect": false
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda daraja hisoblash operatori qaysi?",
+      "answers": [
+        {
+          "answer": "^",
+          "isCorrect": false
+        },
+        {
+          "answer": "**",
+          "isCorrect": true
+        },
+        {
+          "answer": "*",
+          "isCorrect": false
+        },
+        {
+          "answer": "//",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = 10 // 4",
+      "answers": [
+        {
+          "answer": "2.5",
+          "isCorrect": false
+        },
+        {
+          "answer": "2",
+          "isCorrect": true
+        },
+        {
+          "answer": "3",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python qaysi operatorni ishlatib bo'luv qoldig'ini topadi?",
+      "answers": [
+        {
+          "answer": "//",
+          "isCorrect": false
+        },
+        {
+          "answer": "%",
+          "isCorrect": true
+        },
+        {
+          "answer": "/",
+          "isCorrect": false
+        },
+        {
+          "answer": "**",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = 4 + 3 * 2",
+      "answers": [
+        {
+          "answer": "14",
+          "isCorrect": false
+        },
+        {
+          "answer": "10",
+          "isCorrect": true
+        },
+        {
+          "answer": "7",
+          "isCorrect": false
+        },
+        {
+          "answer": "12",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = 5\nif x > 3:\n    print(\"Katta\")",
+      "answers": [
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "Katta",
+          "isCorrect": true
+        },
+        {
+          "answer": "5",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hech narsa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Shartni bajarish uchun qaysi kalit so'z ishlatiladi?",
+      "answers": [
+        {
+          "answer": "if",
+          "isCorrect": false
+        },
+        {
+          "answer": "else",
+          "isCorrect": true
+        },
+        {
+          "answer": "elif",
+          "isCorrect": false
+        },
+        {
+          "answer": "for",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = 5\nif x < 3:\n    print(\"Kichik\")\nelse:\n    print(\"Katta\")",
+      "answers": [
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kichik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Katta",
+          "isCorrect": true
+        },
+        {
+          "answer": "Hech narsa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "elif qanday vazifani bajaradi?",
+      "answers": [
+        {
+          "answer": "Kodni to'xtatadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Qo'shimcha shartlarni tekshiradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Faqat bitta shartni tekshiradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Takrorlashni boshlaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi qanday? x = 7\nif x > 10:\n    print(\"Katta\")\nelif x > 5:\n    print(\"O'rta\")\nelse:\n    print(\"Kichik\")",
+      "answers": [
+        {
+          "answer": "Katta",
+          "isCorrect": false
+        },
+        {
+          "answer": "O'rta",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kichik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda siklni yozish uchun qaysi kalit so'z ishlatiladi?",
+      "answers": [
+        {
+          "answer": "while",
+          "isCorrect": false
+        },
+        {
+          "answer": "for",
+          "isCorrect": true
+        },
+        {
+          "answer": "loop",
+          "isCorrect": false
+        },
+        {
+          "answer": "repeat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? for i in range(3):\n    print(i)",
+      "answers": [
+        {
+          "answer": "1 2 3",
+          "isCorrect": false
+        },
+        {
+          "answer": "0 1 2",
+          "isCorrect": true
+        },
+        {
+          "answer": "0 1 2 3",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "range(5) qanday qiymatlar hosil qiladi?",
+      "answers": [
+        {
+          "answer": "1, 2, 3, 4, 5",
+          "isCorrect": false
+        },
+        {
+          "answer": "0, 1, 2, 3, 4",
+          "isCorrect": true
+        },
+        {
+          "answer": "0, 1, 2, 3, 4, 5",
+          "isCorrect": false
+        },
+        {
+          "answer": "1, 2, 3, 4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Siklni to'xtatish uchun qaysi kalit so'z ishlatiladi?",
+      "answers": [
+        {
+          "answer": "stop",
+          "isCorrect": false
+        },
+        {
+          "answer": "end",
+          "isCorrect": false
+        },
+        {
+          "answer": "break",
+          "isCorrect": true
+        },
+        {
+          "answer": "exit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? for i in range(3):\n    if i == 1:\n        break\n    print(i)",
+      "answers": [
+        {
+          "answer": "0",
+          "isCorrect": true
+        },
+        {
+          "answer": "0 1",
+          "isCorrect": false
+        },
+        {
+          "answer": "1",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "while sikli qanday ishlaydi?",
+      "answers": [
+        {
+          "answer": "Shart bajarilgunga qadar davom etadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bir martagina ishlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat bir nechta qiymat bilan ishlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Cheksiz takrorlanadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = 0\nwhile x < 3:\n    print(x)\n    x += 1",
+      "answers": [
+        {
+          "answer": "0 1 2",
+          "isCorrect": true
+        },
+        {
+          "answer": "0 1 2 3",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "Cheksiz sikl",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "While siklida qaysi kalit so'z ishlatilsa, sikl keyingi iteratsiyaga o'tadi?",
+      "answers": [
+        {
+          "answer": "pass",
+          "isCorrect": false
+        },
+        {
+          "answer": "break",
+          "isCorrect": false
+        },
+        {
+          "answer": "continue",
+          "isCorrect": true
+        },
+        {
+          "answer": "return",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi qanday bo'ladi? x = 5\nwhile x > 0:\n    x -= 1\n    print(x)",
+      "answers": [
+        {
+          "answer": "5 4 3 2 1 0",
+          "isCorrect": false
+        },
+        {
+          "answer": "4 3 2 1 0",
+          "isCorrect": true
+        },
+        {
+          "answer": "4 3 2 1",
+          "isCorrect": false
+        },
+        {
+          "answer": "Cheksiz sikl",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = 0\nwhile x < 3:\n    x += 1\n    if x == 2:\n        continue\n    print(x)",
+      "answers": [
+        {
+          "answer": "1 3",
+          "isCorrect": true
+        },
+        {
+          "answer": "1 2 3",
+          "isCorrect": false
+        },
+        {
+          "answer": "0 1 3",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = 5\ny = 2\nprint(x ** y)",
+      "answers": [
+        {
+          "answer": "7",
+          "isCorrect": false
+        },
+        {
+          "answer": "25",
+          "isCorrect": true
+        },
+        {
+          "answer": "32",
+          "isCorrect": false
+        },
+        {
+          "answer": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi qanday? x = 10\ny = 3\nprint(x // y)",
+      "answers": [
+        {
+          "answer": "3",
+          "isCorrect": true
+        },
+        {
+          "answer": "3.3333",
+          "isCorrect": false
+        },
+        {
+          "answer": "4",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday sonni bildiradi? x = 3.14",
+      "answers": [
+        {
+          "answer": "Raqam",
+          "isCorrect": false
+        },
+        {
+          "answer": "Butun son",
+          "isCorrect": false
+        },
+        {
+          "answer": "Haqiqiy son",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kompleks son",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Pythonda qaysi funksiya sonning modul qiymatini topadi?",
+      "answers": [
+        {
+          "answer": "abs()",
+          "isCorrect": true
+        },
+        {
+          "answer": "mod()",
+          "isCorrect": false
+        },
+        {
+          "answer": "round()",
+          "isCorrect": false
+        },
+        {
+          "answer": "absmod()",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = -7\nprint(abs(x))",
+      "answers": [
+        {
+          "answer": "-7",
+          "isCorrect": false
+        },
+        {
+          "answer": "7",
+          "isCorrect": true
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Python tilida qatorlar qanday belgilar bilan o'raladi?",
+      "answers": [
+        {
+          "answer": "\" \", ' '",
+          "isCorrect": true
+        },
+        {
+          "answer": "/* */",
+          "isCorrect": false
+        },
+        {
+          "answer": "{ }",
+          "isCorrect": false
+        },
+        {
+          "answer": "[ ]",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = \"Python\"\nprint(x[1])",
+      "answers": [
+        {
+          "answer": "P",
+          "isCorrect": false
+        },
+        {
+          "answer": "y",
+          "isCorrect": true
+        },
+        {
+          "answer": "t",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Qatorlarni birlashtirish uchun qaysi operator ishlatiladi?",
+      "answers": [
+        {
+          "answer": "+",
+          "isCorrect": true
+        },
+        {
+          "answer": "&",
+          "isCorrect": false
+        },
+        {
+          "answer": "||",
+          "isCorrect": false
+        },
+        {
+          "answer": "//",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi kod qanday natija qaytaradi? x = \"Python\"\nprint(len(x))",
+      "answers": [
+        {
+          "answer": "6",
+          "isCorrect": true
+        },
+        {
+          "answer": "5",
+          "isCorrect": false
+        },
+        {
+          "answer": "Error",
+          "isCorrect": false
+        },
+        {
+          "answer": "7",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Qatorni katta harfga o'tkazuvchi metodni ko'rsating:",
+      "answers": [
+        {
+          "answer": "upper()",
+          "isCorrect": true
+        },
+        {
+          "answer": "capitalize()",
+          "isCorrect": false
+        },
+        {
+          "answer": "lower()",
+          "isCorrect": false
+        },
+        {
+          "answer": "title()",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

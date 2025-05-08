@@ -34,6 +34,7 @@ body {
   cursor: pointer;
   transition: all 0.2s ease;
   font-size: 1.2rem;
+  text-decoration: none;
 }
 
 .subject-card:hover {

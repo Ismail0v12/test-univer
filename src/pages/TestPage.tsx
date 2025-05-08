@@ -6,6 +6,8 @@ import "../styles/TestPage.css";
 // Import KTT questions
 import kttQuestions from "../../public/att_kafedrasi_ktt_fanidan.json";
 import imoQuestions from "../../public/parsed_imo_questions.json";
+import mbbdtQuestions from "../../public/mbbdt.json";
+import pythonQuestions from "../../public/python.json";
 
 // Fisher-Yates shuffle algorithm
 const shuffleArray = <T,>(array: T[]): T[] => {
@@ -31,11 +33,11 @@ const TestPage = () => {
     () => ({
       ktt: kttQuestions.questions,
       imo: imoQuestions.questions,
+      mbbdt: mbbdtQuestions.questions,
+      python: pythonQuestions.questions,
     }),
     []
   );
-
-  console.log(subjectId);
 
   useEffect(() => {
     const loadQuestions = () => {

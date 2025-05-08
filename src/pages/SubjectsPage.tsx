@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { Subject } from "../types";
 import "../styles/SubjectsPage.css";
 
@@ -21,29 +21,25 @@ const mockSubjects: Subject[] = [
     name: "IMO",
     description: "Test your programming skills",
   },
+  {
+    id: "mbbdt",
+    name: "MBBT",
+    description: "Test your programming skills",
+  },
 ];
 
 const SubjectsPage = () => {
-  const navigate = useNavigate();
   const [subjects] = useState<Subject[]>(mockSubjects);
-
-  const handleSubjectSelect = (subjectId: string) => {
-    navigate(`/test/${subjectId}`);
-  };
 
   return (
     <div className="subjects-container">
       <h1>Choose a Subject</h1>
       <div className="subjects-grid">
         {subjects.map((subject) => (
-          <div
-            key={subject.id}
-            className="subject-card"
-            onClick={() => handleSubjectSelect(subject.id)}
-          >
+          <Link to={subject.id} key={subject.id} className="subject-card">
             <h2>{subject.name}</h2>
             <p>{subject.description}</p>
-          </div>
+          </Link>
         ))}
       </div>
     </div>

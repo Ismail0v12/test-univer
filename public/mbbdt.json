@@ -1,0 +1,4196 @@
+{
+  "questions": [
+    {
+      "question": "Ma’lumotlarning o’ziga xos xususiyatlarini e’tiborga olgan holda, uni maydonlarda ifodalash bu ….",
+      "answers": [
+        {
+          "answer": "jadvaldir",
+          "isCorrect": true
+        },
+        {
+          "answer": "makros",
+          "isCorrect": false
+        },
+        {
+          "answer": "modul",
+          "isCorrect": false
+        },
+        {
+          "answer": "hisobot",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "DELETE, INSERT, UPDATE buyruqlari kiradigan SQLqismi qaysi javobda to’gri keltirilgan?",
+      "answers": [
+        {
+          "answer": "DML",
+          "isCorrect": true
+        },
+        {
+          "answer": "DCL qismi",
+          "isCorrect": false
+        },
+        {
+          "answer": "DDL qismi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tranzaktsiyalarni boshqarish operatorlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi javoblardan qaysi birida MBni boshqarish tizimlari to’g’ri ko’rsatilgan?",
+      "answers": [
+        {
+          "answer": "Oracle, Access, MySQL, SQL Server",
+          "isCorrect": true
+        },
+        {
+          "answer": "SQL Server, Access, Paint, Excel, FoxPro, PowerPoint",
+          "isCorrect": false
+        },
+        {
+          "answer": "Access, Paint, Corel Draw, MySQL, Excel, Java",
+          "isCorrect": false
+        },
+        {
+          "answer": "Adobe Photoshop, Paint, FoxPro, Macromedia Fiash, Excel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma’lumotlar bazasi(MB) qaysi dasturda yaratiladi?",
+      "answers": [
+        {
+          "answer": "Microsoft Access",
+          "isCorrect": true
+        },
+        {
+          "answer": "Paint",
+          "isCorrect": false
+        },
+        {
+          "answer": "Corel Draw",
+          "isCorrect": false
+        },
+        {
+          "answer": "Adobe Photoshop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma’lumotlar bazasi(MB) qaysi dasturda yaratiladi?",
+      "answers": [
+        {
+          "answer": "MySQL",
+          "isCorrect": true
+        },
+        {
+          "answer": "Paint",
+          "isCorrect": false
+        },
+        {
+          "answer": "Corel Draw",
+          "isCorrect": false
+        },
+        {
+          "answer": "Adobe Photoshop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Eng sodda holda ikki o’lchovli massiv yoki jadvaldan iborat va ma’lumotlarni tashkil etishda uning qismlari orasidagi munosabatlarga asoslangan MB modeli bu ….?",
+      "answers": [
+        {
+          "answer": "Relyatsion",
+          "isCorrect": true
+        },
+        {
+          "answer": "ierarxik",
+          "isCorrect": false
+        },
+        {
+          "answer": "tarmoq",
+          "isCorrect": false
+        },
+        {
+          "answer": "to’r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MBning qaysi modeli quyi pog’onasidagi elementlari uning yuqori pog’onasidagiga elementlariga bo’ysunish g’oyasiga asoslangan?",
+      "answers": [
+        {
+          "answer": "Ierarxik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Relyastion",
+          "isCorrect": false
+        },
+        {
+          "answer": "Semantik tarmoq",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvallar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MBning qaysi modelida ixtiyoriy bug`in bevosita boshqa bug`inga ham bog`lanishi mumkin?",
+      "answers": [
+        {
+          "answer": "tarmoqsimon",
+          "isCorrect": true
+        },
+        {
+          "answer": "Relyastion",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ierarxik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadval",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi javoblardan qaysi birida maydonlarga xos xususiyatlar to’g’ri keltirilgan?",
+      "answers": [
+        {
+          "answer": "Uzunlik, nom, tip, cheklov",
+          "isCorrect": true
+        },
+        {
+          "answer": "Saralash, izlash, tip, shakl",
+          "isCorrect": false
+        },
+        {
+          "answer": "Saqlash, nom, tip, shakl",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yaratish, izlash, uzunlik, miqdor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Jadvalning bitta yozuvi boshqa jadvaldagi faqat bitta yozuviga mos kelsa, bu jadvallar orasidagi munosabatlarning qaysi turi hisoblanadi?",
+      "answers": [
+        {
+          "answer": "Birga-bir munosabat",
+          "isCorrect": true
+        },
+        {
+          "answer": "Birga-ko’p munosabat",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ko’pga-bir munosabat",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ko’pga-ko’p munosabat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Jadvalning bitta yozuvi boshqa jadvaldagi ikki yoki undan ortiq yozuviga mos kelsa, bu jadvallar orasidagi munosabatlarning qaysi turi hisoblanadi?",
+      "answers": [
+        {
+          "answer": "Birga-ko’p munosabat",
+          "isCorrect": true
+        },
+        {
+          "answer": "Birga-bir munosabat",
+          "isCorrect": false
+        },
+        {
+          "answer": "birga-ikki munosabat",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ko’pga-ko’p munosabat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Accessda natijalarning qog’ozli hujjatda aks etgan ifodasi",
+      "answers": [
+        {
+          "answer": "hisobotdir",
+          "isCorrect": true
+        },
+        {
+          "answer": "formadir",
+          "isCorrect": false
+        },
+        {
+          "answer": "jadvaldir",
+          "isCorrect": false
+        },
+        {
+          "answer": "so’rovdir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Relatsion malmotlar bazalarida Jadvallar o'rtasidagi bog`lanishlar necha turli bo`ladi?",
+      "answers": [
+        {
+          "answer": "3",
+          "isCorrect": true
+        },
+        {
+          "answer": "2",
+          "isCorrect": false
+        },
+        {
+          "answer": "4",
+          "isCorrect": false
+        },
+        {
+          "answer": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MBni boshqarish tizimlarida atribut bu ….",
+      "answers": [
+        {
+          "answer": "jadvaldagi ustun (maydon) dir",
+          "isCorrect": true
+        },
+        {
+          "answer": "konstruktor oynasidir",
+          "isCorrect": false
+        },
+        {
+          "answer": "Matnli ma’lumot",
+          "isCorrect": false
+        },
+        {
+          "answer": "jadvaldagi qator",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Relatsion malumotlar bazasida ma'lumotlar nimalarda ifodalanadi?",
+      "answers": [
+        {
+          "answer": "jadvallarda",
+          "isCorrect": true
+        },
+        {
+          "answer": "key- value korinishida",
+          "isCorrect": false
+        },
+        {
+          "answer": "dokumentlarda",
+          "isCorrect": false
+        },
+        {
+          "answer": "tog`ri javob yo`q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Accessda qanday ob’ekt yordamida maydon qiymatlari ustida amallar bajarish mumkin?",
+      "answers": [
+        {
+          "answer": "So’rovlar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Konstruktor",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadval yaratish ustasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadval ochiladi va asboblar panelidagi knopka (Grupovыe operastii) bosiladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Accessda foydalanuvchi tomonidan yaratilgan jadvalni ochmasdan jadval yozuvlarining bir qismini ko’rish imkoniyatini nima yordamida amalga oshirish mumkin?",
+      "answers": [
+        {
+          "answer": "So’rovlar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Konstruktor",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadval yaratish ustasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Asboblar panelidagi ! knopka (Zapusk) yordamida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi javoblarning qaysi birida MS Accessning mantiqiy operatsiyalari to’g’ri keltirilgan?",
+      "answers": [
+        {
+          "answer": "And, Or, Not, Xor",
+          "isCorrect": true
+        },
+        {
+          "answer": "begin, then, else, end if",
+          "isCorrect": false
+        },
+        {
+          "answer": "Select, From, Where, Order By",
+          "isCorrect": false
+        },
+        {
+          "answer": "Where, If, then, else, end if",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Malumotlar bazasini qurishda dastlab qaysi modeli ishlab chiqiladi?",
+      "answers": [
+        {
+          "answer": "konseptual",
+          "isCorrect": true
+        },
+        {
+          "answer": "mantiqiy",
+          "isCorrect": false
+        },
+        {
+          "answer": "fizik",
+          "isCorrect": false
+        },
+        {
+          "answer": "tog`ri javob yo`q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Relyatsion ma’lumotlar bazalarini boshqarish uchun ishlatiladigan til bu …….",
+      "answers": [
+        {
+          "answer": "SQL",
+          "isCorrect": true
+        },
+        {
+          "answer": "HTML",
+          "isCorrect": false
+        },
+        {
+          "answer": "c++",
+          "isCorrect": false
+        },
+        {
+          "answer": "c#",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MBdagi nomlangan eng kichik element bu ….",
+      "answers": [
+        {
+          "answer": "Atribut (maydon) dir",
+          "isCorrect": true
+        },
+        {
+          "answer": "katakdir",
+          "isCorrect": false
+        },
+        {
+          "answer": "yozuvdir",
+          "isCorrect": false
+        },
+        {
+          "answer": "shablondir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SQL tiliga ta’rif qaysi javobda to’g’ri keltirilgan",
+      "answers": [
+        {
+          "answer": "so’rovlar tilidir",
+          "isCorrect": true
+        },
+        {
+          "answer": "quyi darajadagi dasturlash tilidir",
+          "isCorrect": false
+        },
+        {
+          "answer": "yuqori darajadagi dasturlash tilidir",
+          "isCorrect": false
+        },
+        {
+          "answer": "ma’lumotlar bazalarini belgilash tilidir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Qanday MB jadval va faqat jadval asosida quriladi?",
+      "answers": [
+        {
+          "answer": "Relyastion",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ierarxik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoqli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mantli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Accessda ma'lum hissoblashlar orqali toldiriluvchi maydon turini tanlang?",
+      "answers": [
+        {
+          "answer": "вчисляемный",
+          "isCorrect": true
+        },
+        {
+          "answer": "длинные техт",
+          "isCorrect": false
+        },
+        {
+          "answer": "числовой",
+          "isCorrect": false
+        },
+        {
+          "answer": "tog`ri javob yo`q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Accessda rasmlar va fayllarni joylash uchun qanday maydon turidan foydalaniladi?",
+      "answers": [
+        {
+          "answer": "влажение",
+          "isCorrect": true
+        },
+        {
+          "answer": "числовой",
+          "isCorrect": false
+        },
+        {
+          "answer": "вчисляемный",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi javoblardan qaysi birida MBni boshqarish tizimlarida qo’llaniladigan munosabatlar to’g’ri ifodalangan?",
+      "answers": [
+        {
+          "answer": "Birga-bir, birga-ko’p, ko’pga-ko’p",
+          "isCorrect": true
+        },
+        {
+          "answer": "Birga-bir, birga-ikki, ikkiga-bir, ikkiga-ikki",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ikkiga-ikki, ikkiga-ko’p, ko’pga-ikki, ko’pga-ko’p",
+          "isCorrect": false
+        },
+        {
+          "answer": "Birga-nol, nolga-ko’p, ko’pga-bir, ko’pga-ikki",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Jadvalning asosiy kalit maydoni asosiy hususiyati nima ?",
+      "answers": [
+        {
+          "answer": "takrorlanmaslik va null qiymat qabul qilmaslik",
+          "isCorrect": true
+        },
+        {
+          "answer": "raqam va harflardan iborat bolishligi",
+          "isCorrect": false
+        },
+        {
+          "answer": "takrorlanish",
+          "isCorrect": false
+        },
+        {
+          "answer": "null qiymat qabul qilmaslik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MBBT deb – ….",
+      "answers": [
+        {
+          "answer": "MB ni yaratish, ishlatish va ko’pchilik foydalanuvchilar tomonidan birgalikda foydalanishni ta’minlovchi tillar va dasturiy ta’minotlari to’plamiga aytiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "har qanday ma’lumotlar to’plamidan ko’pchilik foydalanuvchilarning birgalikda foydalanishiga aytiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "har qanday ma’lumotlar to’plamini tashkil qilinishiga aytiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Har qanday fayl",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ko`pga ko`p bog`lanishni amalga oshirish uchun kamida nechta jadval kerak bo`ladi ?",
+      "answers": [
+        {
+          "answer": "3",
+          "isCorrect": true
+        },
+        {
+          "answer": "2",
+          "isCorrect": false
+        },
+        {
+          "answer": "4",
+          "isCorrect": false
+        },
+        {
+          "answer": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi javobda relatsion malumotlar bazalarini boshqarish tizimlari  keltirilgan?",
+      "answers": [
+        {
+          "answer": "excell, Access, Mysql",
+          "isCorrect": true
+        },
+        {
+          "answer": "mongodb,Access,excell",
+          "isCorrect": false
+        },
+        {
+          "answer": "Access, Paint, Corel Draw, MySQL, Excel, Java",
+          "isCorrect": false
+        },
+        {
+          "answer": "excell, Hbase, MongoDB, mysql",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ms Access dasturida bugungi sana  qaysi funksiya bilan hosil qilinadi?",
+      "answers": [
+        {
+          "answer": "Date$",
+          "isCorrect": true
+        },
+        {
+          "answer": "day",
+          "isCorrect": false
+        },
+        {
+          "answer": "date",
+          "isCorrect": false
+        },
+        {
+          "answer": "current date",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Accessda katta hajmdagi malumotlarni kiritish uchun qaysi turdagi maydon tanlanadi?",
+      "answers": [
+        {
+          "answer": "длинные техт",
+          "isCorrect": true
+        },
+        {
+          "answer": "числовой",
+          "isCorrect": false
+        },
+        {
+          "answer": "числовой",
+          "isCorrect": false
+        },
+        {
+          "answer": "tog`ri javob yo`q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS accessda birnechta buruqni bitta amal ga biriktirish uchun nimadan foydalanamiz?",
+      "answers": [
+        {
+          "answer": "makros",
+          "isCorrect": true
+        },
+        {
+          "answer": "hissobot",
+          "isCorrect": false
+        },
+        {
+          "answer": "forma",
+          "isCorrect": false
+        },
+        {
+          "answer": "jadval",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Predmet sohasi – bu ….",
+      "answers": [
+        {
+          "answer": "boshqarishni tashkil qilish va uni avtomatlashtirish maqsadida o’rganilishi lozim bo’lgan ob’ektiv dunyoning ma’lum bir qismidir",
+          "isCorrect": true
+        },
+        {
+          "answer": "MB strukturasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvallar orasidagi bog’lanish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlar sxemasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Har qanday MB ning yaratilishi uning ….",
+      "answers": [
+        {
+          "answer": "predmet sohani o’rganish va loyihasini tuzishdan boshlanadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "ma’lumotlarini kiritishdan boshlanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "so’rovlarni tuzishdan boshlanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hisobotlarni yaratish va chop etishdan boshlanadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS SQL SERVER da jadval qanday yaratiladi?",
+      "answers": [
+        {
+          "answer": "SQL SERVER ning grafik imkoniyatlari yoki CREATE operatoridan foydalanib",
+          "isCorrect": true
+        },
+        {
+          "answer": "CREATE yoki ALTER nomli SQL operatorlari yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "Master yordamida",
+          "isCorrect": false
+        },
+        {
+          "answer": "SQL SERVER ning grafik imkoniyatlaridan foydalanib yaratish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Yozuv haqidagi tushuncha qaysi javobda to’g’ri keltirilgan",
+      "answers": [
+        {
+          "answer": "jadval satri",
+          "isCorrect": true
+        },
+        {
+          "answer": "jadval ustunlari",
+          "isCorrect": false
+        },
+        {
+          "answer": "jadval ustunlari va satri kesishmasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadval quyi qismi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Access dasturida forma qaysi menyudan  yordamida yaratiladi?",
+      "answers": [
+        {
+          "answer": "создать",
+          "isCorrect": true
+        },
+        {
+          "answer": "файл",
+          "isCorrect": false
+        },
+        {
+          "answer": "главная",
+          "isCorrect": false
+        },
+        {
+          "answer": "вставка",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Birlamchi kalit – bu ….",
+      "answers": [
+        {
+          "answer": "mohiyatda takrorlanmas va bo’sh bo’lmagan qiymat(lar)ga ega bo’lgan va mohiyat nusxalarini bir qiymatli akslantiruvchi atribut yoki atributlar to’plamidir",
+          "isCorrect": true
+        },
+        {
+          "answer": "mazmuni turli satrlarda takrorlanishi mumkin bo’lgan atribut",
+          "isCorrect": false
+        },
+        {
+          "answer": "jadvaldagi boshqa jadvalga bog’lovchi atributlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "takrorlanmas va bo’sh bo’lmagan qiymatga ega bo’lgan atribut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Access dasturida so`rovlar  qanday yaratiladi?",
+      "answers": [
+        {
+          "answer": "создать->запрос-> so`rov turi",
+          "isCorrect": true
+        },
+        {
+          "answer": "файл->создать->запрос-> so`rov turi",
+          "isCorrect": false
+        },
+        {
+          "answer": "главная->создать->…..",
+          "isCorrect": false
+        },
+        {
+          "answer": "создать->открытьзапрос-> so`rov turi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Birinchi me’yoriy shaklning asosiy sharti nima?",
+      "answers": [
+        {
+          "answer": "Agar jadval atributlarining har biri bo’linmas (atomar) qiymat qabul qilsa",
+          "isCorrect": true
+        },
+        {
+          "answer": "Birlamchi kalitga ega bo’lib, kalit bo’lmagan atributlar birlamchi  kalitga to’liq funkstional bog’liq bo’lsa",
+          "isCorrect": false
+        },
+        {
+          "answer": "Birlamchi kalit tarkibiga kirmagan, ammo birlamchi kalit bilan tranzitiv funkstional bog’liqlikda bo’lgan atributlarga ega bo’lmasa",
+          "isCorrect": false
+        },
+        {
+          "answer": "Atributlari orasidagi har qanday funkstional bog’lanish kalit hisoblangan atributlar bilan to’liq funkstional bog’lanishga olib kelsa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SQL tili ….",
+      "answers": [
+        {
+          "answer": "faqat relyastion MB bilan ishlaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "faqat ierarxik MB bilan ishlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "faqat to’rsimon MB bilan ishlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Barcha MBlari uchun ishlatiladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Formadan uzatilgan “name” nomli o’zgaruvchining qiymatini qabul qilish qaysi javobda to’g’ri ko’rsatilgan?",
+      "answers": [
+        {
+          "answer": "$name=$_POST[‘name’];",
+          "isCorrect": true
+        },
+        {
+          "answer": "$name=POST[name];",
+          "isCorrect": false
+        },
+        {
+          "answer": "$name=_POST[name];",
+          "isCorrect": false
+        },
+        {
+          "answer": "name=$POST[‘name’];",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Zamonaviy MB qo’llayotgan arxitektura.",
+      "answers": [
+        {
+          "answer": "‘Mijoz – server’ arxitekturasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Markazlashgan arxitektura",
+          "isCorrect": false
+        },
+        {
+          "answer": "«Fayl-server» arxitekturasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Avtonom arxitektura",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Access da tablitsa (jadval) – ….",
+      "answers": [
+        {
+          "answer": "bu ma’lumotlarni yozuv (satr) lar va maydon (ustun)lar ko’rinishida saqlovchi ob’ekt",
+          "isCorrect": true
+        },
+        {
+          "answer": "asosan ma’lumotlarni chiqarish va kiritish uchun ishlatiladigan interfeys",
+          "isCorrect": false
+        },
+        {
+          "answer": "kerakli ma’lumotlarni bitta yoki bir nechta jadvaldan olish imkonini beradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "ma’lumotlarni chop etish uchun mo’ljallangan ob’ekt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Access da forma (shakl) – ….",
+      "answers": [
+        {
+          "answer": "asosan ma’lumotlarni ekranga chiqarish va kiritish uchun ishlatiladigan interfeys",
+          "isCorrect": true
+        },
+        {
+          "answer": "bu ma’lumotlarni saqlovchi ob’ekt",
+          "isCorrect": false
+        },
+        {
+          "answer": "kerakli ma’lumotlarni jadvaldan olish imkonini beradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "ma’lumotlarni chop etish uchun mo’ljallangan ob’ekt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Access da zapros (so’rov) – ….",
+      "answers": [
+        {
+          "answer": "kerakli ma’lumotlarni bitta yoki bir nechta jadvallardan olish imkonini beradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "asosan ma’lumotlarni chiqarish va kiritish uchun ishlatiladigan interfeys",
+          "isCorrect": false
+        },
+        {
+          "answer": "bu ma’lumotlarni saqlovchi ob’ekt",
+          "isCorrect": false
+        },
+        {
+          "answer": "ma’lumotlarni chop etish uchun mo’ljallangan ob’ekt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Access da otchet (hisobotlar) haqidagi ta’rif qaysi javobda tog’ri keltirilgan",
+      "answers": [
+        {
+          "answer": "ma’lumotlarni printerda chop etish uchun mo’ljallangan ob’ekt",
+          "isCorrect": true
+        },
+        {
+          "answer": "kerakli ma’lumotlarni bitta yoki bir nechta jadvaldan olish imkonini beradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "asosan ma’lumotlarni ekranga chiqarish va kiritish uchun ishlatiladigan interfeys",
+          "isCorrect": false
+        },
+        {
+          "answer": "bu ma’lumotlarni yozuv (satr) lar va maydon (ustun)lar ko’rinishida saqlovchi ob’ekt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Bir vaqtning o`zida ikkala munosabatga ham tegishli bo`lgan barcha kortejlardan iborat yangi munosabatni qaytaradi. Bu relyatsion algebradagi qaysi munosabat?",
+      "answers": [
+        {
+          "answer": "Kesishma (?)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Birlashtirish (U)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ayirish (–)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dekart ko`paytirish (*)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Berilgan ikkala munosabatdan faqat birinchisiga tegishli bo`lgan kortejlardan iborat yangi munosabatni qaytaradi. Bu relyatsion algebradagi qaysi munosabat?",
+      "answers": [
+        {
+          "answer": "Ayirish (–)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kesishma (?)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Birlashtirish (U)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dekart ko`paytirish (*)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "select extract(yearday from BIRTHDATE) from STAFF",
+      "answers": [
+        {
+          "answer": "STAFF jadvalining BIRTHDATE maydonidagi sanadan yilning nechanchi kuni ekanligini aniqlaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "STAFF jadvalining BIRTHDATE maydonidagi sanadan yilni aniqlaydi va uni sonli qiymat shaklida chiqarib beradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yilning nechanchi oyi ekanligini aniqlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "BIRTHDATE jadvalining STAFF maydonidadi sanadan haftani ajratib beradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Access dasturida yangi baza qaysi menyudan  yordamida ochiladi?",
+      "answers": [
+        {
+          "answer": "файл",
+          "isCorrect": true
+        },
+        {
+          "answer": "создать",
+          "isCorrect": false
+        },
+        {
+          "answer": "главная",
+          "isCorrect": false
+        },
+        {
+          "answer": "вставка",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Drop table buyrug’ining vazifasi qaysi javobda to’g’ri keltirilgan.",
+      "answers": [
+        {
+          "answer": "MB dan jadvalni o’chirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "MB da maydonlarni kiringan holda yangi jadval yaratish",
+          "isCorrect": false
+        },
+        {
+          "answer": "mavjud jadval   tuzilmasini   o’zgartirish   yoki   joriy   jadval   uchun   o’rnatilgan   butunlik cheklanishlarini o’zgartirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "biror SQL –so’roviga mos virtual jadvalni yaratish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Alter table - ….",
+      "answers": [
+        {
+          "answer": "mavjud jadval   tuzilmasini   o’zgartirish   yoki   joriy   jadval   uchun   o’rnatilgan   butunlik cheklanishlarini o’zgartirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "MB dan jadvalni o’chirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB da yangi jadval yaratish",
+          "isCorrect": false
+        },
+        {
+          "answer": "biror SQL –so’roviga mos virtual jadvalni yaratish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Accessda foydalanuvchilar sodda usulda ma`lumotlar kiritishi va taxrirlashi uchun nimadan foydalaniladi?",
+      "answers": [
+        {
+          "answer": "formalar",
+          "isCorrect": true
+        },
+        {
+          "answer": "hissobotlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "so`rovlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Alter database - ….",
+      "answers": [
+        {
+          "answer": "butun MB ga tegishli bo’lgan ob’ektlar va cheklanishlar to’plamini o’zgartirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "barcha parametrlarini ko’rsatgan holda yangi MB ni yaratish",
+          "isCorrect": false
+        },
+        {
+          "answer": "mavjud MB ni o’chirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB ba’zi ob’ektlari ustida bir qator amallarni bajarish huquqini berish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Create database - ….",
+      "answers": [
+        {
+          "answer": "barcha parametrlarini ko’rsatgan holda yangi MB ni yaratish",
+          "isCorrect": true
+        },
+        {
+          "answer": "cheklanishlar to’plamini o’zgartirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "mavjud MB ni o’chirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB ob’ektlaridan foydalanish uchun huquqlar berish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Drop database buyrug’ining ishlashi qaysi javobda to’g’ri keltirilgan",
+      "answers": [
+        {
+          "answer": "mavjud MB ni o’chirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "butun MB ga tegishli bo’lgan ob’ektlar va cheklanishlar to’plamini o’zgartirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "barcha parametrlarini ko’rsatgan holda yangi MB ni yaratish",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB ba’zi ob’ektlari ustida bir qator amallarni bajarish huquqini berish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Access dasturida jadvallarni necha hil rejimda yaratish  mumkin?",
+      "answers": [
+        {
+          "answer": "2",
+          "isCorrect": true
+        },
+        {
+          "answer": "3",
+          "isCorrect": false
+        },
+        {
+          "answer": "4",
+          "isCorrect": false
+        },
+        {
+          "answer": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Access dasturida ishlatiladigan ma’lumotlar qaysi ob’ektda saqlanadi?",
+      "answers": [
+        {
+          "answer": "Jadvallarda",
+          "isCorrect": true
+        },
+        {
+          "answer": "Modullarda",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yozuv boshqaruv elementida",
+          "isCorrect": false
+        },
+        {
+          "answer": "Knopka boshqaruv elementida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Accessning ob’ektlariga berilgan tavsiflarning qaysi biri noto’g’ri?",
+      "answers": [
+        {
+          "answer": "Hisobot bu boshqaruv ob’ektlar majmuasi oynasidir",
+          "isCorrect": true
+        },
+        {
+          "answer": "Jadval bu MBning ma’lumotlar saqlanadigan asosiy ob’ektidir",
+          "isCorrect": false
+        },
+        {
+          "answer": "So’rovlar yordamida MBdagi ma’lumotlarni tartiblash, biror kerakli ma’lumotni qidirib topish kabi ishlar bajariladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Forma – MBga yangi ma’lumotlar kiritadi, yoki joriy MBdagi ma’lumotlar ustida foydalanuvchi uchun qulay bo’lgan turli-tuman ko’rnishdagi formalar yaratadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Baza ma’lumotlarini yaratish asosiy modellari qaysi javobda to’g’ri keltirilgan?",
+      "answers": [
+        {
+          "answer": "Tarmoqli, relyatsion, ierarxik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Relyatsion, ierarxik, jadvalli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ierarxik, relyatsion, diapazonli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvalli, tarmoqli, ierarxik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Access da maydon deb nima olingan?",
+      "answers": [
+        {
+          "answer": "Jadval ustunlari",
+          "isCorrect": true
+        },
+        {
+          "answer": "MB fayllari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvallar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadval satrlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Access ning asosiy ob’ektlarini belgilang.",
+      "answers": [
+        {
+          "answer": "Jadvallar, formalar, so’rovlar, hisobotlar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Jadvallar, formalar, konstrukstiyalar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Maydonlar, yozuvlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvallar, so’rovlar, filtrlar, hisobotlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Relyastion MB -…. majmuasidir.",
+      "answers": [
+        {
+          "answer": "jadvallarning",
+          "isCorrect": true
+        },
+        {
+          "answer": "maydonlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "formalar",
+          "isCorrect": false
+        },
+        {
+          "answer": "yozuvlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Access dasturi – bu…",
+      "answers": [
+        {
+          "answer": "MBBT",
+          "isCorrect": true
+        },
+        {
+          "answer": "elektron jadvallar bilan ishlovchi dastur",
+          "isCorrect": false
+        },
+        {
+          "answer": "matnlarni tayyorlash va ularga ob’ektlarni joylashtirish dasturi",
+          "isCorrect": false
+        },
+        {
+          "answer": "grafik ob’ektlarga ishlov beruvchi dastur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Relyastion modelda biror bir atribut yoki atributlar to’plami kalit bo’lish imkoniga ega bo’ladi, agar….",
+      "answers": [
+        {
+          "answer": "ularning qiymati takrorlanmas bo’lsa",
+          "isCorrect": true
+        },
+        {
+          "answer": "eng kichik qiymatga ega bo’lsa",
+          "isCorrect": false
+        },
+        {
+          "answer": "bo’sh qiymatga ega bo’lmasa",
+          "isCorrect": false
+        },
+        {
+          "answer": "bo’sh qiymatga ega bo’lsa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Relyastion modelda kalit nima?",
+      "answers": [
+        {
+          "answer": "Biror bir atribut yoki atributlar to’plami boshqa atributlar qiymatini bir ma’noli aniqlasa va ularning qiymati takrorlanmas bo’lsa",
+          "isCorrect": true
+        },
+        {
+          "answer": "Yozuvda tanlangan atribut qiymati",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvalda takrorlanuvchi qiymatga ega bo’lgan atributlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvalda eng kichik qiymatga ega bo’lgan atributlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Birinchi jadvaldagi bir qator malumotga ikkinchi jadvaldagi bir qator malumot to`g`ri kelsa bu qanday bog`lanish bo`ladi?",
+      "answers": [
+        {
+          "answer": "birga-bir",
+          "isCorrect": true
+        },
+        {
+          "answer": "birga-ko`p",
+          "isCorrect": false
+        },
+        {
+          "answer": "ko`pga-ko'p",
+          "isCorrect": false
+        },
+        {
+          "answer": "ko`pga bir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Select * from b1 operatori yozuvida nimani tushunasiz?",
+      "answers": [
+        {
+          "answer": "B1 jadvaldagi barcha ma’lumotlarini bazadan o’qib olish",
+          "isCorrect": true
+        },
+        {
+          "answer": "B1 jadval barcha ma’donlar nomini chiqaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "B1 jadvaldagi joriy yozuv ma’lumotlarini bazadan o’qib oladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "B1 jadval joriy ustun ma’lumotlarini bazadan o’qib oladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma’lumotlar bazasini loyihalash nimadan boshlanadi?",
+      "answers": [
+        {
+          "answer": "Predmet sohani o’ganishdan",
+          "isCorrect": true
+        },
+        {
+          "answer": "Jadvallar yaratishdan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sql sorovlar yaratshdan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mb ob’yektlarini yaratishdan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MBning fayl-server arxitekturasi nima?",
+      "answers": [
+        {
+          "answer": "MB ma’lumotlari fayl ko’rinishida faqat bir kompyuterda saqlanadi va ma’lumotlarga ishlov berish uchun kerakli fayllar foydalanuvchi kompyuteriga ko’chiriladi hamda natija yana serverga uzatiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Turli serverlarda saqlanadigan va mantiqan bog’langan MB",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB faqat bir kompyuterda saqlanadi va ma’lumotlarga ishlov berish ushbu kompyuterda yoki foydalanuvchi kompyuterida amalga oshiriladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB ma’lumotlari faqat bir kompyuterda saqlanadi va ma’lumotlarga ishlov berish foydalanuvchi so’roviga muvofiq ushbu serverda amalga oshiriladi hamda natija foydalanuvchiga uzatiladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Lokal MB qanday bo’ladi?",
+      "answers": [
+        {
+          "answer": "MB faqat bir kompyuterda saqlanadi va ma’lumotlarga ishlov berish ushbu kompyuterda amalga oshiriladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Turli serverlarda saqlanadigan va mantiqan bog’langan MB",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB ma’lumotlari fayl ko’rinishida faqat bir kompyuterda saqlanadi va ma’lumotlarga ishlov berish uchun kerakli fayllar foydalanuvchi kompyuteriga ko’chiriladi hamda natija yana serverga uzatiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB ma’lumotlari faqat bir kompyuterda saqlanadi va ma’lumotlarga ishlov berish foydalanuvchi so’roviga muvofiq ushbu serverda amalga oshiriladi hamda natija foydalanuvchiga uzatiladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Taqsimlangan MB nima?",
+      "answers": [
+        {
+          "answer": "Turli serverlarda saqlanadigan va mantiqan bog’langan MB",
+          "isCorrect": true
+        },
+        {
+          "answer": "Faqat bir kompyuterda saqlanadigan MB",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlari alohida bir fayl ko’rinishida faqat bir kompyuterda saqlanadigan MB",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlari turli fayl ko’rinishida faqat bir kompyuterda saqlanadigan MB",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Tarmoq ishini ta’minlovchi maxsus kompyuter nima?",
+      "answers": [
+        {
+          "answer": "Server",
+          "isCorrect": true
+        },
+        {
+          "answer": "provayder",
+          "isCorrect": false
+        },
+        {
+          "answer": "mijoz",
+          "isCorrect": false
+        },
+        {
+          "answer": "foydalanuvchi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma’lumotlar ombori nima?",
+      "answers": [
+        {
+          "answer": "Ma’lum bir soha bo’yicha ma’lumotlar to’plami",
+          "isCorrect": true
+        },
+        {
+          "answer": "Matn muharriri yordamida hosil qilingan biror fayl",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ekrandagi so’z",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dasturlar to’plami",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma’lumotlar ombori deb nimaga aytiladi?",
+      "answers": [
+        {
+          "answer": "Kompyuterning xotirasida saqlanayotgan axborotlar va ular ustida aniq bir ishlash usullariga imkon beradigan ma’lumotlar yigindisiga",
+          "isCorrect": true
+        },
+        {
+          "answer": "Qurilma, rasm, matn va jadvallarga",
+          "isCorrect": false
+        },
+        {
+          "answer": "Matnlar, jadvallar, viruslar to’plamiga",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kompyuterning yaratilish vaqti va uning qurilmalarining ishi haqidagi ma’lumotlarni o’zida saqlovchi kompyuter qurilmasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "sysdate - … funksiya.",
+      "answers": [
+        {
+          "answer": "joriy sanani chqaruvchi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sonni sanaga aylantiruvchi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Matnni sanaga aylantiruvchi",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB dagi ixtiyoriy sanani ifodalovchi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "char ( size ) - ….",
+      "answers": [
+        {
+          "answer": "o’zgarmas uzunlikdagi belgili qator",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ko’p qatorli",
+          "isCorrect": false
+        },
+        {
+          "answer": "ikkilik ma’lumotlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "O’noltilik ma’lumot",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Varchar 2 ( size ) -.…",
+      "answers": [
+        {
+          "answer": "o’zgaruvchi uzunlikdagi belgili qator",
+          "isCorrect": true
+        },
+        {
+          "answer": "o’zgarmas sonli",
+          "isCorrect": false
+        },
+        {
+          "answer": "ikkilik ma’lumotlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "ixtiyoriy ma’lumot",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Create komandasi -…",
+      "answers": [
+        {
+          "answer": "ob’ektni yaratadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "ob’ektni o’chiradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "ob’ektni o’zgartiradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "biror ish qilmaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Drop komandasi -…",
+      "answers": [
+        {
+          "answer": "ob’ektni o’chiradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "ob’ektni yaratadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "ob’ektni o’zgartiradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "biror ish qilmaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SQL tilida .…",
+      "answers": [
+        {
+          "answer": "bir vaqtning o’zida faqat bir qator ustida amal bajarmasdan, balki qatorlar to’plami ustida ham amallar bajarish mumkin",
+          "isCorrect": true
+        },
+        {
+          "answer": "Word bilan bog’lanish mavjud",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlarni chop qilish mumkin",
+          "isCorrect": false
+        },
+        {
+          "answer": "grafika mavjud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Delete–SQL operatori vazifasi nima?",
+      "answers": [
+        {
+          "answer": "Ma’lumotlarni o’chirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ma’lumotlarni chaqirib olish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlarni o’zgartirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlarni kiritish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Update–SQL operatori vazifasi nima?",
+      "answers": [
+        {
+          "answer": "Ma’lumotlarni o’zgartirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ma’lumotlarni chaqirib olish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlarni o’chirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlarni kiritish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "avg - .…",
+      "answers": [
+        {
+          "answer": "guruhdagi sonli qiymatlarining o’rta arifmetigi hisoblanadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarning yig’indisini topish",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi yozuvlar soni aniqlanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarning eng kichigi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Insert–SQL operatori vazifasi nima?",
+      "answers": [
+        {
+          "answer": "Ma’lumotlarni kiritish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ma’lumotlarni chaqirib olish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlarni o’chirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlarni o’zgartirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Select –SQL operatori vazifasi nima?",
+      "answers": [
+        {
+          "answer": "Ma’lumotlarni chaqirib olish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ma’lumotlarni o’chirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlarni o’zgartirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlarni kiritish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Group by - …",
+      "answers": [
+        {
+          "answer": "guruhlash",
+          "isCorrect": true
+        },
+        {
+          "answer": "o’rtachasini topish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kattasini topish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kichigini topish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "max -",
+      "answers": [
+        {
+          "answer": "guruhdagi sonli qiymatlarning eng kattasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlar yig’indisining eng kattasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi yozuvlar sonining eng kattasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarining o’rta arifmetigi eng kattasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "min -",
+      "answers": [
+        {
+          "answer": "guruhdagi sonli qiymatlarning eng kichigi",
+          "isCorrect": true
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarning yig’indisining eng kichigi",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi yozuvlar soni ning eng kichigi",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarining o’rta arifmetigi eng kichigi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Count -",
+      "answers": [
+        {
+          "answer": "guruhdagi yozuvlar soni aniqlanadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarning yig’indisini topish",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarining o’rta arifmetigi hisoblanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarning eng kichigi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sum -",
+      "answers": [
+        {
+          "answer": "guruhdagi sonli qiymatlarning yig’indisini topish",
+          "isCorrect": true
+        },
+        {
+          "answer": "guruhdagi yozuvlar soni aniqlanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarining o’rta arifmetigi hisoblanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "guruhdagi sonli qiymatlarning eng kichigi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Munosabat jadvallari nima?",
+      "answers": [
+        {
+          "answer": "Bir-biriga bog’langan jadvallar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bir-biriga bog’lanmagan jadvallar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadval va indeks",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadval va tasvir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Jadvalning kalit ustuni .…",
+      "answers": [
+        {
+          "answer": "jadvalning har qanday ikki satrini olmaylik shu kalit ustunga mos qiymatlar teng bo’lmaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "jadvalning har qanday ikki satrini olmaylik shu kalit ustunga mos qiymatlar teng bo’ladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "takrorlanuvchi qiymatlardan tashkil topadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bo’sh qiymatlar mavjud bo’ladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "all – kalit so’zining ma’nosi?",
+      "answers": [
+        {
+          "answer": "Amallar barcha yozuvlarga tegishli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Jadval nomi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ustun nomi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Birlamchi kalit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Jadval yacheykasidagi ma’lumotlarga qanday murojaat qilinadi.",
+      "answers": [
+        {
+          "answer": "Jadval nomi, ustun nomi, birlamchi kalit",
+          "isCorrect": true
+        },
+        {
+          "answer": "Jadval nomi, ustun nomi, ikkilamchi kalit",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ustun nomi, birlamchi kalit",
+          "isCorrect": false
+        },
+        {
+          "answer": "Birlamchi kalit, ikkilamchi kalit, indeks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Tarkibli izlash shartlari qaysi kalitli so’zlar orqali hosil qilinadi.",
+      "answers": [
+        {
+          "answer": "or, and, not",
+          "isCorrect": true
+        },
+        {
+          "answer": "where, null, or",
+          "isCorrect": false
+        },
+        {
+          "answer": "where, in, and",
+          "isCorrect": false
+        },
+        {
+          "answer": "if, then, else",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SELECT operatorida jadvallar bilan ishlashda kamida qaysi kalitli so’zlar bo’lishi shart?",
+      "answers": [
+        {
+          "answer": "Select, from",
+          "isCorrect": true
+        },
+        {
+          "answer": "Select, from, where",
+          "isCorrect": false
+        },
+        {
+          "answer": "Select, from, where, order by",
+          "isCorrect": false
+        },
+        {
+          "answer": "Select, from, where, group by, having, order by",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SQL standartida jadval yacheykasiga bo’sh qiymat yozish uchun qanday qiymat ishlatiladi?",
+      "answers": [
+        {
+          "answer": "Null",
+          "isCorrect": true
+        },
+        {
+          "answer": "Nil",
+          "isCorrect": false
+        },
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Har bir SQL operatori qanday kalitli so’zdan boshlanadi",
+      "answers": [
+        {
+          "answer": "Select, Insert, Update, Delete, Create, Update, Drop kabi kalitli so’zlardan",
+          "isCorrect": true
+        },
+        {
+          "answer": "Where deb nomlanuvchi kalitli so’zdan",
+          "isCorrect": false
+        },
+        {
+          "answer": "from deb nomlanuvchi kalitli so’zdan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Commit va Revoke kalitli so’zlaridan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SQL tilini qo’llab quvvatlovchi MBBTlari qanday ma’lumotlar modeli asosida ishlaydi?",
+      "answers": [
+        {
+          "answer": "Relyastion ma’lumotlar modeli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ierarxik ma’lumotlar modeli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoqli ma’lumotlar modeli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fayl boshqaruv sistemasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Triggerlar MB da qanday vazifani bajaradi",
+      "answers": [
+        {
+          "answer": "Trigger- bu SQL tilidagi dastur bo’lib, aniq bir jadval ustida aniq bir amalni bajaradi va jadvalda yangi qator yaratish, o’zgartirish va qatorni o’chirish paytlarida ishga tushishi mumkin",
+          "isCorrect": true
+        },
+        {
+          "answer": "Trigger- jadvalda yangi qator yaratish, o’zgartirish va qatorni o’chirish amalini bajaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "jadval maydonining olish mumkin bo’lgan ma’lumotlarini aniqlash mexanizmi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvallarni bog’lovchi dastur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "(UPDATE STAFF SET Zip = 8320) SQL buyrug’i qanday vazifani bajaradi ?",
+      "answers": [
+        {
+          "answer": "STAFF jadvalining barcha qatorlari uchun Zip maydoniga 8320 kiritiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "STAFF jadvalining joriy qatori uchun Zip maydoniga 8320 kiritiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "STAFF jadvalining barcha qatorlari uchun Zip maydoniga 8320 qo’shiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "STAFF jadvalining barcha qatorlari uchun Zip maydonidan 8320 ayiriladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SQL tilini qo’llab – quvvatlaydigan MBBTlari qanday arxitektura asosida ishlaydi?",
+      "answers": [
+        {
+          "answer": "Mijoz – server arxitektura",
+          "isCorrect": true
+        },
+        {
+          "answer": "Avtonom arxitektura",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fayl – server arxitekturasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoqlashgan arxitektura",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "ORDER BY amali qanday vazifani bajaradi ?",
+      "answers": [
+        {
+          "answer": "ORDER BY amali tanlangan maydonlar bo’yicha jadvalni tartiblashtirish uchun ishlatiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "WHERE qatnashgan so’rovda qatorlarni tanlash uchun ishlatiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "GROUP BY qatnashgan so’rov bajarilgandan keyin qatorlarni tanlash uchun ishlatiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "GROUP BY qatnashmagan so’rov bajarilgandan keyin qatorlarni tanlash uchun ishlatiladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "HAVING kalit so’zi bu .… ?",
+      "answers": [
+        {
+          "answer": "HAVING kalit so’zi GROUP BY qatnashgan so’rov bajarilgandan keyin yozuvlarni tanlash uchun ishlatiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "HAVING kalit so’zi WHERE qatnashgan so’rovda qatorlarni tanlash uchun ishlatiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "HAVING kalit so’zi GROUP BY orqali qatorlarni o’chirish uchun ishlatiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "HAVING kalit so’zi jadvalni tartiblashtirish uchun ishlatiladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MBBT yadrosi MBBTning yuragi hisoblanadi va u nima vazifani bajaradi?",
+      "answers": [
+        {
+          "answer": "Ma’lumotlarni jismoniy strukturlashtirish va diskdagi ma’lumotlarni o’qish uchun xizmat qiladi hamda SQL – so’rovlarini qabul qiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "SQL – so’rovlarini shakllantirish uchun xizmat qiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Natijalarni diskdan olishni tashkil etadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "MBBT ning forma generatori, hisobotlar generatori yoki interaktiv so’rovlarni shakllantirish moduli kabi komponentlardan iborat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Taqsimlangan MB deganda nimani tushunasiz?",
+      "answers": [
+        {
+          "answer": "Muayyan hudud buylab tarqalgan va o’zaro bir-biri bilan bog’langan bir nechta alohida MBdan iborat bo’lgan tizim",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bir-biridan mustaqil tarzda joylashtirilgan MBdan iborat bo’lgan tizim",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mantiqan tashkil qilingan MB tuzilmasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "MBning jismoniy va mantiqiy tuzilmalari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "“CREATE UNIQUE INDEX” buyrug’i vazifasi .…",
+      "answers": [
+        {
+          "answer": "indeksda qiymatlari takrorlanmaydigan indeks yaratishdan iborat",
+          "isCorrect": true
+        },
+        {
+          "answer": "Oddiy indeks yaratishni ta’minlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tartiblangan jadval yaratishni belgilaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bog’langan jadval yaratish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "“SELECT SUM (Zip) FROM REGIONS” SQL buyrug’i ….",
+      "answers": [
+        {
+          "answer": "REGIONS jadvalidagi ZIP maydoni yozuvlari yig’indisini aniqlaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "ZIP jadvalidagi yozuvlari yig’indisini aniqlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "REGIONS jadvalidagi ZIP qiymatli yozuvlari sonini aniqlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "REGIONS jadvalidagi yozuvlar soni aniqlaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "“SELECT COUNT (*) FROM REGIONS” - SQL Buyrug’i izohi to’g’ri keltirilgan qatorni toping",
+      "answers": [
+        {
+          "answer": "REGIONS jadvalidagi yozuvlar soni aniqlaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "REGIONS jadvalidagi ustsunlar sonini aniqlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "REGIONS jadvalidagi sonli maydonlar yig’indisini hisoblaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "REGIONS jadvalidagi barcha ma]lumotlarni chiqaradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "“DROP TABLE” buyrug’i vazifasi qaysi javobda to’g’ri ko’rsatilgan?",
+      "answers": [
+        {
+          "answer": "MB jadvalini o’chirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Yangi jadval yaratish hamda uni qayta nomlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mavjud jadvallarni ochish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mavjud jadvalni passiv holga keltirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Yozuv kaliti necha xil ko’rinishda bo’ladi?",
+      "answers": [
+        {
+          "answer": "Ikki xil ko’rinishda: dastlabki (birlamchi) va ikkilamchi kalitlar bo’ladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bir xil ko’rinishda: dastlabki (birlamchi) kalit bo’ladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bir xil ko’rinishda: ikkilamchi kalitlar bo’ladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Uch xil ko’rinishda: dastlabki (birlamchi), ikkilamchi va uchlamchi kalitlar bo’ladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "CREATE TABLE buyrug’i qanday vazifani bajaradi",
+      "answers": [
+        {
+          "answer": "Yangi jadval yaratish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mavjud jadvalni ochish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mavjud jadvalni passiv holga keltirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jabvalni o’zgartirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MBda “YOZUV” bu….?",
+      "answers": [
+        {
+          "answer": "mantiqan bog’langan atributlar(maydonlar) to’plamidir",
+          "isCorrect": true
+        },
+        {
+          "answer": "fayl ma’nosini anglatadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "ma’lumotlarning o’lchov birligi",
+          "isCorrect": false
+        },
+        {
+          "answer": "fayllar yig’indisi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "CREATE DATABASE buyrug’i qanday vazifani bajaradi",
+      "answers": [
+        {
+          "answer": "Yangi ma’lumotlar bazasini yaratish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Aktiv ma’lumotlar bazasini passiv xolga keltiriladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mavjud ma’lumotlar bazasini qayd qilish",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB ni o’chirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MBBT bu-….?",
+      "answers": [
+        {
+          "answer": "MBni yaratish va uni dolzarb holatda saqlab turishni amalga oshiradigan, shuningdek, turli foydalanuvchilarning MBda saqlanayotgan axborotlardan o’z maqsadlari uchun foydalanish imkoniyatlarini ta’minlaydigan dasturlar majmui",
+          "isCorrect": true
+        },
+        {
+          "answer": "Relyastion MBni boshqarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "O’zaro bog’langan ma’lumotlar ustida bajariladigan operastiyalar tizimi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumotlar modelini tuzuvchi tizim",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Maydon bu?",
+      "answers": [
+        {
+          "answer": "ma’lumotlarning tashkil etishning oddiy birligi bo’lib, axborotning alohida bo’linmas birligi bo’lishi rekvizitga mos keladi va o’z tipiga ega bo’ladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "axborotning alohida bo’linmas birligi bo’lishi rekvizitga mos kelmaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "yozuv termini bilan ma’nosi bir xil",
+          "isCorrect": false
+        },
+        {
+          "answer": "fayl ma’nosini anglatadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Fayllar modeli ma’lumotlarining asosiy tuzilmalari deganda nimani tushunasiz?",
+      "answers": [
+        {
+          "answer": "Maydon, yozuv va fayl",
+          "isCorrect": true
+        },
+        {
+          "answer": "Rasm, matn, yozuv",
+          "isCorrect": false
+        },
+        {
+          "answer": "Disketa, vinchester, kompakt disk",
+          "isCorrect": false
+        },
+        {
+          "answer": "Klip, muzika, animastiya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Interactive SQL bu “Interbase” MBBT dagi ….",
+      "answers": [
+        {
+          "answer": "SQL buyruqlarni bajarish uchun mo’ljallangan oyna",
+          "isCorrect": true
+        },
+        {
+          "answer": "Hisobotlar tayyorlash uchun dastur",
+          "isCorrect": false
+        },
+        {
+          "answer": "Vizual dasturlash ob’ekti",
+          "isCorrect": false
+        },
+        {
+          "answer": "Serverni ishga tushuruvchi dastur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MB deganda nimani tushunasiz?",
+      "answers": [
+        {
+          "answer": "MB o`zaro bog`langan va tartiblangan ma`lumotlar majmuasi bo`lib, u ko`rilayotgan ob`ektlarning xususiyatini, holatini va ob`ektlar o`rtasidagi munosabatni ma`lum sohada tavsiflaydi",
+          "isCorrect": true
+        },
+        {
+          "answer": "MB - o’zaro bog’liq bo’lmagan ma’lumotlar tuzilishi, ular ustida bajariladigan operastiyalar majmuidir",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB - o’zaro bog’langan texnik vositalar majmuidir",
+          "isCorrect": false
+        },
+        {
+          "answer": "MB - ma’lumotlar majmui emas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "VARCHAR(n) - bu  MBBTdagi qanday tip",
+      "answers": [
+        {
+          "answer": "1 dan 32765 gacha o’zgaruvchi matn tipli kattaliklar saqlanadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Katta o’lchamli ma’lumotlar, ya’ni grafik, matn, raqamli tovushni saqlash uchun ishlatiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "3,4x10^-38 dan 3,4x10^38 gacha bo’lgan etti razriyadli siljuvchi vergulli sonlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ko’p qatorli ma’lumotlar uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "“Interbase” MBBTdagi -“BLOB” tipida….",
+      "answers": [
+        {
+          "answer": "Katta o’lchamli ma’lumotlar, ya’ni grafik, matn, raqamli tovushni saqlash uchun ishlatiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "1 dan 32765 simvolgacha bo’lgan matnli informastiyani saqlash uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "3,4x10^-38 dan 3,4x10^38 gacha bo’lgan etti razriyadli siljuvchi vergulli sonlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ko’p qatorli ma’lumotlar uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Izlash shartining «Null qiymatga tengligini tekshirish» qaysi javobda to’g’ri keltirilgan.",
+      "answers": [
+        {
+          "answer": "Is Null",
+          "isCorrect": true
+        },
+        {
+          "answer": "Between, Null And, Not",
+          "isCorrect": false
+        },
+        {
+          "answer": "In, Null, Not",
+          "isCorrect": false
+        },
+        {
+          "answer": "Like, Null Not, Escape",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "CHAR(n) - bu “Interbase” MBBTdagi qanday tip",
+      "answers": [
+        {
+          "answer": "1 dan 32765 simvolgacha bo’lgan matnli informastiyani saqlash uchun",
+          "isCorrect": true
+        },
+        {
+          "answer": "Katta o’lchamli ma’lumotlar, ya’ni grafik, matn, raqamli tovushni saqlash uchun ishlatiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "3,4x10^-38 dan 3,4x10^38 gacha bo’lgan etti razriyadli siljuvchi vergulli sonlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ko’p qatorli ma’lumotlar uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel – bu:",
+      "answers": [
+        {
+          "answer": "Elektron jadvallar bilan ishlash dasturi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Matnli protsessor matnli hujjatlarni yaratish, ko?rish va tahrirlash uchun mo?ljallangan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Matnli protsessor matnli hujjatlarni yaratish, ko?rish va tahrirlash uchun mo?ljallangan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Taqdimotlar tayyorlash va taqdimotlarni ko?rish dastur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel dasturida yaratiladigan hujjatlar qanday nomlanadi?",
+      "answers": [
+        {
+          "answer": "“Книга 1”",
+          "isCorrect": true
+        },
+        {
+          "answer": "“Презентация 1”",
+          "isCorrect": false
+        },
+        {
+          "answer": "“Документ 1”",
+          "isCorrect": false
+        },
+        {
+          "answer": "“Лист”",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel dasturi jadvalida formulalarni yozish qaysi\nbelgidan boshlanadi?",
+      "answers": [
+        {
+          "answer": "tenglik belgisidan",
+          "isCorrect": true
+        },
+        {
+          "answer": "ayirish belgisidan",
+          "isCorrect": false
+        },
+        {
+          "answer": "kopaytirish belgisidan",
+          "isCorrect": false
+        },
+        {
+          "answer": "qo?shish belgisidan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel dasturi ma’lumotnomasini (Spravka) chaqirish qaysi tugma orqali amalga oshiriladi?",
+      "answers": [
+        {
+          "answer": "F1",
+          "isCorrect": true
+        },
+        {
+          "answer": "F2",
+          "isCorrect": false
+        },
+        {
+          "answer": "F5",
+          "isCorrect": false
+        },
+        {
+          "answer": "F8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Excel ish kitobida kamida nechta sahifa (list) bo?lishi mumkin:",
+      "answers": [
+        {
+          "answer": "1 ta",
+          "isCorrect": true
+        },
+        {
+          "answer": "2 ta",
+          "isCorrect": false
+        },
+        {
+          "answer": "3 ta",
+          "isCorrect": false
+        },
+        {
+          "answer": "istalgancha",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "EXCEL dasturida aloqa deb nimaga tushuniladi?",
+      "answers": [
+        {
+          "answer": "Aloqa deb bir qancha ish sаhifаlari va diagramma listlarining bog’lanishiga tushuniladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Aloqa deb yachеykаlarning o?zaro bog’liqligida tushuniladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Aloqa deb rasmlar va jadvallarning o?zaro bog’liqligiga tusguniladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Aloqa deb web-sahifalar bilan bog’liqqa tushuniladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "EXCEL dasturida jadval nimani bildiradi?",
+      "answers": [
+        {
+          "answer": "Qatorlar va ustunlar bo?yicha tartib bilan joylashgan ma’lumotlar to?plamidir",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sonli ma’lumotlar jamlangan jadval ko?rinishidagi matn",
+          "isCorrect": false
+        },
+        {
+          "answer": "Nomerlangan ma’lumotlar yozilgan joy",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tartiblangan sonlar va belgilar yozilgan ekrin qismi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "EXCEL dasturida yachеykаni formatlashtirish nimani anglatadi?",
+      "answers": [
+        {
+          "answer": "Formatlashtirish shristni, yachеykаning rangini, ramkasini, stillariniva raqamli formatlashtirishni o?z ichiga oladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Formatlashtirish yachеykаning nima uchun ishlatilishini anglatadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Formatlashtirish yachеykаga yozilgan soni qiymatlarning tuzulishini va mantiqini o?z ichiga iladi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Formatlashtirish yachеykа ichida ma’lumotlar qanday joylanishini ko?rsatadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel dasturida yangi xujjat yaratilganda odatda avtomatik ravishada dastur tomonidan unga qanday nom beriladi:",
+      "answers": [
+        {
+          "answer": "Книга 1, Книга 2 va boshqalar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Лист 1, Лист 2, . . . .",
+          "isCorrect": false
+        },
+        {
+          "answer": "MS Excel",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ish kitobi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel dasturida kataklarga kiritiladigan quyidagi ma’lumotlar formatlarining qaysi biri mavjud emas",
+      "answers": [
+        {
+          "answer": "Rasm",
+          "isCorrect": true
+        },
+        {
+          "answer": "Son",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sana",
+          "isCorrect": false
+        },
+        {
+          "answer": "Pul",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel jadvallarida quyidagi funksiyalarning qaysi biri mantiqiy funksiya hisoblanadi",
+      "answers": [
+        {
+          "answer": "ЕСЛИ",
+          "isCorrect": true
+        },
+        {
+          "answer": "СРЗНАЧ",
+          "isCorrect": false
+        },
+        {
+          "answer": "СУММ",
+          "isCorrect": false
+        },
+        {
+          "answer": "МАХ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel dasturida ish kitobini ochish qanday amalga oshiriladi",
+      "answers": [
+        {
+          "answer": "“Файл\\Открыть”",
+          "isCorrect": true
+        },
+        {
+          "answer": "“Формат\\Загрузить”",
+          "isCorrect": false
+        },
+        {
+          "answer": "“Правка\\Загрузить”",
+          "isCorrect": false
+        },
+        {
+          "answer": "“Файл\\Открыть как”",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Office EXCEL dasturiy muhitida yacheykadagi belgilar o?rnida “reshetka” (# # # # #) paydo bo?lsa bu nimadan dalolat beradi?",
+      "answers": [
+        {
+          "answer": "Tanlangan formatdagi sonlar ustun kengligiga sig‘magan hisoblanadi;",
+          "isCorrect": true
+        },
+        {
+          "answer": "Yacheyka nomeri noto?g‘ri ko?rsatilgan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Formula noto?g‘ri kiritilganda",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yacheyka noto?g‘ri tanlanganda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel dasturida ustunlar qanday nomlangan?",
+      "answers": [
+        {
+          "answer": "Faqat lotin xarflari bilan",
+          "isCorrect": true
+        },
+        {
+          "answer": "Faqat sonli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Rim raqamlari bilan",
+          "isCorrect": false
+        },
+        {
+          "answer": "A dan Z gacha",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Microsoft Excel jadvalida ustunlar soni nechta?",
+      "answers": [
+        {
+          "answer": "65536",
+          "isCorrect": true
+        },
+        {
+          "answer": "3",
+          "isCorrect": false
+        },
+        {
+          "answer": "1",
+          "isCorrect": false
+        },
+        {
+          "answer": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Excelda jadvalga qanday turdagi ma’lumotlar kiritiladi?",
+      "answers": [
+        {
+          "answer": "matnli, sonli va formula",
+          "isCorrect": true
+        },
+        {
+          "answer": "sonli, matnli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat sonli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat formula",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Excel dasturida formula bajarilish natijasida «#Znach» xatoligi sodir bo?lsa, bu xatolik turini aniqlang?",
+      "answers": [
+        {
+          "answer": "Funksiyaning argumenti sifatida matn qo?llanilganda paydo buladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tanlangan formatdagi sonlar ustun kengligiga sig‘magan hisoblanadi;",
+          "isCorrect": false
+        },
+        {
+          "answer": "Soni nolga bo?lganda kelib chikadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Argument kiymati funksiya ?ki formula uchun aniqlanmagan bo?lganda kelib chikadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Excel dasturida formula bajarilish natijasida “#Ssыlka!” xatoligi sodir bo?lsa, bu xatolik turini aniqlang?",
+      "answers": [
+        {
+          "answer": "Formula murojaat qila?tgan yacheyka noto?g‘ri ko?rsatilganda kelib chikadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Dastur formulasida yoki funksiyasida noto?g‘ri son kiymatlar ishlatilganda paydo bo?ladi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma’lumot uzunligi yacheyka kengligidan ancha katta bo?lganda kelib chikadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Formulada ishlatilayotgan nomni aniklay olmaganda paydo bo?ladi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "USE buyrug‘i ... ni tanlash uchun ishlatiladi",
+      "answers": [
+        {
+          "answer": "database",
+          "isCorrect": true
+        },
+        {
+          "answer": "table",
+          "isCorrect": false
+        },
+        {
+          "answer": "column",
+          "isCorrect": false
+        },
+        {
+          "answer": "value",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Book jadvalidan kitob yaratilgan sanasi 30 kundan oshiq bo‘lmagan qatorlar to‘g‘ri filtr qilingan so‘rovni aniqlang.",
+      "answers": [
+        {
+          "answer": "SELECT * FROM book WHERE created_at BETWEEN DATE_SUB(NOW(), INTERVAL 30 DAY) AND NOW();",
+          "isCorrect": true
+        },
+        {
+          "answer": "SELECT * FROM book WHERE CURRENT_DATE()-created_at<=30",
+          "isCorrect": false
+        },
+        {
+          "answer": "SELECT * FROM book WHERE DATEDIFF(NOW(), created_at)<=30",
+          "isCorrect": false
+        },
+        {
+          "answer": "SELECT * FROM book WHERE DATEDIFF(created_at,NOW())<=30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Jadvaldagi barcha malumotlarni o‘chirish uchun quyidagi qaysi so‘rov bajariladi?",
+      "answers": [
+        {
+          "answer": "drop table table_name;",
+          "isCorrect": true
+        },
+        {
+          "answer": "truncate from table_name;",
+          "isCorrect": false
+        },
+        {
+          "answer": "delete * from table_name;",
+          "isCorrect": false
+        },
+        {
+          "answer": "delete from table_name where 1=1;",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MySqldagi ustun toifalari qatori to‘g‘ri berilgan javobni aniqlang",
+      "answers": [
+        {
+          "answer": "int, varchar, text, decimal, float, bigint",
+          "isCorrect": true
+        },
+        {
+          "answer": "varchar, text, smallint, default",
+          "isCorrect": false
+        },
+        {
+          "answer": "datetime, int, boolean, undefined, null",
+          "isCorrect": false
+        },
+        {
+          "answer": "insert, select, update, delete, where",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "So‘rov natijalarini tartiblash uchun qaysi ifoda ishlatiladi?",
+      "answers": [
+        {
+          "answer": "ORDER BY",
+          "isCorrect": true
+        },
+        {
+          "answer": "ORDERED BY",
+          "isCorrect": false
+        },
+        {
+          "answer": "SORT BY",
+          "isCorrect": false
+        },
+        {
+          "answer": "SORTED BY",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi qaysi komandalar guruhi ma'lumotlar bazasini tavsiflash uchun ishlatiladi",
+      "answers": [
+        {
+          "answer": "DML - data manipulation language",
+          "isCorrect": true
+        },
+        {
+          "answer": "DDL - data defenition language",
+          "isCorrect": false
+        },
+        {
+          "answer": "DCL - data control language",
+          "isCorrect": false
+        },
+        {
+          "answer": "TCL - transaction control language",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Book jadvaliga ma'lumotlar qo‘shish to‘g‘ri amalga oshirilgan so‘rovni belgilang",
+      "answers": [
+        {
+          "answer": "INSERT INTO book(title,pages,price) VALUES (\"Fizika 10-sinf\", 400, 5000), (\"Ingliz tili\", 300, 8000);",
+          "isCorrect": true
+        },
+        {
+          "answer": "INSERT INTO book(title,pages,price) VALUES (\"Fizika 10-sinf\", 400, 5000);",
+          "isCorrect": false
+        },
+        {
+          "answer": "INSERT INTO book VALUES \"Fizika 10-sinf\",400,5000;",
+          "isCorrect": false
+        },
+        {
+          "answer": "INSERT VALUES (\"Fizika 10-sinf\", 400, 5000) INTO book;",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "library nomli ma'lumotlar bazasi yaratish uchun berilgan komandani aniqlang.",
+      "answers": [
+        {
+          "answer": "create database library;",
+          "isCorrect": true
+        },
+        {
+          "answer": "create table library;",
+          "isCorrect": false
+        },
+        {
+          "answer": "alter database library;",
+          "isCorrect": false
+        },
+        {
+          "answer": "create library data base;",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Book jadvalidagi qatorlar sonini aniqlash so‘rovi to‘g‘ri berilgan javobni tanlang",
+      "answers": [
+        {
+          "answer": "SELECT count(*) FROM book",
+          "isCorrect": true
+        },
+        {
+          "answer": "SELECT * FROM book WHERE count()",
+          "isCorrect": false
+        },
+        {
+          "answer": "SELECT count() FROM book",
+          "isCorrect": false
+        },
+        {
+          "answer": "SELECT count(1) FROM book",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Book jadvalidan ma'lumotlarni kitob nomi uzunligining o‘sish tartibida saralang.",
+      "answers": [
+        {
+          "answer": "SELECT * FROM book ORDER BY length(title) ASC",
+          "isCorrect": true
+        },
+        {
+          "answer": "SELECT * FROM book WHERE length(title) ASC",
+          "isCorrect": false
+        },
+        {
+          "answer": "SELECT * FROM book WHERE title ASC",
+          "isCorrect": false
+        },
+        {
+          "answer": "SELECT length(title) a, * FROM book ORDER BY a",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "ORDER BY ifodasida ASC yoki DESC qiymatlar ko‘rsatilmagan bo‘lsa natijalar qaysi tartibda saralanadi?",
+      "answers": [
+        {
+          "answer": "Qatorlarning jadvalga qo‘shilgan vaqti tartibida",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kamayish tartibida",
+          "isCorrect": false
+        },
+        {
+          "answer": "O‘sish tartibida",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu kabi so‘rov yozish xato hisoblanadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Berilgan oraliqdagi qiymatlarga mos qatorlarni tanlashda qaysi operator ishlatiladi?",
+      "answers": [
+        {
+          "answer": "BETWEEN",
+          "isCorrect": true
+        },
+        {
+          "answer": "WITHIN",
+          "isCorrect": false
+        },
+        {
+          "answer": "RANGE",
+          "isCorrect": false
+        },
+        {
+          "answer": "IN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi so‘rovlardan qaysi biri joriy vaqtni olish uchun ishlatiladi?",
+      "answers": [
+        {
+          "answer": "SELECT CURRENT_TIME();",
+          "isCorrect": true
+        },
+        {
+          "answer": "SELECT CURRENT_DATE();",
+          "isCorrect": false
+        },
+        {
+          "answer": "SELECT CURDATE();",
+          "isCorrect": false
+        },
+        {
+          "answer": "SELECT CURTIME();",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Berilgan javoblar ichida jadvallarni birlashtirish (JOIN)ning mavjud bo‘lmagan turlarini tanlang.",
+      "answers": [
+        {
+          "answer": "NEXT JOIN",
+          "isCorrect": true
+        },
+        {
+          "answer": "INNER JOIN",
+          "isCorrect": false
+        },
+        {
+          "answer": "RIGHT JOIN",
+          "isCorrect": false
+        },
+        {
+          "answer": "LEFT JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma'lumotlar bazasini loyihalashning bosqichini toping.",
+      "answers": [
+        {
+          "answer": "Kontseptual dizayn, mantiqiy dizayn, Fizik dizayn",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kontseptual dizayn",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kontseptual dizayn, Predmet dizayn, Fizik dizayn",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kontseptual dizayn, Predmet dizayn",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Xaydovchilar va manzil orasidagi aloqa modelini aniqlang.",
+      "answers": [
+        {
+          "answer": "N:1",
+          "isCorrect": true
+        },
+        {
+          "answer": "1:N",
+          "isCorrect": false
+        },
+        {
+          "answer": "N:N",
+          "isCorrect": false
+        },
+        {
+          "answer": "1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "O'qituvchilar va Talabalar obyektlari orasidagi aloqa modelini aniqlang.",
+      "answers": [
+        {
+          "answer": "N:M",
+          "isCorrect": true
+        },
+        {
+          "answer": "N:1",
+          "isCorrect": false
+        },
+        {
+          "answer": "1:N",
+          "isCorrect": false
+        },
+        {
+          "answer": "1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma'lumotlar bazasining asosiy xususiyatlari qaysilar?",
+      "answers": [
+        {
+          "answer": "To’liqlik, Aktuallik, Qulaylik, To’g’ri tashkil etish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Aktuallik, Qulaylik",
+          "isCorrect": false
+        },
+        {
+          "answer": "To’liqlik, To’g’ri tashkil etish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Qulaylik, To’g’ri tashkil etish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma'lumotlar bazasini loyihalashning nechta bosqichi mavjud ?",
+      "answers": [
+        {
+          "answer": "3 ta",
+          "isCorrect": true
+        },
+        {
+          "answer": "2 ta",
+          "isCorrect": false
+        },
+        {
+          "answer": "5 ta",
+          "isCorrect": false
+        },
+        {
+          "answer": "6 ta",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Daraxt ko'rinishda tasvirlanadigan ma'lumotlar bazasi qaysi modeli hisoblanadi.",
+      "answers": [
+        {
+          "answer": "Iyerarxik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Fizik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tarmoqli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Relyatsion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SQL tilining SELECT operatorida FROM so?zidan keyingi yozuv nimani bildiradi?",
+      "answers": [
+        {
+          "answer": "Jadval nomini",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ustun nomini",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bazani nomi",
+          "isCorrect": false
+        },
+        {
+          "answer": "kalit so'zni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Amaliyotda eng ko?p tarqalgan ma?lumotlar bazalari?",
+      "answers": [
+        {
+          "answer": "Relyatsion",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tarmoqli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Iyerarxik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fizik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi bir MBBT klient-server turiga kirmaydi?",
+      "answers": [
+        {
+          "answer": "Access",
+          "isCorrect": true
+        },
+        {
+          "answer": "MySQL",
+          "isCorrect": false
+        },
+        {
+          "answer": "Oracle",
+          "isCorrect": false
+        },
+        {
+          "answer": "SQL server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Relyatsion turdagi ma'lumotlar bazasi obyektlari nechchi o?lchovli jadvallardan iborat?",
+      "answers": [
+        {
+          "answer": "Ikki",
+          "isCorrect": true
+        },
+        {
+          "answer": "Uch",
+          "isCorrect": false
+        },
+        {
+          "answer": "To'rt",
+          "isCorrect": false
+        },
+        {
+          "answer": "Besh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "VARCHAR toifasi?",
+      "answers": [
+        {
+          "answer": "O’zgaruvchan toifadagi satr tipi",
+          "isCorrect": true
+        },
+        {
+          "answer": "O'zgarmas toifa",
+          "isCorrect": false
+        },
+        {
+          "answer": "Butun sonli toifa",
+          "isCorrect": false
+        },
+        {
+          "answer": "Belgili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma?lumotlarni taqdim etishning relyatsion modelida foydalanuvchiga ma?lumotlar qaysi ko?rinishda uzatiladi ?",
+      "answers": [
+        {
+          "answer": "Jadvallar",
+          "isCorrect": true
+        },
+        {
+          "answer": "So'rovlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Formalar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xisobotlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Tezkorlik va xotira sarfi ko`rsatkichlari bo`yicha samarali ish olib borish imkoniyati qaysi ma'lumot modellarida mavjud ?",
+      "answers": [
+        {
+          "answer": "Tarmoq modellari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Iyerarxik modellari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Relyatsion modellari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fizik modellari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Ma'lumotlar bazasidagi ma'lumotlarni yangilash uchun qaysi SQL operatoridan foydalaniladi?",
+      "answers": [
+        {
+          "answer": "Update",
+          "isCorrect": true
+        },
+        {
+          "answer": "Select",
+          "isCorrect": false
+        },
+        {
+          "answer": "Insert",
+          "isCorrect": false
+        },
+        {
+          "answer": "Delete",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "NOT, AND, OR operatorlari vazifasi nimadan iborat?",
+      "answers": [
+        {
+          "answer": "Mantiqiy amallarni bajarish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Solishtirish amallari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Shart amallari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Inkor amallari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sana vaqt toifasi qaysi javobda to'g'ri ko'rsatilgan ?",
+      "answers": [
+        {
+          "answer": "DATETIME",
+          "isCorrect": true
+        },
+        {
+          "answer": "DATE",
+          "isCorrect": false
+        },
+        {
+          "answer": "TIME",
+          "isCorrect": false
+        },
+        {
+          "answer": "TIMEDATE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "DISTINCT operatorining vazifasi nima?",
+      "answers": [
+        {
+          "answer": "Ma’lumotlar orasida bir xil ma’lumot bo’lsam bu ma’lumotni bitta qilib chiqaradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ma'lumotlarni ichidan qiymatni chiqarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Saralash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Olib tashlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "DML buyruqlarini ko`rsating.",
+      "answers": [
+        {
+          "answer": "Insert, Delete, Update, Select",
+          "isCorrect": true
+        },
+        {
+          "answer": "Insert Update",
+          "isCorrect": false
+        },
+        {
+          "answer": "CREATE, DROP",
+          "isCorrect": false
+        },
+        {
+          "answer": "SELECT, FROM, DELETE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi operatorlar yordamida jadvallarni birlashtirish mumkin ?",
+      "answers": [
+        {
+          "answer": "barcha javoblar to`g`ri",
+          "isCorrect": true
+        },
+        {
+          "answer": "JOIN",
+          "isCorrect": false
+        },
+        {
+          "answer": "INNER JOIN",
+          "isCorrect": false
+        },
+        {
+          "answer": "LEFT JOIN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "CONCAT() funksiyasi vazifasi to'g'ri ko'rsatilgan jovobni toping.",
+      "answers": [
+        {
+          "answer": "Ustunlarni qo’shadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Satrlarni qo'shadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ustunni olib tashlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Satrni olib tashlaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "CREATE TABLE jadval yaratish operatoridagi NOT NULL yozuvi nimani anglatadi?",
+      "answers": [
+        {
+          "answer": "Ustunda qiymat bermaslik imkoniyatini",
+          "isCorrect": true
+        },
+        {
+          "answer": "Satrga qiymat bermaslik imkoniyatini",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ustun va satrga",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvalga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SELECT operatoridan keyin '*' belgisi nimani bildiradi?",
+      "answers": [
+        {
+          "answer": "hamma ustunlarni belgilashni",
+          "isCorrect": true
+        },
+        {
+          "answer": "Hamma yacheykalarni belgilaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ustunlarni belgilaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvallarni belgilaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "HAVING kalit so’zi vazifasini toping.",
+      "answers": [
+        {
+          "answer": "Ma’lumotlarni filtrlash uchun ishlatiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ma'lumotlani qidirish uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma'lumotlani tartiblash uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kerakli ma'lumotlani topish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "ALTER TABLE buyrug'i Javobi:",
+      "answers": [
+        {
+          "answer": "Ma’lumotlar bazasidan obyektini o’zgartirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Jadval qo'shish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Satr qo'shish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tog'ri javob yo'q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SELECT LOWER buyrug'i natijasini toping.",
+      "answers": [
+        {
+          "answer": "Berilgan ustunni kichik harflarga almashtirib beradi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Berilgan yacheykadagi ma'lumotlani o'zgartirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvalni o'zgartirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Katta xafrga olish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SQL da LIKE so'zi qanday maqsadlarda ishlatiladi?",
+      "answers": [
+        {
+          "answer": "Berilgan qiymatga o’xshash qiymatini qidirish uchun",
+          "isCorrect": true
+        },
+        {
+          "answer": "Berilganlarni saralash uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Berilganlarni olib tashlash uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jadvalga o'zgartirish kiritish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SQL tilida LIKE operatori to'g'ri qollanilgan so'rovni ko'rsating.",
+      "answers": [
+        {
+          "answer": "Select*from talaba where Familiya like ’%medo%’;",
+          "isCorrect": true
+        },
+        {
+          "answer": "Select*from talaba where Familiya,Ismi like ’%\"medo\"%’",
+          "isCorrect": false
+        },
+        {
+          "answer": "Select*from talaba where Familiya,Ismi like %\"medo\"%",
+          "isCorrect": false
+        },
+        {
+          "answer": "Select*from talaba where Ismi>0 like %\"medo\"%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SELECT ism yosh FROM Talaba  so?rovi natijasini toping.",
+      "answers": [
+        {
+          "answer": "talaba jadvalidagi eng yosh talaba ismini chiqaradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Talabaning maxsimal identifikatori",
+          "isCorrect": false
+        },
+        {
+          "answer": "Talabaning o'rta identifikatori",
+          "isCorrect": false
+        },
+        {
+          "answer": "Talabaning oxirgi identifikatori",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Institut ma'lumotlar bazasini o'chiradigan SQL kodi qatorini toping",
+      "answers": [
+        {
+          "answer": "Drop database institut",
+          "isCorrect": true
+        },
+        {
+          "answer": "Drop table institut",
+          "isCorrect": false
+        },
+        {
+          "answer": "Select Drop table institut",
+          "isCorrect": false
+        },
+        {
+          "answer": "Select Drop database institut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyida SQL kodi berilgan:  SELECT * FROM Talaba ORDER BY Yosh DESC;",
+      "answers": [
+        {
+          "answer": "Yosh ustunini teskari tartibda saralanadi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Yosh ustunini to'g'ri saralaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yosh ustunini aralash saralaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yosh satrini teskari saralaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi SQL so’rov bajarilsa berilgan jadvalda qanday o’zgarish bo’ladi? UPDATE Avtobus SET Sigim = 70 ;",
+      "answers": [
+        {
+          "answer": "Avtobus jadvaldagi sigim ustuni qiymatlari  70 ga o`zgaradi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Avtobus jadvaldagi sigim ustuniga 70 ni olib tashlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Avtobus jadvaldagi sigim ustuniga 70 dan pastdagilarni chiqarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Avtobus jadvaldagi sigim ustuniga 70 dan yuqorilarni chiqarish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi SQL so’rov bajarilsa berilgan jadvalda qanday o’zgarish bo’ladi?  UPDATE Darsliklar SET Mualliflar = 3;",
+      "answers": [
+        {
+          "answer": "Darsliklar jadvaldagi mualliflar ustuni barcha qiymatlari  3 ga o`zgaradi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Darsliklar jadvaldagi mualliflar ustuniga 3 ni olib tashlaydi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Darsliklar jadvaldagi mualliflar ustuniga 3 ga oshiradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Darsliklar jadvaldagi mualliflar ustuniga 3 ga kamaytiradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "SELECT COUNT(ID) FROM Rezidentlar; so?rovi qanday natija qaytaradi?",
+      "answers": [
+        {
+          "answer": "Rezidentlar sonini",
+          "isCorrect": true
+        },
+        {
+          "answer": "Rezident ustunlar sonini",
+          "isCorrect": false
+        },
+        {
+          "answer": "Rezident satrlar sonini",
+          "isCorrect": false
+        },
+        {
+          "answer": "Rezident jadvallar sonini",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": ":=ЕСЛИ(ИЛИ(СУММ(2;3;5)=МАКС(1;3;6;9);\"Att\"=\"Att\");\"5 \";\"4\") Ifodani natijasi nechi chiqadi?",
+      "answers": [
+        {
+          "answer": "5",
+          "isCorrect": true
+        },
+        {
+          "answer": "4",
+          "isCorrect": false
+        },
+        {
+          "answer": "bu hatolik qaytaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": ".=ИЛИ(СУММ(2;3;5)=МАКС(1;3;10;9);СРЗНАЧ(5;7;8;6;13)>СЧЁТ(3;4;5;6;7;8;9;22;3))",
+      "answers": [
+        {
+          "answer": "ЛОЖЬ",
+          "isCorrect": true
+        },
+        {
+          "answer": "ИСТИНА",
+          "isCorrect": false
+        },
+        {
+          "answer": "НЕ",
+          "isCorrect": false
+        },
+        {
+          "answer": "to`g`ri javob yo`q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": ":=СЧЁТЗ(A1:B5)    agar quydagi  A1:B5 yacheykalrni barchasida malumot bo`lsa ifodani natijasi nima chiqadi?",
+      "answers": [
+        {
+          "answer": "10",
+          "isCorrect": true
+        },
+        {
+          "answer": "12",
+          "isCorrect": false
+        },
+        {
+          "answer": "9",
+          "isCorrect": false
+        },
+        {
+          "answer": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": ":=ЕСЛИ(И(15>23;\"ATT\"=\"Att\");\"Hello world\";\"salom dunyo\")  Ifodan natijasi nima chiqadi?",
+      "answers": [
+        {
+          "answer": "Hello world",
+          "isCorrect": true
+        },
+        {
+          "answer": "salom dunyo",
+          "isCorrect": false
+        },
+        {
+          "answer": "bu hatolik qaytaradi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hello world, salom dunyo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": ":=СЧЁТЗ(A1:B5)    agar quydagi  A1:B5 yacheykalrni 3 tasi bo`sh  bo`lsa ifodani natijasi nima chiqadi?",
+      "answers": [
+        {
+          "answer": "7",
+          "isCorrect": true
+        },
+        {
+          "answer": "6",
+          "isCorrect": false
+        },
+        {
+          "answer": "10",
+          "isCorrect": false
+        },
+        {
+          "answer": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Berilgan shartga muofiq  ustundagi malumotlarni eng kattasini chiqaruvchi funksiya qaysi javobda keltirilgan?",
+      "answers": [
+        {
+          "answer": "ДМАКС()",
+          "isCorrect": true
+        },
+        {
+          "answer": "ДМИН()",
+          "isCorrect": false
+        },
+        {
+          "answer": "БСЧЁТ()",
+          "isCorrect": false
+        },
+        {
+          "answer": "to`g`ri javob yo`q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Таблицы, Запросы, Формы, Страницы, Отчёты va Макросlar Access uchun nima bo’lib hisoblanadi?",
+      "answers": [
+        {
+          "answer": "asosiy elementlari",
+          "isCorrect": true
+        },
+        {
+          "answer": "asosiy menyular",
+          "isCorrect": false
+        },
+        {
+          "answer": "asosiy funksiyalar",
+          "isCorrect": false
+        },
+        {
+          "answer": "to`g`ri javob yo`q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Accessning fayllar kengaytmasi qanday?",
+      "answers": [
+        {
+          "answer": "*.accdb",
+          "isCorrect": true
+        },
+        {
+          "answer": "*.exe",
+          "isCorrect": false
+        },
+        {
+          "answer": "*.docx",
+          "isCorrect": false
+        },
+        {
+          "answer": "to`g`ri javob yo`q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "MS Access 2010da necha xil so’rov mavjud?",
+      "answers": [
+        {
+          "answer": "5",
+          "isCorrect": true
+        },
+        {
+          "answer": "4",
+          "isCorrect": false
+        },
+        {
+          "answer": "3",
+          "isCorrect": false
+        },
+        {
+          "answer": "8",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
