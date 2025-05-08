@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SubjectsPage from "./pages/SubjectsPage";
 import TestPage from "./pages/TestPage";
-import HomePage from "./pages/HomePage";
 import AnswersPage from "./pages/AnswersPage";
+import HomePage from "./pages/HomePage";
 import "./App.css";
 
 function App() {
