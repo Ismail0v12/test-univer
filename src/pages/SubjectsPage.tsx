@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import { Subject } from "../types";
 import "../styles/SubjectsPage.css";
 
@@ -30,13 +30,22 @@ const mockSubjects: Subject[] = [
 
 const SubjectsPage = () => {
   const [subjects] = useState<Subject[]>(mockSubjects);
+  const location = useLocation();
 
   return (
     <div className="subjects-container">
       <h1>Choose a Subject</h1>
       <div className="subjects-grid">
         {subjects.map((subject) => (
-          <Link to={subject.id} key={subject.id} className="subject-card">
+          <Link
+            to={
+              location.pathname.includes("base")
+                ? `base_${subject.id}`
+                : subject.id
+            }
+            key={subject.id}
+            className="subject-card"
+          >
             <h2>{subject.name}</h2>
             <p>{subject.description}</p>
           </Link>

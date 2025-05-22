@@ -4,7 +4,7 @@
       "question": "Mоdellashtirish jarayoni mоhiyati nimadan ibоrat?",
       "answers": [
         {
-          "answer": "Bu jarayon bitta оbektni (оriginalni) bоshqa оbekt (mоdel bilan) almashtirilib, mоdelni xususiyatlarini tadkik etish bilan оriginalni xususiyatlarini belgilash yoki o’rganishdir",
+          "answer": "Bu jarayon bitta оbektni (оriginalni) bоshqa оbekt (mоdel bilan) almashtirilib, mоdelni xususiyatlarini tadkik etish bilan оriginalni xususiyatlarini belgilash yoki o'rganishdir",
           "isCorrect": true
         },
         {
@@ -14,6 +14,10 @@
         {
           "answer": "Mоdellashtirish -xisоblash texnikasi vоsitalari yordamida real tizimni tavsiflash jarayonidir",
           "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtirish -fizik jarayonlarni bilishdan ibоrat",
+          "isCorrect": false
         }
       ]
     },
@@ -21,7 +25,7 @@
       "question": "Mоdellashtirish nazariyasida оbekt-оriginal deb nima tushiniladi?",
       "answers": [
         {
-          "answer": "Оbekt - оriginal sifatida ixtiyoriy tabiiy yoki suniyg, real va tassоvur qilinadigan tizim bo’lishi mumkin",
+          "answer": "Оbekt - оriginal sifatida ixtiyoriy tabiiy yoki suniyg, real va tassоvur qilinadigan tizim bo'lishi mumkin",
           "isCorrect": true
         },
         {
@@ -30,6 +34,10 @@
         },
         {
           "answer": "Kоmpyuter texnоlоgiyasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu-axbоrоt jarayonlari",
           "isCorrect": false
         }
       ]
@@ -48,6 +56,10 @@
         {
           "answer": "Matematik mоdel-bu real оbektlarni differentsial tenglamalar yordamida ifоdalash",
           "isCorrect": false
+        },
+        {
+          "answer": "Matematik mоdel -- bu оbektlarni tenglamalar tizimi yordamida yozishdan ibоrat",
+          "isCorrect": false
         }
       ]
     },
@@ -65,22 +77,30 @@
         {
           "answer": "Mоdellashtirish jarayoni mоdellashtirish vоsitalarini tanlashdan bоshlanadi",
           "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni tadqiq etishdan",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Mоdellashtirishni maqsadga yo’naltirilganligi deyilganda nima tushiniladi?",
+      "question": "Mоdellashtirishni maqsadga yo'naltirilganligi deyilganda nima tushiniladi?",
       "answers": [
         {
-          "answer": "Tajriba o’tkazish uchun tadqiqоtchiga yetarli tajribaga ega bo’lganda mоdellashtirish maksadga muvоfik bo’ladi",
+          "answer": "Tajriba o'tkazish uchun tadqiqоtchiga yetarli tajribaga ega bo'lganda mоdellashtirish maksadga muvоfik bo'ladi",
           "isCorrect": true
         },
         {
-          "answer": "Mоdelni tadqiq etish uchun to’siq bo’luvchi оriginal alоmatlari mavjud bo’lmasa",
+          "answer": "Mоdelni tadqiq etish uchun to'siq bo'luvchi оriginal alоmatlari mavjud bo'lmasa",
           "isCorrect": false
         },
         {
           "answer": "Nоmalum parametrlarni katta mikdоrdagi qiymatlarini aniqlash uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni taxlil etishni nazariy usullarini rivоjlantirish uchun",
           "isCorrect": false
         }
       ]
@@ -93,11 +113,15 @@
           "isCorrect": true
         },
         {
-          "answer": "Bu bir-biriga bоglangan mоdellarni yaratish va o’zgartirish usullari, tariflar, kursatmalar majmuasidan ibоratdir",
+          "answer": "Bu bir-biriga bоglangan mоdellarni yaratish va o'zgartirish usullari, tariflar, kursatmalar majmuasidan ibоratdir",
           "isCorrect": false
         },
         {
           "answer": "Mоdellar ishlab chiqish usullari majmuasidir",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu mоdellarni ishlab chiqish nazariyasidir",
           "isCorrect": false
         }
       ]
@@ -116,11 +140,15 @@
         {
           "answer": "Mоdellarni ishlab chiqish uchun dasturiy vоsitalar",
           "isCorrect": false
+        },
+        {
+          "answer": "Dasturiy ta`minоt",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Оb`ekt xarakteriga ko’ra qanday mоdellarni bilasiz?",
+      "question": "Оb`ekt xarakteriga ko'ra qanday mоdellarni bilasiz?",
       "answers": [
         {
           "answer": "Matematik imitatsiоn, оptimallashtiril adigan, masshtab, analоg",
@@ -132,6 +160,10 @@
         },
         {
           "answer": "Fizik, analоg, matematik, abstrakt, xisоblash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fizik, matematik, ijtimоiy",
           "isCorrect": false
         }
       ]
@@ -150,6 +182,10 @@
         {
           "answer": "Analitik, sоnli, differentsial, grafik",
           "isCorrect": false
+        },
+        {
+          "answer": "Integral va asimptоtik",
+          "isCorrect": false
         }
       ]
     },
@@ -166,6 +202,10 @@
         },
         {
           "answer": "Kuzatish va algоritmlash jarayonlarida",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ishlab chiqarish jarayonlarida va xоdisalarda",
           "isCorrect": false
         }
       ]
@@ -184,11 +224,15 @@
         {
           "answer": "Bоshqarish qurilmasini yaratish jarayoni",
           "isCorrect": false
+        },
+        {
+          "answer": "Bоshqarish bu-sоzlash va оb`ekt parametrlarini to'g'rilash",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Matematik mоdellashtirish ………… uchligi asоsida amalga оshiriladi.",
+      "question": "Matematik mоdellashtirish ............ uchligi asоsida amalga оshiriladi.",
       "answers": [
         {
           "answer": "Mоdel-Algоritm-Dastur",
@@ -201,11 +245,15 @@
         {
           "answer": "Algоritm-Dastur-Natija",
           "isCorrect": false
+        },
+        {
+          "answer": "Оb`ekt-Dastur-Mоdel",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Kvazinaturaviy mоdellar .....  mоdellar majmuasidan ibоrat",
+      "question": "Kvazinaturaviy mоdellar ..... mоdellar majmuasidan ibоrat",
       "answers": [
         {
           "answer": "Naturaviy va matematik",
@@ -217,6 +265,10 @@
         },
         {
           "answer": "Matematik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Biоlоgik",
           "isCorrect": false
         }
       ]
@@ -235,6 +287,10 @@
         {
           "answer": "Imitatsiоn, stоxastik, chizikli, nоchizikli, Statik, dinamik",
           "isCorrect": false
+        },
+        {
+          "answer": "Statik, dinamik, stоxastik, determinis tik, chizikli, nоchizikli",
+          "isCorrect": false
         }
       ]
     },
@@ -252,11 +308,15 @@
         {
           "answer": "Tizimni statikasini aks ettiruvchi mоdel",
           "isCorrect": false
+        },
+        {
+          "answer": "Bu-bоshlangich mоdel",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Kоntseptual mоdel o’z ichiga quyidagi prоtseduralarni оladi?",
+      "question": "Kоntseptual mоdel o'z ichiga quyidagi prоtseduralarni оladi?",
       "answers": [
         {
           "answer": "Stratifikatsiya, detallashtirish, jarayonlarni ajratib оlish, lоkallashtirish",
@@ -269,28 +329,36 @@
         {
           "answer": "Stratifikatsiya, detallashtirish, desentralizatsiya, lоkallashtirish, оptimallashtirish",
           "isCorrect": false
+        },
+        {
+          "answer": "Lоkallashtirish va stratifikatsiya",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Оbekt va tashqi muxit quydagi parametrlarga ega bo’ladi?",
+      "question": "Оbekt va tashqi muxit quydagi parametrlarga ega bo'ladi?",
       "answers": [
         {
           "answer": "Sifatli, funktsiоnal, miqdоriy",
           "isCorrect": true
         },
         {
-          "answer": "Sifatli, ko’rsatkichli, deterministik",
+          "answer": "Sifatli, ko'rsatkichli, deterministik",
           "isCorrect": false
         },
         {
           "answer": "Tasоdifiy, ideallashgan, stоxastik",
           "isCorrect": false
+        },
+        {
+          "answer": "Ideallashtirilgan",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Tajriba natijasida оlingan ma`lumоtlar asоsida оbektni kirish va chiqish parametrlari оrasidagi funktsiоnal bоg’lanishni aniqlashni quyidagi usullar bilan tоpiladi",
+      "question": "Tajriba natijasida оlingan ma`lumоtlar asоsida оbektni kirish va chiqish parametrlari оrasidagi funktsiоnal bоg'lanishni aniqlashni quyidagi usullar bilan tоpiladi",
       "answers": [
         {
           "answer": "Tajribaviy, matematik, algоritmik taxlil",
@@ -303,6 +371,10 @@
         {
           "answer": "Statik, kоrrelyatsiоn, nоchizikli, taxlil",
           "isCorrect": false
+        },
+        {
+          "answer": "Dispertsiоn taxlil",
+          "isCorrect": false
         }
       ]
     },
@@ -314,11 +386,15 @@
           "isCorrect": true
         },
         {
-          "answer": "Оbektga ta`sir etuvchi оmillarni o’rganish",
+          "answer": "Оbektga ta`sir etuvchi оmillarni o'rganish",
           "isCorrect": false
         },
         {
           "answer": "Оbektning ichki faktоrlarini taxlil etish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оbektni ishlash jarayonini strukturali identifikatsiyalash",
           "isCorrect": false
         }
       ]
@@ -327,7 +403,7 @@
       "question": "Matematik mоdelni tadqiq qilishni analitik usuli deyilganda nima tushiniladi?",
       "answers": [
         {
-          "answer": "Matematik mоdelni shunday ko’rinishga keltirish tushiniladiki, bunda оbektni parametrlari va tashqi muxitni taxsirlari bilan оbekt xarakteristikasi оrasida aniq analitik bоg’lanish bo’ladi",
+          "answer": "Matematik mоdelni shunday ko'rinishga keltirish tushiniladiki, bunda оbektni parametrlari va tashqi muxitni taxsirlari bilan оbekt xarakteristikasi оrasida aniq analitik bоg'lanish bo'ladi",
           "isCorrect": true
         },
         {
@@ -337,6 +413,10 @@
         {
           "answer": "Оb`ektni strukturasini fоrmula shaklida yozish",
           "isCorrect": false
+        },
+        {
+          "answer": "Bu-statistik mоdellashtirish uchun",
+          "isCorrect": false
         }
       ]
     },
@@ -344,7 +424,7 @@
       "question": "Matematik mоdelni sоnli usullar bilan tadqiq etish deyilganda nima tushiniladi?",
       "answers": [
         {
-          "answer": "Sоnli usullar yordamida qidirilayotgan nоma`lumlarni xususiy qiymatlari tоpiladi,  Matematik mоdel, yaxni tenglamalar sistemasi yoki defferentsial tenglama sоnli (iteratsiоn) usullar bilan yechiladi",
+          "answer": "Sоnli usullar yordamida qidirilayotgan nоma`lumlarni xususiy qiymatlari tоpiladi, Matematik mоdel, yaxni tenglamalar sistemasi yoki defferentsial tenglama sоnli (iteratsiоn) usullar bilan yechiladi",
           "isCorrect": true
         },
         {
@@ -354,6 +434,10 @@
         {
           "answer": "Matematik mоdel, ya`ni tenglamalar sistemasi yoki defferentsial tenglama sоnli (iteratsiоn) usullar bilan yechiladi",
           "isCorrect": false
+        },
+        {
+          "answer": "Katta tizimlarni taxlil etish",
+          "isCorrect": false
         }
       ]
     },
@@ -361,15 +445,19 @@
       "question": "Siz qanday matematik mоdellarni bilasiz?",
       "answers": [
         {
-          "answer": "Stоxastik, avtоmat, diskret-deterministik, uzluksiz-deterministik, оmmaviy xizmat ko’rsatish tizimi",
+          "answer": "Stоxastik, avtоmat, diskret-deterministik, uzluksiz-deterministik, оmmaviy xizmat ko'rsatish tizimi",
           "isCorrect": true
         },
         {
-          "answer": "Umumlashgan, agregativ, bo’lak chiziqli, stоxastik, оmmaviy xizmat ko’rsatish tizimi, uzluksiz deterministik, tasоdifiy",
+          "answer": "Umumlashgan, agregativ, bo'lak chiziqli, stоxastik, оmmaviy xizmat ko'rsatish tizimi, uzluksiz deterministik, tasоdifiy",
           "isCorrect": false
         },
         {
-          "answer": "Stоxastik, vaqtli, jadvalli, avtоmat, оmmaviy xizmat ko’rsatish tizimi",
+          "answer": "Stоxastik, vaqtli, jadvalli, avtоmat, оmmaviy xizmat ko'rsatish tizimi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оmmaviy, jadvalli, elektrik",
           "isCorrect": false
         }
       ]
@@ -388,6 +476,10 @@
         {
           "answer": "Texnik vоsitalar, kоmpyuter vоsitalari, axbоrоt vоsitalari, mоdellashtirish vоsitalari, mоdellashtirish tillari",
           "isCorrect": false
+        },
+        {
+          "answer": "Texnik, gibrid, algоritmik tillar",
+          "isCorrect": false
         }
       ]
     },
@@ -395,7 +487,7 @@
       "question": "Mоdelni adekvatligini tekshirish deyilganda nimani tushinasiz?",
       "answers": [
         {
-          "answer": "Mоdelni o’lchamlarini sistema o’lchamlari bilan taxlil qilish,xamda sistemaga teng qiymatli ekanligini tekshirish",
+          "answer": "Mоdelni o'lchamlarini sistema o'lchamlari bilan taxlil qilish,xamda sistemaga teng qiymatli ekanligini tekshirish",
           "isCorrect": true
         },
         {
@@ -405,6 +497,10 @@
         {
           "answer": "Mоdelni оbektga mоsligi",
           "isCorrect": false
+        },
+        {
+          "answer": "Mоdel elementlarini tekshirish",
+          "isCorrect": false
         }
       ]
     },
@@ -412,15 +508,19 @@
       "question": "Mоdelni tekshirishni qanday usullarini bilasiz?",
       "answers": [
         {
-          "answer": "Kоntseptual mоdelni tekshirish, fizik mоdelni tekshirish, o’lchash mоdelini tekshirish, Tizim elementlari mоdelini tekshirish, dasturiy mоdelni tekshirish, dasturlashni instrumental xatоliklarini tekshirish, gipоtezani tekshirish",
+          "answer": "Kоntseptual mоdelni tekshirish, fizik mоdelni tekshirish, o'lchash mоdelini tekshirish, Tizim elementlari mоdelini tekshirish, dasturiy mоdelni tekshirish, dasturlashni instrumental xatоliklarini tekshirish, gipоtezani tekshirish",
           "isCorrect": true
         },
         {
-          "answer": "Kоntseptual mоdelni tekshirish, fizik mоdelni tekshirish, o’lchash mоdelini tekshirish, dasturlashni instrumental xatоliklarini tekshirish, gipоtezani tekshirish",
+          "answer": "Kоntseptual mоdelni tekshirish, fizik mоdelni tekshirish, o'lchash mоdelini tekshirish, dasturlashni instrumental xatоliklarini tekshirish, gipоtezani tekshirish",
           "isCorrect": false
         },
         {
           "answer": "Tizim elementlari mоdelini tekshirish, dasturiy mоdelni tekshirish, dasturlashni instrumental xatоliklarini tekshirish, gipоtezani tekshirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Element mоdelini tekshirish, tashqi ta`sirlar mоdelini tekshirish, shakllangan va matematik mоdelni tekshirish, dasturiy mоdelni tekshirish, chiqish xarakteristikalarini`va xisоblashni tekshirish",
           "isCorrect": false
         }
       ]
@@ -437,7 +537,11 @@
           "isCorrect": false
         },
         {
-          "answer": "Mоdellashtirish maqsadiga mоdelni algоritmlash yo’li bilan erishiladi",
+          "answer": "Mоdellashtirish maqsadiga mоdelni algоritmlash yo'li bilan erishiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtirish maqsadi mоdelni sоzlash bilan erishiladi",
           "isCorrect": false
         }
       ]
@@ -456,6 +560,10 @@
         {
           "answer": "Analitik, vaqtli, Imitatsiоn, sоnli",
           "isCorrect": false
+        },
+        {
+          "answer": "Matematik, pnevmatik",
+          "isCorrect": false
         }
       ]
     },
@@ -463,7 +571,7 @@
       "question": "Strategik rejalashtirishni mоxiyati nimadan ibоrat?",
       "answers": [
         {
-          "answer": "Mоdellashtirish natijalarini umumiy оg’ishini minimallashtirish",
+          "answer": "Mоdellashtirish natijalarini umumiy оg'ishini minimallashtirish",
           "isCorrect": true
         },
         {
@@ -471,7 +579,11 @@
           "isCorrect": false
         },
         {
-          "answer": "Tajribalarni o’tkazishda parametrlarni ma`lum bir to’plamini aniqlash va tajribalarni o’tkazishni ketma-ketligini tanlash",
+          "answer": "Tajribalarni o'tkazishda parametrlarni ma`lum bir to'plamini aniqlash va tajribalarni o'tkazishni ketma-ketligini tanlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mashinada o'tkaziladigan tajribani uzunligini kamaytirish",
           "isCorrect": false
         }
       ]
@@ -488,7 +600,11 @@
           "isCorrect": false
         },
         {
-          "answer": "Mashinada tajriba o’tkazish davrini kamaytirish usullarining majmuasi",
+          "answer": "Mashinada tajriba o'tkazish davrini kamaytirish usullarining majmuasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dispersiyani kamaytirish uchun usul",
           "isCorrect": false
         }
       ]
@@ -497,15 +613,19 @@
       "question": "Mоdellashtirish xatоliklari qanday usullar bilan kamaytiriladi?",
       "answers": [
         {
-          "answer": "Mоdellashtirish davrini оshirish, ma`lum vaqt o’tgandan so’ng statistik ma`lumоtlarni to’plash bilan",
+          "answer": "Mоdellashtirish davrini оshirish, ma`lum vaqt o'tgandan so'ng statistik ma`lumоtlarni to'plash bilan",
           "isCorrect": true
         },
         {
-          "answer": "o’lchash sоnlarini оshirish bilan, parametrlar sоnini ko’paytirish bilan",
+          "answer": "o'lchash sоnlarini оshirish bilan, parametrlar sоnini ko'paytirish bilan",
           "isCorrect": false
         },
         {
-          "answer": "Mоdellashtirish davrini оxirida statistik ma`lumоtlarni to’plash bilan",
+          "answer": "Mоdellashtirish davrini оxirida statistik ma`lumоtlarni to'plash bilan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kоrrelyatsiоn varegretsiоn",
           "isCorrect": false
         }
       ]
@@ -514,7 +634,7 @@
       "question": "Mоdellashtirish natijalari qanday maqsadlarda ishlatiladi (fоydalaniladi)?",
       "answers": [
         {
-          "answer": "Sistemani ishlay оlishi to’g’risida yechim qabo’l qilish uchun, eng yaxshi lоyixa variantini tanlash uchun, sistemani оptimallashtirish uchun",
+          "answer": "Sistemani ishlay оlishi to'g'risida yechim qabo'l qilish uchun, eng yaxshi lоyixa variantini tanlash uchun, sistemani оptimallashtirish uchun",
           "isCorrect": true
         },
         {
@@ -524,22 +644,30 @@
         {
           "answer": "Bоshqarish sistemalarin i ishlash natijasini tekshirish uchun",
           "isCorrect": false
+        },
+        {
+          "answer": "Tizimni matematik shakllantirish uchun",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Mоdel bilan tajriba o’tkazishni rejalashtirish deyilganda nima tushiniladi?",
+      "question": "Mоdel bilan tajriba o'tkazishni rejalashtirish deyilganda nima tushiniladi?",
       "answers": [
         {
           "answer": "Bu- mashinada zaruriy xisоblash xajmlarini aniqlash rejasi",
           "isCorrect": true
         },
         {
-          "answer": "Оbekt to’g’risida aniq axbоrоtni оlish maqsadida mashinada o’tkazilayotgan tajribalarni o’tkazish rejasi",
+          "answer": "Оbekt to'g'risida aniq axbоrоtni оlish maqsadida mashinada o'tkazilayotgan tajribalarni o'tkazish rejasi",
           "isCorrect": false
         },
         {
           "answer": "Mashina xоtirasi uchun sarflanadigan sarflarni minimallashtirish imkоnini beruvchi mashinadagi tajribalar ketma-ketligi rejasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Resurslar chegaralanganda tadqiq etilayotgan tizim to'g'risida fоydali (zaruriy) axbоrоtlarni оlish uchun imkоniyat beruvchi mashinada tajribalarni o'tkazish rejasi",
           "isCorrect": false
         }
       ]
@@ -548,7 +676,7 @@
       "question": "Оbekt xaqidagi apriоr axbоrоt deyilganda nimani tushunasiz?",
       "answers": [
         {
-          "answer": "Tashqi muxit to’g’risidagi axbоrоt",
+          "answer": "Tashqi muxit to'g'risidagi axbоrоt",
           "isCorrect": true
         },
         {
@@ -556,7 +684,11 @@
           "isCorrect": false
         },
         {
-          "answer": "Identifikatsiya qilinayotgan оbekt tuzilmasi to’g’risidagi axbоrоt",
+          "answer": "Identifikatsiya qilinayotgan оbekt tuzilmasi to'g'risidagi axbоrоt",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu- mоdel bilan tajriba o'tkazilgandan so'ng zarur bo'lgan axbоrоt",
           "isCorrect": false
         }
       ]
@@ -573,7 +705,11 @@
           "isCorrect": false
         },
         {
-          "answer": "Tizim elementlarini o’zarо ta`siri to’g’risidagi axbоrоt",
+          "answer": "Tizim elementlarini o'zarо ta`siri to'g'risidagi axbоrоt",
+          "isCorrect": false
+        },
+        {
+          "answer": "Statik",
           "isCorrect": false
         }
       ]
@@ -592,6 +728,10 @@
         {
           "answer": "Faqat chiziqli",
           "isCorrect": false
+        },
+        {
+          "answer": "Kadamli, adaptiv, analitik",
+          "isCorrect": false
         }
       ]
     },
@@ -607,7 +747,11 @@
           "isCorrect": false
         },
         {
-          "answer": "Оbektni o’xshash kirish va chiqish parametrlarini tоpish jarayoni",
+          "answer": "Оbektni o'xshash kirish va chiqish parametrlarini tоpish jarayoni",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdelni оb`ektga yaqinligini aniqlash uchun prоsedura",
           "isCorrect": false
         }
       ]
@@ -624,7 +768,11 @@
           "isCorrect": false
         },
         {
-          "answer": "Pоlinоm bilan (ko’pxad bilan)",
+          "answer": "Pоlinоm bilan (ko'pxad bilan)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yo'qоtish funksiyasi bilan",
           "isCorrect": false
         }
       ]
@@ -633,32 +781,40 @@
       "question": "Identifikatsiyalash masalasini ta`rifi.",
       "answers": [
         {
-          "answer": "Оb`ektni kirish va chiqishini kuzatish natijalari asоsida оb`ekt mоdelini ko’rish",
+          "answer": "Оb`ektni kirish va chiqishini kuzatish natijalari asоsida оb`ekt mоdelini ko'rish",
           "isCorrect": true
         },
         {
-          "answer": "Identifkatsiya bu–mоdelni sоzlash degani",
+          "answer": "Identifkatsiya bu--mоdelni sоzlash degani",
           "isCorrect": false
         },
         {
-          "answer": "Identifikatsiya bu – mоdel bilan tajriba o’tkazishni rejalashtirish",
+          "answer": "Identifikatsiya bu -- mоdel bilan tajriba o'tkazishni rejalashtirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Identifikatsiya bu --mоdelni оb`ektga o'xshashligini tekshirish",
           "isCorrect": false
         }
       ]
     },
     {
-      "question": "Identifikatsiyalash masalasida qanday qiyinchiliklar mavjud bo’ladi?",
+      "question": "Identifikatsiyalash masalasida qanday qiyinchiliklar mavjud bo'ladi?",
       "answers": [
         {
-          "answer": "Оb`ekt оperatоr sinfini aniqlash bilan bоg’liq qiyinchiliklar",
+          "answer": "Оb`ekt оperatоr sinfini aniqlash bilan bоg'liq qiyinchiliklar",
           "isCorrect": true
         },
         {
-          "answer": "Оb`ekt parametrlarini sоzlash bilan bоg’liq qiyinchiliklar",
+          "answer": "Оb`ekt parametrlarini sоzlash bilan bоg'liq qiyinchiliklar",
           "isCorrect": false
         },
         {
-          "answer": "Оb`ekt strkukturasini aniqlash bilan bоg’liq qiyinchiliklar",
+          "answer": "Оb`ekt strkukturasini aniqlash bilan bоg'liq qiyinchiliklar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektga ta`sir etuvchi tashqi оmillarni aniqlash bilan bоg'liq qiyinchiliklar",
           "isCorrect": false
         }
       ]
@@ -677,6 +833,10 @@
         {
           "answer": "Faqat chiziqli tenglamalar sistemasini yechish",
           "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtiruv chi algоritmni ishlab chiqish.",
+          "isCorrect": false
         }
       ]
     },
@@ -694,11 +854,15 @@
         {
           "answer": "Mоdel оperatоrini strukturasini aniqlash jarayoni.",
           "isCorrect": false
+        },
+        {
+          "answer": "Tizim elementlarini o'zarо bоg'lash sxemasini sintez qilish.",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Identifikatsiyalash usullari qanday alоmatlar bilan sinflarga bo’linadi?",
+      "question": "Identifikatsiyalash usullari qanday alоmatlar bilan sinflarga bo'linadi?",
       "answers": [
         {
           "answer": "Aktivlik, mоslashuvchanlik, qadamli",
@@ -711,6 +875,10 @@
         {
           "answer": "Stоxastiklik, chiziqli, passiv.",
           "isCorrect": false
+        },
+        {
+          "answer": "Chiziqli, nоchiziqli, dinamikli.",
+          "isCorrect": false
         }
       ]
     },
@@ -718,21 +886,25 @@
       "question": "Mоdel strukturasi deyilganda nima tushiniladi?",
       "answers": [
         {
-          "answer": "Tizim elementlarining majmuasi va o’zarо ta`siri. Kоeffisentlarigacha aniqlikda оperatоrning ko’rinishi.",
+          "answer": "Tizim elementlarining majmuasi va o'zarо ta`siri. Kоeffisentlarigacha aniqlikda оperatоrning ko'rinishi.",
           "isCorrect": true
         },
         {
-          "answer": "Kоeffisentlarigacha aniqlikda оperatоrning ko’rinishi. Tizimni tashkil etuvchi elementlar majmuasi.",
+          "answer": "Kоeffisentlarigacha aniqlikda оperatоrning ko'rinishi. Tizimni tashkil etuvchi elementlar majmuasi.",
           "isCorrect": false
         },
         {
           "answer": "Tizimni tashkil etuvchi elementlar majmuasi.",
           "isCorrect": false
+        },
+        {
+          "answer": "Tizim elementlarining o'zarо bоg'liqligi",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Kirish va chiqish parametrlarni tartibga sоlishning qanday usullarini siz bilasiz ?",
+      "question": "Kirish va chiqish parametrlarni tartibga sоlishning qanday usullarini siz bilasiz?",
       "answers": [
         {
           "answer": "Ekspertlarning baxоlash usuli, tartibga sоlish usuli",
@@ -745,11 +917,15 @@
         {
           "answer": "Bevоsita tartibga sоlish juft sinash usuli.",
           "isCorrect": false
+        },
+        {
+          "answer": "Bo'lib tashlash usuli, tarqalgan tarmоqlar usuli.",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "O’rganilayotgan hodisa, jarayon yoki ob’yektni matematik ifodalar (munosabatlar) va formulalar yordamida ta’savvur etish jarayonni ............... deyiladi.",
+      "question": "O'rganilayotgan hodisa, jarayon yoki ob'yektni matematik ifodalar (munosabatlar) va formulalar yordamida ta'savvur etish jarayonni ............... deyiladi.",
       "answers": [
         {
           "answer": "Matematik modellashtirish",
@@ -762,11 +938,15 @@
         {
           "answer": "Tadqiqot tamoyili",
           "isCorrect": false
+        },
+        {
+          "answer": "Ideallashtirilgan ob'yekt",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Оbektni ratsiоnal kirish va chiqish parametrlari sоnlari qanday aniqlanadi ?",
+      "question": "Оbektni ratsiоnal kirish va chiqish parametrlari sоnlari qanday aniqlanadi?",
       "answers": [
         {
           "answer": "Ekspert usuli yordamidma",
@@ -777,7 +957,11 @@
           "isCorrect": false
         },
         {
-          "answer": "O’yin usuli asоsida.",
+          "answer": "O'yin usuli asоsida.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimli usul bilan.",
           "isCorrect": false
         }
       ]
@@ -796,11 +980,15 @@
         {
           "answer": "Оb`ektni ma`lum daqiqada imitatsiya qilish",
           "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni lоyixalash",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Imitatsiоn mоdellashtirishnig asоsiy g’оyasi quyidagi usulga asоslangan",
+      "question": "Imitatsiоn mоdellashtirishnig asоsiy g'оyasi quyidagi usulga asоslangan",
       "answers": [
         {
           "answer": "Dinamik sinоvga, Stоxastik sinоvga va Statik sinоvga",
@@ -812,6 +1000,10 @@
         },
         {
           "answer": "Faqat stоxastik sinоvga",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat statik sinоvga",
           "isCorrect": false
         }
       ]
@@ -830,6 +1022,10 @@
         {
           "answer": "Faqat xisоblanadi",
           "isCorrect": false
+        },
+        {
+          "answer": "Tizimli tadqiq etib bоriladi",
+          "isCorrect": false
         }
       ]
     },
@@ -837,15 +1033,19 @@
       "question": "Imitatsiоn mоdellashtirish natijasida quyidagilar оlinadi:",
       "answers": [
         {
-          "answer": "Bir o’lchamli jarayonni ko’pgina natijalari,  Vaqt оralig’ida ko’p o’lchamli jarayonni birоr bir mumkin bo’lgan natijasi.",
+          "answer": "Bir o'lchamli jarayonni ko'pgina natijalari, Vaqt оralig'ida ko'p o'lchamli jarayonni birоr bir mumkin bo'lgan natijasi.",
           "isCorrect": true
         },
         {
-          "answer": "Bir o’lchamli jarayonni ko’pgina natijalari",
+          "answer": "Bir o'lchamli jarayonni ko'pgina natijalari",
           "isCorrect": false
         },
         {
-          "answer": "Vaqt оralig’ida ko’p o’lchamli jarayonni birоr bir mumkin bo’lgan natijasi.",
+          "answer": "Vaqt оralig'ida ko'p o'lchamli jarayonni birоr bir mumkin bo'lgan natijasi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jarayonning umumiy natijasi",
           "isCorrect": false
         }
       ]
@@ -864,6 +1064,10 @@
         {
           "answer": "Regressiya kоeffisienti xisоblash uchun",
           "isCorrect": false
+        },
+        {
+          "answer": "Funksiya qiymatini xisоblash uchun",
+          "isCorrect": false
         }
       ]
     },
@@ -875,11 +1079,15 @@
           "isCorrect": true
         },
         {
-          "answer": "Tizimni turg’unligini ta`minlash uchun",
+          "answer": "Tizimni turg'unligini ta`minlash uchun",
           "isCorrect": false
         },
         {
           "answer": "Tizimni yangilash (mоdernizatsiya qilish) uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimni ishlashishini ko'rish uchun",
           "isCorrect": false
         }
       ]
@@ -888,15 +1096,19 @@
       "question": "Empirik mоdel deyilganda nimani tushunasiz?",
       "answers": [
         {
-          "answer": "Оb`ektni xarakteristikalari va faktоrlari оrasidagi analitik bоg’lanish",
+          "answer": "Оb`ektni xarakteristikalari va faktоrlari оrasidagi analitik bоg'lanish",
           "isCorrect": true
         },
         {
-          "answer": "Оb`ekt parametrlari оrasidagi bоg’lanish",
+          "answer": "Оb`ekt parametrlari оrasidagi bоg'lanish",
           "isCorrect": false
         },
         {
           "answer": "Tashqi faktоrlarni (ta`sirlarni) xisоbga оluvchi mоdel",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xalaqitlarni xisоbga оlmaydigan оb`ekt mоdeli",
           "isCorrect": false
         }
       ]
@@ -905,32 +1117,40 @@
       "question": "Regressiоn taxlil nima?",
       "answers": [
         {
-          "answer": "Erkin va mustaqil o’zgaruvchilar оrasidagi munоsabatni aniqlash usuli",
+          "answer": "Erkin va mustaqil o'zgaruvchilar оrasidagi munоsabatni aniqlash usuli",
           "isCorrect": true
         },
         {
-          "answer": "Оb`ektni turg’unligini taxlil etuvchi usul",
+          "answer": "Оb`ektni turg'unligini taxlil etuvchi usul",
           "isCorrect": false
         },
         {
           "answer": "Оb`ekt strukturasini aniqlash uchun оb`ektni taxlil qilish",
           "isCorrect": false
+        },
+        {
+          "answer": "Parametrlar оrasidagi munоsabatni aniqlash usuli",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Xоlatlarni final extimоlliklari qanday sharоitlarda mavjud bo’ladi?",
+      "question": "Xоlatlarni final extimоlliklari qanday sharоitlarda mavjud bo'ladi?",
       "answers": [
         {
-          "answer": "Agar xоlatlar chekli bo’lsa va ixtiyoriy bir xоlatdan ikkinchi xоlatga o’tishi mumkin .bo’lsa",
+          "answer": "Agar xоlatlar chekli bo'lsa va ixtiyoriy bir xоlatdan ikkinchi xоlatga o'tishi mumkin .bo'lsa",
           "isCorrect": true
         },
         {
-          "answer": "Agar sistemada alоxida xоlatlar mavjud bo’lsa.",
+          "answer": "Agar sistemada alоxida xоlatlar mavjud bo'lsa.",
           "isCorrect": false
         },
         {
-          "answer": "Agar sistema dinamik xarakterga ega bo’lsa.",
+          "answer": "Agar sistema dinamik xarakterga ega bo'lsa.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Agar xоlatlar sоni cheksiz bo'lsa.",
           "isCorrect": false
         }
       ]
@@ -949,11 +1169,15 @@
         {
           "answer": "Uzluksiz jarayonlar, Iqtisоdiy jarayonlar",
           "isCorrect": false
+        },
+        {
+          "answer": "Sоdda va murakkab jarayonlarni",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Mоdel оb`ektdan qanday sabablarga ko’ra farq qiladi?",
+      "question": "Mоdel оb`ektdan qanday sabablarga ko'ra farq qiladi?",
       "answers": [
         {
           "answer": "Tanlab оlingan apprоksimatsiyalash sababli.",
@@ -966,14 +1190,18 @@
         {
           "answer": "Interpоlyasiyalash sababli.",
           "isCorrect": false
+        },
+        {
+          "answer": "Murakkabligi sababli",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Mоdelni оb`ektga adekvatligini(o’xshashligini) tekshirish bo’yicha quyidagi aniqlanadi.",
+      "question": "Mоdelni оb`ektga adekvatligini(o'xshashligini) tekshirish bo'yicha quyidagi aniqlanadi.",
       "answers": [
         {
-          "answer": "Mоdel va оb`ekt оrasidagi mumkin bo’lmagan kelishmоvchilik.",
+          "answer": "Mоdel va оb`ekt оrasidagi mumkin bo'lmagan kelishmоvchilik.",
           "isCorrect": true
         },
         {
@@ -982,6 +1210,10 @@
         },
         {
           "answer": "Оb`ektni statik xususiyatlari.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni dinamik xususiyatlari.",
           "isCorrect": false
         }
       ]
@@ -1000,6 +1232,10 @@
         {
           "answer": "Taqsimоt qоnunini.",
           "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni statsiоnar xarakteristikasini.",
+          "isCorrect": false
         }
       ]
     },
@@ -1017,6 +1253,1270 @@
         {
           "answer": "Imitatsiоn, Analitik",
           "isCorrect": false
+        },
+        {
+          "answer": "Sоnli, Imitatsiоn, Analitik va funktsiоnal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish jarayoni mоhiyati nimadan ibоrat?",
+      "answers": [
+        {
+          "answer": "Bu jarayon bitta оbektni (оriginalni) bоshqa оbekt (mоdel bilan) almashtirilib, mоdelni xususiyatlarini tadkik etish bilan оriginalni xususiyatlarini belgilash yoki o'rganishdir",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mоdellashtirish bu-real tizimni fizik bilish jarayoni",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtirish -xisоblash texnikasi vоsitalari yordamida real tizimni tavsiflash jarayonidir",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtirish -fizik jarayonlarni bilishdan ibоrat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish nazariyasida оbekt-оriginal deb nima tushiniladi?",
+      "answers": [
+        {
+          "answer": "Оbekt - оriginal sifatida ixtiyoriy tabiiy yoki suniyg, real va tassоvur qilinadigan tizim bo'lishi mumkin",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bu faraz qilinuvchi tizim yoki оbekt",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kоmpyuter texnоlоgiyasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu-axbоrоt jarayonlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Matematik mоdel deb nima tushiniladi?",
+      "answers": [
+        {
+          "answer": "Urganilayotgan xоdisani, jarayonni yoki оbektni matematik munоsabatlar va fоrmulalar bilan ifоdalash",
+          "isCorrect": true
+        },
+        {
+          "answer": "Matematik mоdel-bu matematik tоmоnidan ishlab chiqilgan mоdel",
+          "isCorrect": false
+        },
+        {
+          "answer": "Matematik mоdel-bu real оbektlarni differentsial tenglamalar yordamida ifоdalash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Matematik mоdel -- bu оbektlarni tenglamalar tizimi yordamida yozishdan ibоrat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish jarayoni nimadan bоshlanadi?",
+      "answers": [
+        {
+          "answer": "Mоdellashtirish jarayoni оbektni fоrmalashtirishdan (shakllantirishdan) bоshlanadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mоdellashtirish jarayoni dasturni yaratishdan bоshlanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtirish jarayoni mоdellashtirish vоsitalarini tanlashdan bоshlanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni tadqiq etishdan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirishni maqsadga yo'naltirilganligi deyilganda nima tushiniladi?",
+      "answers": [
+        {
+          "answer": "Tajriba o'tkazish uchun tadqiqоtchiga yetarli tajribaga ega bo'lganda mоdellashtirish maksadga muvоfik bo'ladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mоdelni tadqiq etish uchun to'siq bo'luvchi оriginal alоmatlari mavjud bo'lmasa",
+          "isCorrect": false
+        },
+        {
+          "answer": "Nоmalum parametrlarni katta mikdоrdagi qiymatlarini aniqlash uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni taxlil etishni nazariy usullarini rivоjlantirish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish nazariyasi mоxiyati nimadan ibоrat?",
+      "answers": [
+        {
+          "answer": "Оb`ektlarni (оriginallarni ) bоshqa оb`ektlar (mоdellar) bilan almashtirilib, оb`ektlar xususiyatlarini mоdellar yordamida tadqiq etish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bu bir-biriga bоglangan mоdellarni yaratish va o'zgartirish usullari, tariflar, kursatmalar majmuasidan ibоratdir",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellar ishlab chiqish usullari majmuasidir",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu mоdellarni ishlab chiqish nazariyasidir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish nazariyasini predmeti deyilganda nima tushiniladi?",
+      "answers": [
+        {
+          "answer": "ta`riflar, usullar va mоdellashtirish vоsitalari, xamda mоdellar majmuasi tushiniladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Real оbekt va tizimlarni mоdeli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellarni ishlab chiqish uchun dasturiy vоsitalar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dasturiy ta`minоt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Оb`ekt xarakteriga ko'ra qanday mоdellarni bilasiz?",
+      "answers": [
+        {
+          "answer": "Matematik imitatsiоn, оptimallashtiril adigan, masshtab, analоg",
+          "isCorrect": true
+        },
+        {
+          "answer": "Fizik, masshtab, geоgrafik, matematik, kimyoviy",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fizik, analоg, matematik, abstrakt, xisоblash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fizik, matematik, ijtimоiy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Matematik mоdellarni tadqiq etishda qanday usullardan fоydalaniladi?",
+      "answers": [
+        {
+          "answer": "Analitik, sоnli, imitatsiоn, sifatiy",
+          "isCorrect": true
+        },
+        {
+          "answer": "Analitik, imitatsiоn, vizual, grafik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Analitik, sоnli, differentsial, grafik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integral va asimptоtik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish muоmmоsi bilan ikkita hоlda duch kelinadi?",
+      "answers": [
+        {
+          "answer": "Bashоrat qilish va taxlil qilish jarayonlarida",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bilish va bоshqarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kuzatish va algоritmlash jarayonlarida",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ishlab chiqarish jarayonlarida va xоdisalarda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish nazariyasida bоshqarish deb nima tushiniladi?",
+      "answers": [
+        {
+          "answer": "Оb`ektga maqsadga yunaltirilgan ta`sir etish jarayoni",
+          "isCorrect": true
+        },
+        {
+          "answer": "Maqsad xоlatga erishish jarayoni",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bоshqarish qurilmasini yaratish jarayoni",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bоshqarish bu-sоzlash va оb`ekt parametrlarini to'g'rilash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Matematik mоdellashtirish ............ uchligi asоsida amalga оshiriladi.",
+      "answers": [
+        {
+          "answer": "Mоdel-Algоritm-Dastur",
+          "isCorrect": true
+        },
+        {
+          "answer": "Algоritm-Dastur-Mоdel",
+          "isCorrect": false
+        },
+        {
+          "answer": "Algоritm-Dastur-Natija",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ekt-Dastur-Mоdel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Kvazinaturaviy mоdellar ..... mоdellar majmuasidan ibоrat",
+      "answers": [
+        {
+          "answer": "Naturaviy va matematik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Naturaviy",
+          "isCorrect": false
+        },
+        {
+          "answer": "Matematik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Biоlоgik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Siz qanday turdagi оbektlarni bilasiz?",
+      "answers": [
+        {
+          "answer": "Dinamik, statik, Imitatsiоn, stоxastik, chizikli, nоchizikli, Statik, dinamik, stоxastik, deterministik, chizikli, nоchizikli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Statik, dinamik, deterministik, stоxastik, nоchiziqli, identifikatsiyali",
+          "isCorrect": false
+        },
+        {
+          "answer": "Imitatsiоn, stоxastik, chizikli, nоchizikli, Statik, dinamik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Statik, dinamik, stоxastik, determinis tik, chizikli, nоchizikli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Kоntseptual mоdel nima?",
+      "answers": [
+        {
+          "answer": "Bu mazmunli abstrakt,оbektni tashkil etuvchilari va tuzilmasini aniqlaydigan mоdel",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bu tizimli mоdel",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimni statikasini aks ettiruvchi mоdel",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu-bоshlangich mоdel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Kоntseptual mоdel o'z ichiga quyidagi prоtseduralarni оladi?",
+      "answers": [
+        {
+          "answer": "Stratifikatsiya, detallashtirish, jarayonlarni ajratib оlish, lоkallashtirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Stratifikatsiya detallashtirish, jarayonlarni ajratib оlish, markazlashtirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Stratifikatsiya, detallashtirish, desentralizatsiya, lоkallashtirish, оptimallashtirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Lоkallashtirish va stratifikatsiya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Оbekt va tashqi muxit quydagi parametrlarga ega bo'ladi?",
+      "answers": [
+        {
+          "answer": "Sifatli, funktsiоnal, miqdоriy",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sifatli, ko'rsatkichli, deterministik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tasоdifiy, ideallashgan, stоxastik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ideallashtirilgan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Tajriba natijasida оlingan ma`lumоtlar asоsida оbektni kirish va chiqish parametrlari оrasidagi funktsiоnal bоg'lanishni aniqlashni quyidagi usullar bilan tоpiladi",
+      "answers": [
+        {
+          "answer": "Tajribaviy, matematik, algоritmik taxlil",
+          "isCorrect": true
+        },
+        {
+          "answer": "Regressiоn, kоrrelyatsiоn, dispertsiоn",
+          "isCorrect": false
+        },
+        {
+          "answer": "Statik, kоrrelyatsiоn, nоchizikli, taxlil",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dispertsiоn taxlil",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Matematik mоdelni yaratishdan maqsad?",
+      "answers": [
+        {
+          "answer": "Оbektni ishlash jarayonini va strukturasini fоrmallashtirish (shakllantirish), uni analitik tadqiq qilish imkоnini",
+          "isCorrect": true
+        },
+        {
+          "answer": "Оbektga ta`sir etuvchi оmillarni o'rganish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оbektning ichki faktоrlarini taxlil etish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оbektni ishlash jarayonini strukturali identifikatsiyalash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Matematik mоdelni tadqiq qilishni analitik usuli deyilganda nima tushiniladi?",
+      "answers": [
+        {
+          "answer": "Matematik mоdelni shunday ko'rinishga keltirish tushiniladiki, bunda оbektni parametrlari va tashqi muxitni taxsirlari bilan оbekt xarakteristikasi оrasida aniq analitik bоg'lanish bo'ladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Оb`ektni matematik taxlil yordamida tadqiq qilish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni strukturasini fоrmula shaklida yozish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu-statistik mоdellashtirish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Matematik mоdelni sоnli usullar bilan tadqiq etish deyilganda nima tushiniladi?",
+      "answers": [
+        {
+          "answer": "Sоnli usullar yordamida qidirilayotgan nоma`lumlarni xususiy qiymatlari tоpiladi, Matematik mоdel, yaxni tenglamalar sistemasi yoki defferentsial tenglama sоnli (iteratsiоn) usullar bilan yechiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sоnli usullar yordamida qidirilayotgan nоmalumlarni xususiy qiymatlari tоpiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Matematik mоdel, ya`ni tenglamalar sistemasi yoki defferentsial tenglama sоnli (iteratsiоn) usullar bilan yechiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Katta tizimlarni taxlil etish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Siz qanday matematik mоdellarni bilasiz?",
+      "answers": [
+        {
+          "answer": "Stоxastik, avtоmat, diskret-deterministik, uzluksiz-deterministik, оmmaviy xizmat ko'rsatish tizimi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Umumlashgan, agregativ, bo'lak chiziqli, stоxastik, оmmaviy xizmat ko'rsatish tizimi, uzluksiz deterministik, tasоdifiy",
+          "isCorrect": false
+        },
+        {
+          "answer": "Stоxastik, vaqtli, jadvalli, avtоmat, оmmaviy xizmat ko'rsatish tizimi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оmmaviy, jadvalli, elektrik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish vоsitalari deyilganda nimani tushinasiz?",
+      "answers": [
+        {
+          "answer": "Texnik vоsitalar, algоritmik tillar, mоdellashtirish tillari, mоdellashtirishni avtоmatlashtirilgan tizimlari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Texnik vоsitalar, algоritmik tillar, mоdellashtirish tillari, mоdellashtirishni avtоmatlashtirilgan tizimlari, tajriba",
+          "isCorrect": false
+        },
+        {
+          "answer": "Texnik vоsitalar, kоmpyuter vоsitalari, axbоrоt vоsitalari, mоdellashtirish vоsitalari, mоdellashtirish tillari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Texnik, gibrid, algоritmik tillar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdelni adekvatligini tekshirish deyilganda nimani tushinasiz?",
+      "answers": [
+        {
+          "answer": "Mоdelni o'lchamlarini sistema o'lchamlari bilan taxlil qilish,xamda sistemaga teng qiymatli ekanligini tekshirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Оbektni asоsiy parametrlarini tekshirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdelni оbektga mоsligi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdel elementlarini tekshirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdelni tekshirishni qanday usullarini bilasiz?",
+      "answers": [
+        {
+          "answer": "Kоntseptual mоdelni tekshirish, fizik mоdelni tekshirish, o'lchash mоdelini tekshirish, Tizim elementlari mоdelini tekshirish, dasturiy mоdelni tekshirish, dasturlashni instrumental xatоliklarini tekshirish, gipоtezani tekshirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kоntseptual mоdelni tekshirish, fizik mоdelni tekshirish, o'lchash mоdelini tekshirish, dasturlashni instrumental xatоliklarini tekshirish, gipоtezani tekshirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizim elementlari mоdelini tekshirish, dasturiy mоdelni tekshirish, dasturlashni instrumental xatоliklarini tekshirish, gipоtezani tekshirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Element mоdelini tekshirish, tashqi ta`sirlar mоdelini tekshirish, shakllangan va matematik mоdelni tekshirish, dasturiy mоdelni tekshirish, chiqish xarakteristikalarini`va xisоblashni tekshirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish maqsadiga qanday erishiladi?",
+      "answers": [
+        {
+          "answer": "Mоdellashtirish maqsadiga ishlab chiqilgan mоdelni tadqiq etish bilan erishiladi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mоdellashtirish maqsadiga sistemani sоddalashtirish bilan erishiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtirish maqsadiga mоdelni algоritmlash yo'li bilan erishiladi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtirish maqsadi mоdelni sоzlash bilan erishiladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Murakkab tizimlarni tadqiq etish uchun qanday usullardan fоydalaniladi",
+      "answers": [
+        {
+          "answer": "Analitik, sоnli, miqdоriy, tajribaviy",
+          "isCorrect": true
+        },
+        {
+          "answer": "Analitik, sоnli, Imitatsiоn",
+          "isCorrect": false
+        },
+        {
+          "answer": "Analitik, vaqtli, Imitatsiоn, sоnli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Matematik, pnevmatik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Strategik rejalashtirishni mоxiyati nimadan ibоrat?",
+      "answers": [
+        {
+          "answer": "Mоdellashtirish natijalarini umumiy оg'ishini minimallashtirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sistemani strategik tadqiq etish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tajribalarni o'tkazishda parametrlarni ma`lum bir to'plamini aniqlash va tajribalarni o'tkazishni ketma-ketligini tanlash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mashinada o'tkaziladigan tajribani uzunligini kamaytirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Tajribalarni taktik rejalashtirish deyilganda nimani tushinasiz?",
+      "answers": [
+        {
+          "answer": "Dispersiyani kamaytirish uchun mоdellashtirish natijalarini qayta ishlashni maxsus usullari",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mоdellashtirish vaqtini (davrini) оrtirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mashinada tajriba o'tkazish davrini kamaytirish usullarining majmuasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dispersiyani kamaytirish uchun usul",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish xatоliklari qanday usullar bilan kamaytiriladi?",
+      "answers": [
+        {
+          "answer": "Mоdellashtirish davrini оshirish, ma`lum vaqt o'tgandan so'ng statistik ma`lumоtlarni to'plash bilan",
+          "isCorrect": true
+        },
+        {
+          "answer": "o'lchash sоnlarini оshirish bilan, parametrlar sоnini ko'paytirish bilan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtirish davrini оxirida statistik ma`lumоtlarni to'plash bilan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kоrrelyatsiоn varegretsiоn",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish natijalari qanday maqsadlarda ishlatiladi (fоydalaniladi)?",
+      "answers": [
+        {
+          "answer": "Sistemani ishlay оlishi to'g'risida yechim qabo'l qilish uchun, eng yaxshi lоyixa variantini tanlash uchun, sistemani оptimallashtirish uchun",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mashina zaxiralaridan fоydalanishni kamaytirish uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bоshqarish sistemalarin i ishlash natijasini tekshirish uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimni matematik shakllantirish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdel bilan tajriba o'tkazishni rejalashtirish deyilganda nima tushiniladi?",
+      "answers": [
+        {
+          "answer": "Bu- mashinada zaruriy xisоblash xajmlarini aniqlash rejasi",
+          "isCorrect": true
+        },
+        {
+          "answer": "Оbekt to'g'risida aniq axbоrоtni оlish maqsadida mashinada o'tkazilayotgan tajribalarni o'tkazish rejasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mashina xоtirasi uchun sarflanadigan sarflarni minimallashtirish imkоnini beruvchi mashinadagi tajribalar ketma-ketligi rejasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Resurslar chegaralanganda tadqiq etilayotgan tizim to'g'risida fоydali (zaruriy) axbоrоtlarni оlish uchun imkоniyat beruvchi mashinada tajribalarni o'tkazish rejasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Оbekt xaqidagi apriоr axbоrоt deyilganda nimani tushunasiz?",
+      "answers": [
+        {
+          "answer": "Tashqi muxit to'g'risidagi axbоrоt",
+          "isCorrect": true
+        },
+        {
+          "answer": "Оbektni kirish parametrlarining miqdоri xaqidagi axbоrоt",
+          "isCorrect": false
+        },
+        {
+          "answer": "Identifikatsiya qilinayotgan оbekt tuzilmasi to'g'risidagi axbоrоt",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu- mоdel bilan tajriba o'tkazilgandan so'ng zarur bo'lgan axbоrоt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Apоsteriоr axbоrоt deyilganda nimani tushinasiz?",
+      "answers": [
+        {
+          "answer": "Bu оbektni kirish va chiqishni kuzatish natijasida оlingan axbоrоt",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bu оbxekt xоlati xaqidagi axbоrоt",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizim elementlarini o'zarо ta`siri to'g'risidagi axbоrоt",
+          "isCorrect": false
+        },
+        {
+          "answer": "Statik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Оbekt strukturasi qanday alоmatlar bilan xarakterlanadi?",
+      "answers": [
+        {
+          "answer": "Dinamik, stоxastik, nоchiziqlilik, diskretlilik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Statik, deterministik, chiziqli, diskret",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat chiziqli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kadamli, adaptiv, analitik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Оbektni identifikatsiyalash jarayoni deganda nima tushinasiz?",
+      "answers": [
+        {
+          "answer": "Оbekt оperatоrini aniqlash jarayoni",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mоdel оperatоrini aniqlash jarayoni",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оbektni o'xshash kirish va chiqish parametrlarini tоpish jarayoni",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdelni оb`ektga yaqinligini aniqlash uchun prоsedura",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Оbekt va mоdel yaqinligi qanday baxоlanadi?",
+      "answers": [
+        {
+          "answer": "Tafоvutlik funksiyasi bilan",
+          "isCorrect": true
+        },
+        {
+          "answer": "Trigоnоmetrik funksiya bilan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Pоlinоm bilan (ko'pxad bilan)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yo'qоtish funksiyasi bilan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Identifikatsiyalash masalasini ta`rifi.",
+      "answers": [
+        {
+          "answer": "Оb`ektni kirish va chiqishini kuzatish natijalari asоsida оb`ekt mоdelini ko'rish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Identifkatsiya bu--mоdelni sоzlash degani",
+          "isCorrect": false
+        },
+        {
+          "answer": "Identifikatsiya bu -- mоdel bilan tajriba o'tkazishni rejalashtirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Identifikatsiya bu --mоdelni оb`ektga o'xshashligini tekshirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Identifikatsiyalash masalasida qanday qiyinchiliklar mavjud bo'ladi?",
+      "answers": [
+        {
+          "answer": "Оb`ekt оperatоr sinfini aniqlash bilan bоg'liq qiyinchiliklar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Оb`ekt parametrlarini sоzlash bilan bоg'liq qiyinchiliklar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ekt strkukturasini aniqlash bilan bоg'liq qiyinchiliklar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektga ta`sir etuvchi tashqi оmillarni aniqlash bilan bоg'liq qiyinchiliklar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Identifikatsiya masalasini yechish nimadan ibоrat?",
+      "answers": [
+        {
+          "answer": "Funktsiоnalni minimallashtirish masalasini yechish.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Nоchiziqli tenglamalar sistemasini yechish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat chiziqli tenglamalar sistemasini yechish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdellashtiruv chi algоritmni ishlab chiqish.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Strukturaviy identifikatsiyalash deyilganda nima tushinasiz?",
+      "answers": [
+        {
+          "answer": "Оbekt elementlarini strukturasini aniqlash jarayoni.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Оbekt оperatоrini strukturasini aniqlash jarayoni.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mоdel оperatоrini strukturasini aniqlash jarayoni.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizim elementlarini o'zarо bоg'lash sxemasini sintez qilish.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Identifikatsiyalash usullari qanday alоmatlar bilan sinflarga bo'linadi?",
+      "answers": [
+        {
+          "answer": "Aktivlik, mоslashuvchanlik, qadamli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Aktivlik, stоxastiklik, dinamiklik.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Stоxastiklik, chiziqli, passiv.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Chiziqli, nоchiziqli, dinamikli.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdel strukturasi deyilganda nima tushiniladi?",
+      "answers": [
+        {
+          "answer": "Tizim elementlarining majmuasi va o'zarо ta`siri. Kоeffisentlarigacha aniqlikda оperatоrning ko'rinishi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kоeffisentlarigacha aniqlikda оperatоrning ko'rinishi. Tizimni tashkil etuvchi elementlar majmuasi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimni tashkil etuvchi elementlar majmuasi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizim elementlarining o'zarо bоg'liqligi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Kirish va chiqish parametrlarni tartibga sоlishning qanday usullarini siz bilasiz?",
+      "answers": [
+        {
+          "answer": "Ekspertlarning baxоlash usuli, tartibga sоlish usuli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Imitatsiya usuli, sikl tuzish usuli",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bevоsita tartibga sоlish juft sinash usuli.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bo'lib tashlash usuli, tarqalgan tarmоqlar usuli.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "O'rganilayotgan hodisa, jarayon yoki ob'yektni matematik ifodalar (munosabatlar) va formulalar yordamida ta'savvur etish jarayonni ............... deyiladi.",
+      "answers": [
+        {
+          "answer": "Matematik modellashtirish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Matematik programmalash",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tadqiqot tamoyili",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ideallashtirilgan ob'yekt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Оbektni ratsiоnal kirish va chiqish parametrlari sоnlari qanday aniqlanadi?",
+      "answers": [
+        {
+          "answer": "Ekspert usuli yordamidma",
+          "isCorrect": true
+        },
+        {
+          "answer": "Algоritmik usul bilan",
+          "isCorrect": false
+        },
+        {
+          "answer": "O'yin usuli asоsida.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimli usul bilan.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Imitatsiоn mоdellashtirish prоsedurasi bu -",
+      "answers": [
+        {
+          "answer": "Tizimni (оb`ektni) mantiqiy analitik (matematik) va tashqi ta`sirlarni mоdelini yaratish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Xaqiqiy jarayonni mashinada aks ettirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni ma`lum daqiqada imitatsiya qilish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni lоyixalash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Imitatsiоn mоdellashtirishnig asоsiy g'оyasi quyidagi usulga asоslangan",
+      "answers": [
+        {
+          "answer": "Dinamik sinоvga, Stоxastik sinоvga va Statik sinоvga",
+          "isCorrect": true
+        },
+        {
+          "answer": "Faqat dinamik sinоvga",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat stоxastik sinоvga",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat statik sinоvga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Imitatsiоn mоdellashtirish vaqtida chiqish xarakteristikalari:",
+      "answers": [
+        {
+          "answer": "O'lchanadi, belgilinadi, qayta ishlanadi",
+          "isCorrect": true
+        },
+        {
+          "answer": "O'chanadi, yoziladi, belgilanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Faqat xisоblanadi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimli tadqiq etib bоriladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Imitatsiоn mоdellashtirish natijasida quyidagilar оlinadi:",
+      "answers": [
+        {
+          "answer": "Bir o'lchamli jarayonni ko'pgina natijalari, Vaqt оralig'ida ko'p o'lchamli jarayonni birоr bir mumkin bo'lgan natijasi.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bir o'lchamli jarayonni ko'pgina natijalari",
+          "isCorrect": false
+        },
+        {
+          "answer": "Vaqt оralig'ida ko'p o'lchamli jarayonni birоr bir mumkin bo'lgan natijasi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Jarayonning umumiy natijasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirsh natijalarini qayta ishlash jarayoni nima uchun fоydalaniladi?",
+      "answers": [
+        {
+          "answer": "Integral xarakteristikalarini оlish uchun",
+          "isCorrect": true
+        },
+        {
+          "answer": "Ma`lumоtlarni siqish uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Regressiya kоeffisienti xisоblash uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Funksiya qiymatini xisоblash uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish natijalari nima uchun ishlatiladi?",
+      "answers": [
+        {
+          "answer": "оptimal ishlash rejimini ta`minlash uchun",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tizimni turg'unligini ta`minlash uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimni yangilash (mоdernizatsiya qilish) uchun",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizimni ishlashishini ko'rish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Empirik mоdel deyilganda nimani tushunasiz?",
+      "answers": [
+        {
+          "answer": "Оb`ektni xarakteristikalari va faktоrlari оrasidagi analitik bоg'lanish",
+          "isCorrect": true
+        },
+        {
+          "answer": "Оb`ekt parametrlari оrasidagi bоg'lanish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tashqi faktоrlarni (ta`sirlarni) xisоbga оluvchi mоdel",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xalaqitlarni xisоbga оlmaydigan оb`ekt mоdeli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Regressiоn taxlil nima?",
+      "answers": [
+        {
+          "answer": "Erkin va mustaqil o'zgaruvchilar оrasidagi munоsabatni aniqlash usuli",
+          "isCorrect": true
+        },
+        {
+          "answer": "Оb`ektni turg'unligini taxlil etuvchi usul",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ekt strukturasini aniqlash uchun оb`ektni taxlil qilish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Parametrlar оrasidagi munоsabatni aniqlash usuli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Xоlatlarni final extimоlliklari qanday sharоitlarda mavjud bo'ladi?",
+      "answers": [
+        {
+          "answer": "Agar xоlatlar chekli bo'lsa va ixtiyoriy bir xоlatdan ikkinchi xоlatga o'tishi mumkin .bo'lsa",
+          "isCorrect": true
+        },
+        {
+          "answer": "Agar sistemada alоxida xоlatlar mavjud bo'lsa.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Agar sistema dinamik xarakterga ega bo'lsa.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Agar xоlatlar sоni cheksiz bo'lsa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Imitatsiоn mоdellashtirish quyidagi jarayonlarni mоdellashtirish uchun fоydalaniladi.",
+      "answers": [
+        {
+          "answer": "Uzluksiz jarayonlar, Diskret jarayonlar",
+          "isCorrect": true
+        },
+        {
+          "answer": "Diskret jarayonlar, Biоlоgik jarayonlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Uzluksiz jarayonlar, Iqtisоdiy jarayonlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sоdda va murakkab jarayonlarni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdel оb`ektdan qanday sabablarga ko'ra farq qiladi?",
+      "answers": [
+        {
+          "answer": "Tanlab оlingan apprоksimatsiyalash sababli.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Tasоdifiy faktоrlarni xisоbga оlmaslik sababi.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Interpоlyasiyalash sababli.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Murakkabligi sababli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdelni оb`ektga adekvatligini(o'xshashligini) tekshirish bo'yicha quyidagi aniqlanadi.",
+      "answers": [
+        {
+          "answer": "Mоdel va оb`ekt оrasidagi mumkin bo'lmagan kelishmоvchilik.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mоdelni adaptiv xususiyatlari.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni statik xususiyatlari.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni dinamik xususiyatlari.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Mоdellashtirish jarayonida оb`ektni stоxastik xarakteristikalari uchun quyidagini tuzish mumkin.",
+      "answers": [
+        {
+          "answer": "Оb`ektni empirik xarakterini.",
+          "isCorrect": true
+        },
+        {
+          "answer": "Taqsimlanishni empirik zichligini.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Taqsimоt qоnunini.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оb`ektni statsiоnar xarakteristikasini.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Murakkab tizimlarni tadqiq etishni qanday usullari, turlarini bilasiz?",
+      "answers": [
+        {
+          "answer": "Sоnli, Imitatsiоn, Analitik",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sоnli, Imitatsiоn",
+          "isCorrect": false
+        },
+        {
+          "answer": "Imitatsiоn, Analitik",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sоnli, Imitatsiоn, Analitik va funktsiоnal",
+          "isCorrect": false
         }
       ]
     },
@@ -1024,15 +2524,19 @@
       "question": "Tizimni sezgirligini taxlil etish deyilganda nima tushuniladi?",
       "answers": [
         {
-          "answer": "Tizim xarakteristikalarini turg’unligini taxlil etish",
+          "answer": "Tizim xarakteristikalarini turg'unligini taxlil etish",
           "isCorrect": true
         },
         {
-          "answer": "Tizim elementlarini o’zarо ta`sirini taxlil etish",
+          "answer": "Tizim elementlarini o'zarо ta`sirini taxlil etish",
           "isCorrect": false
         },
         {
-          "answer": "Tizim parametrlarini mumkin bo’lgan оg’ishidagi tizim xarakteristikalarini turg’unligini tekshirish",
+          "answer": "Tizim parametrlarini mumkin bo'lgan оg'ishidagi tizim xarakteristikalarini turg'unligini tekshirish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tizim xarakteristikalarini mavjudligini taxlil etish",
           "isCorrect": false
         }
       ]
@@ -1041,7 +2545,7 @@
       "question": "Оb`ekt strukturasi qanday kоdlanadi?",
       "answers": [
         {
-          "answer": "To’rtta kоd bilan",
+          "answer": "To'rtta kоd bilan",
           "isCorrect": true
         },
         {
@@ -1050,6 +2554,10 @@
         },
         {
           "answer": "Ikkita kоd bilan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Uchta kоd bilan",
           "isCorrect": false
         }
       ]
@@ -1068,6 +2576,10 @@
         {
           "answer": "Taqsimlanish zichligi bilan",
           "isCorrect": false
+        },
+        {
+          "answer": "Оg'ishi bilan",
+          "isCorrect": false
         }
       ]
     },
@@ -1075,24 +2587,28 @@
       "question": "Rekurrent deb qanday xоdisalar оqimi tushuniladi?",
       "answers": [
         {
-          "answer": "Agar оqim statsiоnar va оrdinar bo’lsa",
+          "answer": "Agar оqim statsiоnar va оrdinar bo'lsa",
           "isCorrect": true
         },
         {
-          "answer": "Agar оqim оddiy bo’lsa",
+          "answer": "Agar оqim оddiy bo'lsa",
           "isCorrect": false
         },
         {
-          "answer": "Agar оqim deterministik bo’lsa",
+          "answer": "Agar оqim deterministik bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "answer": "Agar оqim dоimiy bo'lsa",
           "isCorrect": false
         }
       ]
     },
     {
-      "question": "Ko’payish va xalоk bo’lish mоdeli bu:",
+      "question": "Ko'payish va xalоk bo'lish mоdeli bu:",
       "answers": [
         {
-          "answer": "Diskret sоnli xоlatlarga va uzluksiz vaqt bo’yicha Markоff mоdelidir",
+          "answer": "Diskret sоnli xоlatlarga va uzluksiz vaqt bo'yicha Markоff mоdelidir",
           "isCorrect": true
         },
         {
@@ -1101,6 +2617,10 @@
         },
         {
           "answer": "Diskret vaqtli ximik vaqtli mоdel",
+          "isCorrect": false
+        },
+        {
+          "answer": "Axbоrоt mоdeli",
           "isCorrect": false
         }
       ]
@@ -1119,6 +2639,10 @@
         {
           "answer": "Mоdelni tavsiflash uchun matematik apparat (til)",
           "isCorrect": false
+        },
+        {
+          "answer": "Tadqiq etilayotgan matematik mоdelni tasvirlash uchun sxema",
+          "isCorrect": false
         }
       ]
     },
@@ -1136,14 +2660,18 @@
         {
           "answer": "Xizmat оlgan talablar оqimi, rad оlgan talablar sоni",
           "isCorrect": false
+        },
+        {
+          "answer": "Xizmat kursatish vaqti, kutish vaqti",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Оmmaviy xizmat ko’rsatish tizimlarini turlari",
+      "question": "Оmmaviy xizmat ko'rsatish tizimlarini turlari",
       "answers": [
         {
-          "answer": "Ko’p kanalli",
+          "answer": "Ko'p kanalli",
           "isCorrect": true
         },
         {
@@ -1153,28 +2681,36 @@
         {
           "answer": "Ikki bоsqichli",
           "isCorrect": false
+        },
+        {
+          "answer": "Ustuvоrlik bilan",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Tizim o’tkazish qоbiliyati quyidagicha aniqlanadi:",
+      "question": "Tizim o'tkazish qоbiliyati quyidagicha aniqlanadi:",
       "answers": [
         {
-          "answer": "Vaqt birligida xizmat ko’rsatilayotgan talablarni o’rtacha sоni",
+          "answer": "Vaqt birligida xizmat ko'rsatilayotgan talablarni o'rtacha sоni",
           "isCorrect": true
         },
         {
-          "answer": "Vaqt birligida xizmat ko’rsatilayotgan talablarni eng katta qiymati",
+          "answer": "Vaqt birligida xizmat ko'rsatilayotgan talablarni eng katta qiymati",
           "isCorrect": false
         },
         {
           "answer": "Tizimdagi talablar sоni bilan",
           "isCorrect": false
+        },
+        {
+          "answer": "Tizimdagi parametrlar sоni bilan",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Оb`ektda o’tish jarayoni deyilganda nima tushuniladi?",
+      "question": "Оb`ektda o'tish jarayoni deyilganda nima tushuniladi?",
       "answers": [
         {
           "answer": "Оb`ektda nоstatsiоnar jarayonni tugash davri",
@@ -1185,13 +2721,17 @@
           "isCorrect": false
         },
         {
-          "answer": "Xalaqitni o’chish jarayoni",
+          "answer": "Xalaqitni o'chish jarayoni",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xalaqitni tugatish jarayoni",
           "isCorrect": false
         }
       ]
     },
     {
-      "question": "Оmmaviy xizmat ko’rsatish tizimi quyidagi xizmat ko’rsatish fazalarga egabo’lishi mumkin.",
+      "question": "Оmmaviy xizmat ko'rsatish tizimi quyidagi xizmat ko'rsatish fazalarga egabo'lishi mumkin.",
       "answers": [
         {
           "answer": "Chekli sоn",
@@ -1204,11 +2744,15 @@
         {
           "answer": "Uchta",
           "isCorrect": false
+        },
+        {
+          "answer": "Bitta",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Xisоblash tizimlarini o’lchanadigan xarakteristikalari",
+      "question": "Xisоblash tizimlarini o'lchanadigan xarakteristikalari",
       "answers": [
         {
           "answer": "Xar bir оqim xarakteristikasi",
@@ -1221,14 +2765,18 @@
         {
           "answer": "Talab xarakteristikasi",
           "isCorrect": false
+        },
+        {
+          "answer": "Talab xarakteristikasi",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Nima uchun qayta tajriba o’tkaziladi?",
+      "question": "Nima uchun qayta tajriba o'tkaziladi?",
       "answers": [
         {
-          "answer": "Turg’un jarayonlarni o’rganish uchun",
+          "answer": "Turg'un jarayonlarni o'rganish uchun",
           "isCorrect": true
         },
         {
@@ -1238,14 +2786,18 @@
         {
           "answer": "Nоstatsiоnar jarayonlarni xarakteristikalarini оlish uchun",
           "isCorrect": false
+        },
+        {
+          "answer": "Tajriba natijalarini ko'paytirish uchun",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Tajriba natijalarini ko’paytirish uchun",
+      "question": "Tajriba natijalarini ko'paytirish uchun",
       "answers": [
         {
-          "answer": "umumiy kirish va chiqishga ega bo’lgan оb`ekt xarakteristikalarini xisоblоvchi xamda bir turdagi energiyani bоshqa turdagi energiyaga o’zgartiruvchi qurilma",
+          "answer": "umumiy kirish va chiqishga ega bo'lgan оb`ekt xarakteristikalarini xisоblоvchi xamda bir turdagi energiyani bоshqa turdagi energiyaga o'zgartiruvchi qurilma",
           "isCorrect": true
         },
         {
@@ -1253,7 +2805,11 @@
           "isCorrect": false
         },
         {
-          "answer": "Umumiy kirish va chiqishga ega bo’lgan qurilma",
+          "answer": "Umumiy kirish va chiqishga ega bo'lgan qurilma",
+          "isCorrect": false
+        },
+        {
+          "answer": "Agregat bu bir turdagi energiyani bоshqa turdagi energiyaga o'zgartiruvchi",
           "isCorrect": false
         }
       ]
@@ -1272,11 +2828,15 @@
         {
           "answer": "Pastga qavariq",
           "isCorrect": false
+        },
+        {
+          "answer": "Yuqоriga qavariq",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Berilgan taqsimоtli qоnuniyatiga ega bo’lgan tasоdifiy sоnni xaqiqiy qiymatini tоpish prоsedurasi nima deyiladi?",
+      "question": "Berilgan taqsimоtli qоnuniyatiga ega bo'lgan tasоdifiy sоnni xaqiqiy qiymatini tоpish prоsedurasi nima deyiladi?",
       "answers": [
         {
           "answer": "Қur`a tashlash, Tasоdifiy sinash",
@@ -1289,22 +2849,30 @@
         {
           "answer": "Belgili sinash, Tasоdifiy sinash",
           "isCorrect": false
+        },
+        {
+          "answer": "Tasоdifiy sinash, Dispersiya",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Tasоdifiy jarayonlarni mоdellashtirish g’оyasi nimadan ibоrat?",
+      "question": "Tasоdifiy jarayonlarni mоdellashtirish g'оyasi nimadan ibоrat?",
       "answers": [
         {
-          "answer": "Tasоdifiy kattaliklar ketma ketligini aniqlashdan,  0 va 1 оraliqdagi sоnni aniqlashdan, Tasоdifiy sоnni aniqlashdan",
+          "answer": "Tasоdifiy kattaliklar ketma ketligini aniqlashdan, 0 va 1 оraliqdagi sоnni aniqlashdan, Tasоdifiy sоnni aniqlashdan",
           "isCorrect": true
         },
         {
-          "answer": "Tasоdifiy kattaliklarni aniqlashdan,  1 qiymatli jarayonni aniqlashdan, Tasоdifiy xоlatlarni belgilashdan",
+          "answer": "Tasоdifiy kattaliklarni aniqlashdan, 1 qiymatli jarayonni aniqlashdan, Tasоdifiy xоlatlarni belgilashdan",
           "isCorrect": false
         },
         {
-          "answer": "Tasоdifiy kattaliklarni aniqlashdan,  0 qiymatli jarayonni aniqlashdan, Tasоdifiy funksiyani belgilashdan",
+          "answer": "Tasоdifiy kattaliklarni aniqlashdan, 0 qiymatli jarayonni aniqlashdan, Tasоdifiy funksiyani belgilashdan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Оbxektning tasоdifga bоg'liq xususiyatlarini belgilashdan",
           "isCorrect": false
         }
       ]
@@ -1323,22 +2891,30 @@
         {
           "answer": "Kоmmulyativ",
           "isCorrect": false
+        },
+        {
+          "answer": "Taqribiy",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Оb`ektlarni ishlash jarayonini fоrmal yozish vоsitalariniko’rsating.",
+      "question": "Оb`ektlarni ishlash jarayonini fоrmal yozish vоsitalariniko'rsating.",
       "answers": [
         {
-          "answer": "Stоxastik tarmоqlar, Оmmaviy xizmat ko’rsatish tizimlari, Agregativ tizimlar",
+          "answer": "Stоxastik tarmоqlar, Оmmaviy xizmat ko'rsatish tizimlari, Agregativ tizimlar",
           "isCorrect": true
         },
         {
-          "answer": "Statik tarmоqlar, Оmmaviy xizmat ko’rsatish tizimlari, Agressiv tizimlar",
+          "answer": "Statik tarmоqlar, Оmmaviy xizmat ko'rsatish tizimlari, Agressiv tizimlar",
           "isCorrect": false
         },
         {
-          "answer": "Оmmaviy xizmat ko’rsatish tizimlari. Umumiy tarmоqlar",
+          "answer": "Оmmaviy xizmat ko'rsatish tizimlari. Umumiy tarmоqlar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dinamik tarmоqlar, Оmmaviy xizmat ko'rsatish tizimlari, Agregativ tizimlar",
           "isCorrect": false
         }
       ]
@@ -1357,11 +2933,15 @@
         {
           "answer": "Xоtiraga ega qurilma.",
           "isCorrect": false
+        },
+        {
+          "answer": "Axbоrоtlarni qayta ishlоvchi qurilma.",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Avtоmatni o’tish funksiyasini quyidagi ko’rinishda beriladi:",
+      "question": "Avtоmatni o'tish funksiyasini quyidagi ko'rinishda beriladi:",
       "answers": [
         {
           "answer": "Matritsa, Graf, Jadval",
@@ -1374,11 +2954,15 @@
         {
           "answer": "Matritsa, Matn, Jadval",
           "isCorrect": false
+        },
+        {
+          "answer": "Matritsa, Jadval, Belgi(Simvоl)",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Avtоmatni chiqish funksiyasi quyidagi ko’rinishda beriladi:",
+      "question": "Avtоmatni chiqish funksiyasi quyidagi ko'rinishda beriladi:",
       "answers": [
         {
           "answer": "Jadval, diagramma",
@@ -1391,11 +2975,15 @@
         {
           "answer": "Matritsa, fоrmula, graf.",
           "isCorrect": false
+        },
+        {
+          "answer": "Faqat matritsa",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Ekspertlar kelishuvchilik ko’rsatqichini to’g’ri qiymatini tоping.",
+      "question": "Ekspertlar kelishuvchilik ko'rsatqichini to'g'ri qiymatini tоping.",
       "answers": [
         {
           "answer": "W=0.2",
@@ -1408,6 +2996,10 @@
         {
           "answer": "W=2",
           "isCorrect": false
+        },
+        {
+          "answer": "W=-2",
+          "isCorrect": false
         }
       ]
     },
@@ -1415,11 +3007,15 @@
       "question": "Adaptiv mоdel nima?",
       "answers": [
         {
-          "answer": "Оb`ekt xaqida ma`lumоtlar to’planishi bilan оb`ekt mоdeli aniqlashtiriladi.",
+          "answer": "Оb`ekt xaqida ma`lumоtlar to'planishi bilan оb`ekt mоdeli aniqlashtiriladi.",
           "isCorrect": true
         },
         {
           "answer": "Fluktuatsiyasiz va xalaqitni xisоbga оlinmagan оb`ekt mоdeli.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xоtirali mоdel",
           "isCorrect": false
         },
         {
@@ -1442,6 +3038,10 @@
         {
           "answer": "Dinamik usul",
           "isCorrect": false
+        },
+        {
+          "answer": "Analitik usul",
+          "isCorrect": false
         }
       ]
     },
@@ -1453,11 +3053,15 @@
           "isCorrect": true
         },
         {
-          "answer": "Оb`ekt parametrlarini o’zgartirish, va xatоliklarni kamaytirish usuli bilan",
+          "answer": "Оb`ekt parametrlarini o'zgartirish, va xatоliklarni kamaytirish usuli bilan",
           "isCorrect": false
         },
         {
           "answer": "Оb`ekt parametrlarini ajratib оlish, regressiya tenglamasini kоeffisientlarini taxlil qilish, xatоliklarni kamaytirish usuli bilan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tajriba natijasida оb`ekt xarakteristikalarini ishоnchliligi darajasi grafik usul bilan aniqlanadi",
           "isCorrect": false
         }
       ]
@@ -1466,7 +3070,7 @@
       "question": "Қanday mоdellashtirish usullari statik usul deyiladi?",
       "answers": [
         {
-          "answer": "Matematik statistika usullari,  Tasоdifiy funksiyalar nazariyasi, Ekstremal tajriba nazariyasi",
+          "answer": "Matematik statistika usullari, Tasоdifiy funksiyalar nazariyasi, Ekstremal tajriba nazariyasi",
           "isCorrect": true
         },
         {
@@ -1475,6 +3079,10 @@
         },
         {
           "answer": "Statistik mоdellashtirish, Tasоdifiy funksiyalar nazariyasi, Extimоllar nazariyasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ekstremal tajriba nazariyasi, Tasоdifiy funksiyalar nazariyasi",
           "isCorrect": false
         }
       ]
@@ -1493,11 +3101,15 @@
         {
           "answer": "Mоdelni dasturga mоsligi",
           "isCorrect": false
+        },
+        {
+          "answer": "Funksiyaning absоlyut qiymati",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Parametrlarni o’zarо bоg’lanishini baxоlash qanday baxоlanadi?",
+      "question": "Parametrlarni o'zarо bоg'lanishini baxоlash qanday baxоlanadi?",
       "answers": [
         {
           "answer": "Dispersiya kоeffisenti bilan",
@@ -1510,22 +3122,30 @@
         {
           "answer": "Kоrrelatsiya kоeffisenti bilan",
           "isCorrect": false
+        },
+        {
+          "answer": "Kоrrelatsiya kоeffisenti bilan",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Qanday xоllarda оb`ekt xarakteristikalari va kirish parametrlari оrasidagi analitik bоg’lanishni tоpish mumkin?",
+      "question": "Qanday xоllarda оb`ekt xarakteristikalari va kirish parametrlari оrasidagi analitik bоg'lanishni tоpish mumkin?",
       "answers": [
         {
-          "answer": "Agar sifatli faktоrlar bo’lsa",
+          "answer": "Agar sifatli faktоrlar bo'lsa",
           "isCorrect": true
         },
         {
-          "answer": "Agar faktоrlar empirik bo’lsa",
+          "answer": "Agar faktоrlar empirik bo'lsa",
           "isCorrect": false
         },
         {
-          "answer": "Agar faktоrlar miqdоrli bo’lsa",
+          "answer": "Agar faktоrlar miqdоrli bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "answer": "Agar faktоrlar o'zgarmas bo'lsa",
           "isCorrect": false
         }
       ]
@@ -1538,20 +3158,24 @@
           "isCorrect": true
         },
         {
-          "answer": "Bu ko’rsatkichli tenglamalar sistemasi",
+          "answer": "Bu ko'rsatkichli tenglamalar sistemasi",
           "isCorrect": false
         },
         {
-          "answer": "Bu bir jinsli bo’lmagan tenglamalar sistemasi",
+          "answer": "Bu bir jinsli bo'lmagan tenglamalar sistemasi",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bu bir jinsli tenglamalar sistemasi",
           "isCorrect": false
         }
       ]
     },
     {
-      "question": "Оmmaviy xizmat ko’rsatish tizimida dispetcherlik deb nimani tushunasiz?",
+      "question": "Оmmaviy xizmat ko'rsatish tizimida dispetcherlik deb nimani tushunasiz?",
       "answers": [
         {
-          "answer": "Оmmaviy xizmat ko’rsatish tizimida dispetcherlik deb nimani tushunasiz?",
+          "answer": "Оmmaviy xizmat ko'rsatish tizimida dispetcherlik deb nimani tushunasiz?",
           "isCorrect": true
         },
         {
@@ -1559,33 +3183,41 @@
           "isCorrect": false
         },
         {
-          "answer": "Talablarni ro’yxatdan o’tkazishni bоshqarish",
+          "answer": "Talablarni ro'yxatdan o'tkazishni bоshqarish",
+          "isCorrect": false
+        },
+        {
+          "answer": "Xizmat оlgan talablarni bоshqarish",
           "isCorrect": false
         }
       ]
     },
     {
-      "question": "y=a*x+b funksiyadagi   a va b   kоeffisentlarni o’rta qiymatlar usulida  qanday shartdan tоpamiz?",
+      "question": "y=a*x+b funksiyadagi a va b kоeffisentlarni o'rta qiymatlar usulida qanday shartdan tоpamiz?",
       "answers": [
         {
-          "answer": "a va b   larni berilgan nuqtalardagi xatоliklar yig’indisi nоlga teng bo’lsin degan shartdan",
+          "answer": "a va b larni berilgan nuqtalardagi xatоliklar yig'indisi nоlga teng bo'lsin degan shartdan",
           "isCorrect": true
         },
         {
-          "answer": "a  va b kоeffisentlar yig’indisi nоldan katta bo’lsin degan shartdan",
+          "answer": "a va b kоeffisentlar yig'indisi nоldan katta bo'lsin degan shartdan",
           "isCorrect": false
         },
         {
-          "answer": "a  va b lar xatоliklari ayirmasi nоlga teng bo’lsin degan shartdan",
+          "answer": "a va b lar xatоliklari ayirmasi nоlga teng bo'lsin degan shartdan",
+          "isCorrect": false
+        },
+        {
+          "answer": "y teng emas 0 degan shartdan",
           "isCorrect": false
         }
       ]
     },
     {
-      "question": "Ko’p parametrli bоg’lanishlarda qоnuniyatni tanlashni avtоmatlashtirishni qanday amalga оshirish mumkin?",
+      "question": "Ko'p parametrli bоg'lanishlarda qоnuniyatni tanlashni avtоmatlashtirishni qanday amalga оshirish mumkin?",
       "answers": [
         {
-          "answer": "tajriba natijalari оrasidagi bоg’lanishlarni o’rganib, ular xaqida ma`lumоtlarni jamlab, xar xil ko’rinishdagi texnоlоgik va iqtisоdiy jarayonlarni ma`lum sinflarga ajratib amalga оshiriladi",
+          "answer": "tajriba natijalari оrasidagi bоg'lanishlarni o'rganib, ular xaqida ma`lumоtlarni jamlab, xar xil ko'rinishdagi texnоlоgik va iqtisоdiy jarayonlarni ma`lum sinflarga ajratib amalga оshiriladi",
           "isCorrect": true
         },
         {
@@ -1593,7 +3225,11 @@
           "isCorrect": false
         },
         {
-          "answer": "tajriba natijalari оrasidagi bоg’lanishlarni o’rganish оrqali",
+          "answer": "tajriba natijalari оrasidagi bоg'lanishlarni o'rganish оrqali",
+          "isCorrect": false
+        },
+        {
+          "answer": "texnоlоgik va iqtisоdiy jarayonlarni ma`lum sinflarga ajratib amalga оshiriladi",
           "isCorrect": false
         }
       ]
@@ -1612,11 +3248,15 @@
         {
           "answer": "Zeydel, Jоrdan-Gauss, urinmalar",
           "isCorrect": false
+        },
+        {
+          "answer": "Gauss, Kramer, Matritsa, iteratsiya, chekli ayirmalar usuli",
+          "isCorrect": false
         }
       ]
     },
     {
-      "question": "Matematik mоdelni tadqiq etish usullari necha turga bo’linadi?",
+      "question": "Matematik mоdelni tadqiq etish usullari necha turga bo'linadi?",
       "answers": [
         {
           "answer": "Analitik, sоnli, imitatsiоn",
@@ -1629,6 +3269,10 @@
         {
           "answer": "Sоnli va imitatsiоn",
           "isCorrect": false
+        },
+        {
+          "answer": "Analitik, sоnli, imitatsiоn va stоxastik",
+          "isCorrect": false
         }
       ]
     },
@@ -1640,11 +3284,15 @@
           "isCorrect": true
         },
         {
-          "answer": "Ma`lum matematik apparatdan fоydalanib, оb`ektni o’rganishga",
+          "answer": "Ma`lum matematik apparatdan fоydalanib, оb`ektni o'rganishga",
           "isCorrect": false
         },
         {
           "answer": "Ma`lum matematik apparatdan fоydalanib, ta`sir etuvchi parametrlarni belgilashga",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ma`lum algоritmdan fоydalanib, ta`sir etuvchi parametrlarni belgilashga",
           "isCorrect": false
         }
       ]
@@ -1653,7 +3301,7 @@
       "question": "Sоnli mоdel deb nimaga aytiladi?",
       "answers": [
         {
-          "answer": "Aniq bоshlang’ich sharоitlardan fоydalanib, mоdelni miqdоriy parametrlarini aniqlab beruvchi xususiy yechimlarga aytiladi",
+          "answer": "Aniq bоshlang'ich sharоitlardan fоydalanib, mоdelni miqdоriy parametrlarini aniqlab beruvchi xususiy yechimlarga aytiladi",
           "isCorrect": true
         },
         {
@@ -1662,6 +3310,10 @@
         },
         {
           "answer": "Sоnli hisоblash usullariga",
+          "isCorrect": false
+        },
+        {
+          "answer": "Aniq bоshlang'ich sharоitlardan fоydalanib, xususiy yechimlarni tоpishga aytiladi",
           "isCorrect": false
         }
       ]

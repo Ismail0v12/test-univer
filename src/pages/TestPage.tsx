@@ -19,6 +19,15 @@ const shuffleArray = <T,>(array: T[]): T[] => {
   return newArray;
 };
 
+// Function to randomly select a specified number of questions
+const getRandomQuestions = <T,>(questions: T[], count: number): T[] => {
+  if (!questions || questions.length === 0) return [];
+  if (questions.length <= count) return [...questions]; // Return all if fewer than requested
+
+  // Shuffle and take the first 'count' questions
+  return shuffleArray(questions).slice(0, count);
+};
+
 const TestPage = () => {
   const { subjectId } = useParams();
   const navigate = useNavigate();
@@ -28,6 +37,9 @@ const TestPage = () => {
   const [showResult, setShowResult] = useState(false);
   const [score, setScore] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
+
+  // Number of questions to randomly select
+  const QUESTIONS_COUNT = 50;
 
   const questionsObject = useMemo(
     () => ({
@@ -47,8 +59,8 @@ const TestPage = () => {
         const currentQuestions = questionsObject[
           subjectId as never
         ] as unknown as KTTQuestion[];
-        console.log(currentQuestions);
 
+        // Format all questions
         const formattedQuestions = currentQuestions?.map((q, index) => ({
           id: index + 1,
           subjectId: 2,
@@ -62,7 +74,12 @@ const TestPage = () => {
           ),
         }));
 
-        setQuestions(formattedQuestions);
+        // Get random questions (up to 50)
+        const randomQuestions = getRandomQuestions(
+          formattedQuestions,
+          QUESTIONS_COUNT
+        );
+        setQuestions(randomQuestions);
       } catch (error) {
         console.error("Error loading questions:", error);
       } finally {
